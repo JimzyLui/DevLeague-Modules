@@ -82,6 +82,6 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [Pug Documentation](http://jade-lang.com/)
 - Concepts: *Pug Templating Basics*
 
-#### Express Tempalating Docs
+#### Express Templating Docs
 - Link: [Express Tempating Engine Docs](http://expressjs.com/en/advanced/developing-template-engines.html)
 - Concepts: *Express Tempating Engine Basics*
