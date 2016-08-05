@@ -39,6 +39,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. Discuss it's importance in modern web app architecture
   1. Check out XHR requests being made on common web apps in the Chrome Dev Tools
 1. Present **Asynchronous HTTP Requests - XHR** Slideshow: [Asynchronous HTTP Requests - XHR](http://slides.com/joecarlson/xhr)
+1. Discuss Fetch API and how it differs from XHR
 1. Livecode *Makeing a XHR request* with the class - make sure everyone can make a simple XHR request
 1. Assign **Rebirth of Reddit**: [Rebirth of Reddit](https://github.com/devleague/rebirth-of-reddit)
 1. [Optional] Assign **Fastenate**: [Fastenate](https://github.com/devleague/fastenate)
@@ -114,6 +115,9 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [XMLHttpRequest MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest?redirectlocale=en-US&redirectslug=DOM%2FXMLHttpRequest)
 - Concepts: *XHR basics*, and *XHR Usage*
 - Notes: Official MDN documentation on XHR
+
+#### Fetch API
+- Link: [Fetch API MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 #### Common HTTP Status Codes
 - Link: [Common HTTP Status Codes](https://github.com/devleague/DevLeague-Modules/blob/master/XHR/commonHTTPStatusCodes.md)
