@@ -28,7 +28,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 - What a Request Header is [grok]
 - What JSON is [grok]
 - What XML is [about]
-- Cross-origin resource sharing (CORS)
+- Cross-origin resource sharing (CORS) [about]
 - Basics of HTTP [about]
   - HTTP works as a request-response protocol between a client and server.
 
@@ -116,7 +116,7 @@ The following exercises and projects state an average time alotted. A session is
 - Notes: Official MDN documentation on XHR
 
 #### Common HTTP Status Codes
-- Link: [Common HTTP Status Codes](TODO)
+- Link: [Common HTTP Status Codes](https://github.com/devleague/DevLeague-Modules/blob/master/XHR/commonHTTPStatusCodes.md)
 - Concepts: *Setting HTTP request headers*, and *HTTP*
 
 #### Common HTTP Status Codes
