@@ -44,40 +44,138 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 # Suggested Format for Delivery
 1. Intro Hoisting (half-day)
-  - present slides (currently in js-basics, should be decoupled?)
-  - **notes:** Hositing - It was helpful to have two sublime windows open. One window should the code typed, and in the other we show how the compiler converts our code by hoisting variables and functions.
+  - present slides https://github.com/devleague/js-basics (decouple hoisting from js-basic slide)
 
-2. Closures and Module Pattern
-  - present slides
-    - closure slides
-    - object-literals-and-ze-module-pattern slides
-  - **notes: ** A lot of abstractions in this section and live-coding and having the students drive the conversation can help ease students into topic.
-  - Assign https://github.com/devleague/js-calculator
-    - Stretch Goals: Code review, History of computations,
-  - Additional assignments:
+1. Arrays (sans functional-methods)
+  - present slides https://github.com/devleague/slides-js-arrays
+  - assign https://github.com/devleague/array-methods
+
+1. Closures and Module Pattern
+  - present slides https://github.com/devleague/slides-js-closures
+  - present slides https://github.com/devleague/slides-js-objects-module-patterns
+  - assign https://github.com/devleague/js-calculator
+  - assign assignments:
     - https://github.com/devleague/Secret-Number-Generator
+    - https://github.com/devleague/The-Vault
     - https://github.com/devleague/foreclosure
 
-3. Arrays (sans functional-methods)
-  - present slides http://slides.com/jasonsewell/h-ooa-rray
-  - assign https://github.com/devleague/array-methods
-  - additional assignments: let students catch up on previous day's work, offer reviews, refactor with stretch goals
+1. Chrome Dev Tools - Debugging with Source Tab
+  - present slides https://github.com/devleague/slides-debugging-in-browser
+  - assign https://github.com/devleague/Cash-Register
+    - notes: This project can span a few days.
+    - topics: closures, modules, adds complexity of browser environment.
 
-4. Chrome Dev Tools - Debugging with Source Tab
-  - present slides http://slides.com/joecarlson/debugging-in-browser#/
-  - assign https://github.com/devleague/Cash-Register (refresher on closures, modules, adds complexity of browser environment) This project can span a few days.
+1. Context
+  - present https://github.com/devleague/slides-js-this
 
-5. Context
-  - present http://slides.com/joecarlson/like-this-and-like-that-30#/
-
-6. Call, apply, bind
-  - present http://slides.com/joecarlson/call-apply-bind-oh-my#/
+1. Call, apply, bind
+  - present slides https://github.com/devleague/slides-js-call-apply-bind
   - assign https://github.com/devleague/Context-Exercise (needs more work)
-  - **Additional References:** http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 
-7. Linked Lists
+1. Linked Lists
   - present http://slides.com/jasonsewell/linked-lists#/
   - assign https://github.com/devleague/js-linked-list
-  - **additional refs:**
-    - https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists
-    - http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html
+
+# Slides & Examples
+
+#### Hoisting
+- Link: [https://github.com/devleague/js-basics (decouple hoisting from js-basic slide)](https://github.com/devleague/js-basics)
+- Time needed to present: 1 hour 30 minutes
+- Type: **Slideshow**
+- Notes: It was helpful to have two sublime windows open. One window should the code typed, and in the other we show how the compiler converts our code by hoisting variables and functions. With additional resources, this can also be a soft-exercise after to help reinforce the topic.
+
+#### Array
+- Link: [https://github.com/devleague/slides-js-arrays](https://github.com/devleague/slides-js-arrays)
+- Time needed to present: 1 hour
+- Type: **Assignment**
+- Notes: Workshop style works well.
+
+#### Closures
+- Link: [https://github.com/devleague/slides-js-closures](https://github.com/devleague/slides-js-closures)
+- Type: **Slideshow**
+- Time needed to present: 45 minutes
+- Notes: A lot of abstractions in this section and live-coding and having the students drive the conversation can help ease students into topic.
+
+#### Module Pattern
+- Link: [https://github.com/devleague/slides-js-objects-module-patterns](https://github.com/devleague/slides-js-objects-module-patterns)
+- Type: **Slideshow**
+- Time needed to present: 1 hour
+- Notes: A lot of abstractions in this section and live-coding and having the students drive the conversation can help ease students into topic.
+
+#### JS Calculator exercise
+- Link: [https://github.com/devleague/js-calculator](https://github.com/devleague/js-calculator)
+- Type: **Assignment**
+- Average Time Alotted: 1 session
+- Stretch Goals: Code Review, History of Calculations, etc.
+
+#### Secret Number Generator exercise
+- Link: [https://github.com/devleague/Secret-Number-Generator](https://github.com/devleague/Secret-Number-Generator)
+- Type: **Assignment**
+- Average Time Alotted: < 1 session
+
+#### The Vault exercise
+- Link: [https://github.com/devleague/The-Vault](https://github.com/devleague/The-Vault)
+- Type: **Assignment**
+- Average Time Alotted: < 1 session
+
+#### Foreclosure exercise
+- Link: [https://github.com/devleague/Secret-Number-Generator](https://github.com/devleague/Secret-Number-Generator)
+- Type: **Assignment**
+- Average Time Alotted: > 1 session over few days. **OK** to lecture on different topics but have students come back to this.
+- Notes: This assignment is the hardest and should be assigned last.
+
+#### Array Methods exercise
+- Link: [https://github.com/devleague/array-methods](https://github.com/devleague/array-methods)
+- Average Time Alotted: < session
+- Type: **Assignment**
+
+#### Chrome Dev Tools - Source Tab
+- Link: [https://github.com/devleague/slides-debugging-in-browser](https://github.com/devleague/slides-debugging-in-browser)
+- Type: **Slideshow**
+- Time needed to present: 1 hour 30 minutes
+
+#### Cash Register exercise
+- Link: [https://github.com/devleague/Cash-Register](https://github.com/devleague/Cash-Register)
+- Type: **Assignment**
+- Average Time Alotted: > 1 session
+- Notes: Adds DOM complexity.
+
+#### Context
+- Link: [https://github.com/devleague/slides-js-this](https://github.com/devleague/slides-js-this)
+- Type: **Slideshow**
+- Time needed to present: 45 minutes
+
+#### Call, Apply, Bind
+- Link: [https://github.com/devleague/slides-js-call-apply-bind](https://github.com/devleague/slides-js-call-apply-bind)
+- Type: **Slideshow**
+- Time needed to present: 45 minutes
+
+#### Linked Lists
+- Link: [http://slides.com/jasonsewell/linked-lists#/](http://slides.com/jasonsewell/linked-lists#/)
+- Type: **Slideshow**
+- Time needed to present: 1 hour
+
+#### Linked Lists exercise
+- Link: [https://github.com/devleague/js-linked-list](https://github.com/devleague/js-linked-list)
+- Type: **Assignment**
+- Average Time Alotted: 2 sessions
+- Notes: Aim for a Friday assignment so that students can have a full day Saturday to work on this and then Monday
+
+# Additional Resources
+
+#### Hoisting
+
+#### Closures
+
+#### Module Pattern
+
+#### Arrays (sans functional methods)
+
+#### Chrome Dev Tools - Source Tab
+
+#### Context, and Call, apply, bind
+
+#### Linked Lists
+- [https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists](https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists)
+- [http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html](http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html)
+
