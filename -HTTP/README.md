@@ -57,14 +57,14 @@ The following exercises and projects state an average time alotted. A session is
 - Repository: [https://github.com/devleague/HTTP-Socket-Server](https://github.com/devleague/HTTP-Socket-Server)
 - Average Time Alotted: 6 sessions
 - Individual or Group: Individual
-- Completed Example: [#](google.com)
+- Completed Example: [#](https://www.google.com/)
 - Concepts Practiced: Node.js, net-module, HTTP request/rsponse headers, client and server communication
 
 #### Elemental HTTP Server
 - Repository: [https://github.com/devleague/Elemental-HTTP-Server](https://github.com/devleague/Elemental-HTTP-Server)
 - Average Time Alotted: 6 sessions
 - Individual or Group: Individual
-- Completed Example: [#](google.com)
+- Completed Example: [#](https://www.google.com/)
 - Concepts practiced: HTTP request/response headers, HTTP request methods, CRUD, HTTP-module, Node.js
 
 # Additional Practices
