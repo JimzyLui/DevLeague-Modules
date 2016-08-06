@@ -89,8 +89,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ## Work
 - [js-basics](https://github.com/devleague/js-basics)
-- [js-functions](https://github.com/devleague/js-functions
-)
+- [js-functions](https://github.com/devleague/js-functions)
 
 ## Additional Resources
 * [Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
