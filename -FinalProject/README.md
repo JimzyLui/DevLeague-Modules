@@ -75,6 +75,23 @@ The following are not rules, but suggestions based on previous successful final 
 - [data.hawaii.gov](https://data.hawaii.gov/)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   - shaka brah.
+- [r/internetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [r/dataIsBeautiful](https://www.reddit.com/r/dataIsBeautiful/)
+- [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
+
+## Previous DevLeague Final Projects
+- [Lane Wins](http://lanewins.com/)
+- [U Hero](http://uhero.devleague.com/)
+- [Electric Vehicle Evaluator (EVE)](http://eve.devleague.com/)
+- [Hi Viz](http://hiviz.io/)
+- [TEDx Honolulu](https://play.google.com/store/apps/details?id=com.devleague.tedx)
+- [Pharmers Market](https://github.com/bbishop777/farmers_market_mobile)
+- [District Crimes](https://github.com/cleong14/districtcrimes)
+- [Must Stash](https://github.com/Must-Stash/Must-Stash-Server)
+- [Bike Share Hawaii](http://ridehawaii.us/)
+- [Eat This](https://github.com/devleague/eat-this)
+- [Snap Down](https://github.com/devleague/SnapDown)
+- [Polidex](http://polydex.devleague.com/)
 
 ## Misc.
 More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead the data exists as an excel spreadsheet somewhere on the web.

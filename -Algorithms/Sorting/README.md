@@ -41,6 +41,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. Sort a sample data set on the whiteboard for the class - show how it works before digging into the algorithm
 1. Have the students implement bubblesort on their own
 1. Check in, verify they understand Bubble Sort by having them whiteboard the algorithm to others in a small group.
+1. Show Hungarian Bubble Sort Video [Hunagrian Bubble Sort](https://www.youtube.com/watch?v=lyZQPjUT5B4)
 1. Intro Quick Sort (whiteboard)
 1. [Quick Sort](https://github.com/devleague/slides-quicksort)
 1. Have the students implement Quick Sort on their own
@@ -64,6 +65,14 @@ their solution in small groups
 
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### Bubble Sort Assignment
+- Repository: [Bubble Sort](https://TODO)
+- Average Time Alotted: 1 sessions
+- Individual or Group: Individual Exercise
+- Completed Examples:
+  - [Bubble Sort Completed](https://github.com/JoeKarlsson1/data-structures/blob/master/sorting-algorithms/bubblesort.js)
+- Concepts Practiced: *Bubble Sort*
 
 #### Sorting Algorithms Assignment
 - Repository: [Sorting Algorithms Assignment](https://github.com/devleague/DevLeague-Modules/blob/master/Algorithms/Sorting/SORTING.md)
