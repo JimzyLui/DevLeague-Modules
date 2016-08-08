@@ -1,5 +1,7 @@
 # Graph Traversing/Searching Algorithms
 
+## Introduction to Breath-first Search and Depth-first Search
+
 ## Pre-Requisites
 This material should come after **linked lists** and **sorting algorithms**. This module is optional and should be covered if students are preparing for a interview at a large technology company.
 
