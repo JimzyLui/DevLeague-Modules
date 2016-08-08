@@ -35,14 +35,15 @@ The final project is the capstone project for DevLeague students. It's purpose i
 
 Pick 2 or more
 
-## Rough Timeline of Events
-|   Day 1  |   Day 2  |   Day 3  |   Day 4  |   Day 5  |   Day 6  |   Day 7  |
-|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Project Kickoff | Work day | Work day | Work day | Work day | Work day | Work day |
+# Suggested Format for Delivery
+The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
-|   Day 8  |   Day 9  |   Day 10  |   Day 11  |   Day 12  |   Day 13  |   Day 14  |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Work day | Work day | Work day | Work day | Deployment Workshop | Work day | Final day |
+1. Introduce the final Project
+1. Brainstorm ideas for the final project
+  1. Vet out projects ideas by doing research and building out sample projects
+1. Split into groups and start building out final projects
+1. Near the end of the project, cover Deployment
+1.
 
 ## Topics that need to covered during the final project
 * Project Management Workflows
@@ -77,21 +78,22 @@ The following are not rules, but suggestions based on previous successful final 
   - shaka brah.
 - [r/internetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [r/dataIsBeautiful](https://www.reddit.com/r/dataIsBeautiful/)
+- [r/DataVizRequests](https://www.reddit.com/r/DataVizRequests)
 - [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
 
 ## Previous DevLeague Final Projects
+- [Hi Viz](http://hiviz.io/)
 - [Lane Wins](http://lanewins.com/)
 - [U Hero](http://uhero.devleague.com/)
 - [Electric Vehicle Evaluator (EVE)](http://eve.devleague.com/)
-- [Hi Viz](http://hiviz.io/)
 - [TEDx Honolulu](https://play.google.com/store/apps/details?id=com.devleague.tedx)
-- [Pharmers Market](https://github.com/bbishop777/farmers_market_mobile)
 - [District Crimes](https://github.com/cleong14/districtcrimes)
 - [Must Stash](https://github.com/Must-Stash/Must-Stash-Server)
 - [Bike Share Hawaii](http://ridehawaii.us/)
 - [Eat This](https://github.com/devleague/eat-this)
 - [Snap Down](https://github.com/devleague/SnapDown)
-- [Polidex](http://polydex.devleague.com/)
+- [Polidex](https://github.com/devleague/polidex)
+- [Pharmers Market](https://github.com/bbishop777/farmers_market_mobile)
 
 ## Misc.
 More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead the data exists as an excel spreadsheet somewhere on the web.
