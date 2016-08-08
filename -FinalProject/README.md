@@ -79,6 +79,7 @@ The following are not rules, but suggestions based on previous successful final 
 - [r/internetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [r/dataIsBeautiful](https://www.reddit.com/r/dataIsBeautiful/)
 - [r/DataVizRequests](https://www.reddit.com/r/DataVizRequests)
+- [r/Datasets](https://www.reddit.com/r/datasets/)
 - [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
 
 ## Previous DevLeague Final Projects
