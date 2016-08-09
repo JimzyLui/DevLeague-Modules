@@ -43,7 +43,6 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. Vet out projects ideas by doing research and building out sample projects
 1. Split into groups and start building out final projects
 1. Near the end of the project, cover Deployment
-1.
 
 ## Topics that need to covered during the final project
 * Project Management Workflows
