@@ -16,17 +16,48 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-#### Defining Classes
-- Students should **fully grok** "Defining Classes."
-- Students should know how to define Classes in ES5.
-- Students should know how to define Classes in ES6.
+- Transpiling [explain]
+  - Students should understand how `Babel` fits into their workflow and how to use it.
+- Block-Scoped Declarations [grok]
+  - `let` declarations [grok]
+    - Students should be able to **grok** when `let` should be used.
+  - `const` declarations [grok]
+    - Students should be able to **grok** when `const` should be used.
+- Spread / Rest [explain]
+  - Object spreads [explain]
+  - Arrays spreads [explain]
+- Object Destructuring [about]
+  - Object Property Assignment Pattern
+  - Destructuring parameters
+- Object Literal extentions [explain]
+- Default Value Assignment [about]
+- Template Literals [explain]
+- Arrow Functions [grok]
+  - Not just for syntax, But `this`
+- Symbols [about]
+- Modules [explain]
+  - The old way - `Revealing Module Pattern`
+  - The new way - `export` and `import`
+- Classes [grok]
+  - See OOP module
+-Async Flow Control [explain]
+  - Promises [explain]
+  - Generators [about]
+    - Syntax [about]
+      - `yeild`
+      - `next()`
+- Collections [explain]
+ - Maps [explain]
+ - Sets [explain]
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
 1. Introduce ES6 [talk]
   1. Talk about the history of JS and why we use
-1. Check in with students and their understanding of **Constructors**, **Inheritence**, and **Super calls** (talk)
+1. Present **ES6 Plus** Slideshow: [ES6 Plus Slides](http://slides.com/joecarlson/es6)
+1. Assign **ES6 Portfolio Piece Refactor**
+1. Check in with students and their understanding of **ES6**, **Major ES^ concepts** (talk)
 1. Verify that students have met the minimum required understanding before moving on.
 
 # Slides & Examples
@@ -52,3 +83,48 @@ The following exercises and projects state an average time alotted. A session is
 #### You Dont Know JS - es6 & beyond
 - Link: [You Dont Know JS - es6 & beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - Notes: Great book covering ES6 and beyond
+
+#### ECMAScript 2015 (ES6) and beyond - Node.js
+- Link: [ECMAScript 2015 (ES6) and beyond - Node.js](https://nodejs.org/en/docs/es6/)
+- Notes: Great book covering ES6 and beyond
+
+#### Node.js ES2015 Support Page
+- Link: [Node.js ES2015 Support Page](http://node.green/)
+- Notes: Great book covering ES6 and beyond
+
+#### Mozilla ES6 Plans
+- Link: [Mozilla ES6 Plans](https://wiki.mozilla.org/ES6_plans)
+- Notes: Great book covering ES6 and beyond
+
+#### Map - MDN
+- Link: [Map - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+
+#### Set - MDN
+- Link: [Set - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+
+#### Let - MDN
+- Link: [Let - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+
+#### Const - MDN
+- Link: [Const - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+
+#### Arrow Functions - MDN
+- Link: [Arrow Functions - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+#### Template Literals - MDN
+- Link: [Template Literals - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+#### Destructuring Assignment - MDN
+- Link: [Destructuring Assignment - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+#### Spread - MDN
+- Link: [Spread - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+#### Import - MDN
+- Link: [Import - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
+#### Promise - MDN
+- Link: [Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/API/PromiseRejection/promise)
+
+#### Generaor - MDN
+- Link: [Generaor - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
