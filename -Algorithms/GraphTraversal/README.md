@@ -21,6 +21,8 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Graphs
 - Students should be able to explain what a graph is.
 - Students should be able to whiteboard a graph implementation.
+- Students should be able to explain Nodes.
+- Students should be able to explain Edges.
 
 #### Breadth-first search (BFS)
 - Students should be able to whiteboard Breadth-first search
@@ -50,6 +52,15 @@ Students will have *one of three* levels of understanding about each topic upon 
   |Worst case performance      |`O(|E|)`         |
   |Worst case space complexity |`O(|V|)`         |
 
+# Exercises & Projects
+The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### Graph Traversal Implementation
+- Repository: [Graph Traversal Implementation](https://github.com/devleague/js-graph-traversal)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [Completed Graph Traversal Implementation](https://github.com/JoeKarlsson1/data-structures/tree/master/search-algorithms)
+- Concepts Practiced: *stacks*, *graphs*, and *search*
 
 # Slides & Examples
 
