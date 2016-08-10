@@ -7,6 +7,7 @@ This material should come after **day0** module and definitely before **OOP**. S
 This material covers the first week of Dev League. Each day is introduced to at least one new topic with exercises for reinforcement. Each lecture and assignment should upon the previous day's topic.
 
 ## Topics & Expected Outcomes
+This module covers the basics of programming with Javascript along with some core concepts, design patterns, and work flow tools. Students are expected to use these concepts throughout the course which will further enforce their understanding as they move through the modules ahead.
 
 #### Levels of Understanding
 Students will have *one of three* levels of understanding about each topic upon completion of this module.
@@ -176,6 +177,6 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Context, and Call, apply, bind
 
 #### Linked Lists
-- [https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists](https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists)
-- [http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html](http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html)
+- https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists
+- http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html
 
