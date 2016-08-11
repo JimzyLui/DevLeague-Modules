@@ -17,9 +17,47 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
+#### JavaScript REPLs
+- Student's should **grok** of the ways to run JavaScript.
+  - Live code each way:
+    - node REPL
+    - Node source file
+    - Chrome JavaScript console
+    - HTML script tag
+    - Web REPL
+
+#### JavaScript Operators
+- Student's should be able to *grok* all fo the operators available in JavaScript.
+  - Arithmetic operators
+  - Assignment operators
+  - Comparison and Logic Operators
+
+#### Variables
+- Student's should be able to **grok** variables.
+
+#### Primitive Data Types
+- Student's should be able to **grok** Primitive Data Types.
+
+#### JavaScript Objects
+- Student's should be able to **grok** JavaScript Objects.
+- EVERYTHING IS AN OBJECT
+- Student's should be able to **grok** accessing object values.
+
+#### Functions
+- Student's should be able to **grok** Functions.
+- Student's should be able to **grok** invoking functions.
+- Student's should be able to **grok** arguements and parameters.
+
 #### Hoisting
 - Students should be able to **explain** why hoisting is done by the interpreter.
 - Recommended: Given any Javascript code snippet, the student should be able to produce on a whiteboard what the "hoisted" code may look like.
+
+#### Throwing Errors
+- Student's should be able to **grok** Throwing Errors.
+
+#### Strict Mode
+- Student's should be able to **grok** Strict Mode.
+- Student's should be able to **explain** why we use strict mode and it's benifits.
 
 #### Closures
 - Students should be able to **explain** closures.
@@ -74,8 +112,7 @@ Students will have *one of three* levels of understanding about each topic upon 
   - assign https://github.com/devleague/Context-Exercise (needs more work)
 
 1. Linked Lists
-  - present http://slides.com/jasonsewell/linked-lists#/
-  - assign https://github.com/devleague/js-linked-list
+  - See [Linked Lists Module](https://github.com/devleague/DevLeague-Modules/tree/master/Algorithms/LinkedLists) for slides and assignments.
 
 # Slides & Examples
 
@@ -175,8 +212,3 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Chrome Dev Tools - Source Tab
 
 #### Context, and Call, apply, bind
-
-#### Linked Lists
-- https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists
-- http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html
-
