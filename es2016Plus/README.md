@@ -23,6 +23,8 @@ Students will have *one of three* levels of understanding about each topic upon 
     - Students should be able to **grok** when `let` should be used.
   - `const` declarations [grok]
     - Students should be able to **grok** when `const` should be used.
+- Arrow Functions [grok]
+  - Not just for syntax, But `this`
 - Spread / Rest [explain]
   - Object spreads [explain]
   - Arrays spreads [explain]
@@ -32,8 +34,6 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Object Literal extentions [explain]
 - Default Value Assignment [about]
 - Template Literals [explain]
-- Arrow Functions [grok]
-  - Not just for syntax, But `this`
 - Symbols [about]
 - Modules [explain]
   - The old way - `Revealing Module Pattern`
@@ -56,8 +56,9 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Introduce ES6 [talk]
   1. Talk about the history of JS and why we use
 1. Present **ES6 Plus** Slideshow: [ES6 Plus Slides](http://slides.com/joecarlson/es6)
-1. Assign **ES6 Portfolio Piece Refactor**
-1. Check in with students and their understanding of **ES6**, **Major ES^ concepts** (talk)
+1. Assign **ES6 Practice Problems**: [ES6 Practice](https://github.com/devleague/es6-Practice)
+1. Check in with studen
+1. Assign **ES6 Portfolio Pts and their understanding of **ES6**, **Major ES^ concepts** (talk)
 1. Verify that students have met the minimum required understanding before moving on.
 
 # Slides & Examples
@@ -69,6 +70,13 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### ES6 Practice Problems
+- Repository: [ES6 Practice](https://github.com/devleague/es6-Practice)
+- Average Time Alotted: 1 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: N/A
+- Concepts Practiced: *ES6 Constructors*, *ES6 Instance Properties*, *Scope Variables*, *ES6 Super Call*, *Maps*, *Sets* and *Exporting and Importing Modules*
 
 #### ES6 Portfolio Piece Refactor
 - Repository: Any portfolio project [Express Galley, Kanban, etc...]
@@ -128,3 +136,17 @@ The following exercises and projects state an average time alotted. A session is
 
 #### Generaor - MDN
 - Link: [Generaor - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+
+1. [Learn Harmony](http://learnharmony.org)
+1. [ECMAScript 6 — Feature Overview & Comparison](http://es6-features.org/)
+1. [ES6 Katas](http://es6katas.org/)
+1. [Babel](https://babeljs.io)
+1. [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+1. [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+1. [ES6 Fiddle](http://www.es6fiddle.net/)
+1. [ECMAScript 6 Resources For The Curious JavaScripter](http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/)
+1. [ES6 what can be shimmed and what not.](https://gist.github.com/Raynos/1665192)
+1. [EcmaScript Sixth Edition Overview](http://espadrine.github.io/New-In-A-Spec/es6/)
+1. [JSFixed](https://github.com/JSFixed/JSFixed/issues) - share your feelings, loves, hates, proposals on ES.next
+1. [es-discuss](https://mail.mozilla.org/listinfo/es-discuss) - Discussion of ECMAScript
+1. [Airbnb Javascript Style Guide for ES6](https://github.com/airbnb/javascript)
