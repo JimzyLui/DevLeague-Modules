@@ -60,7 +60,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Recursion can be pure, and involves calling functions within it's self.
   - **Note** Recursion is a challenging subject for newbies
 1. Present **Recursion** Slideshow: [Recursion](http://slides.com/joecarlson/recursion#/)
-1. Live Code **Recursion**: [TODO](TODO)
+1. Live Code **Recursion**: [Recursion Live Coding Example](https://github.com/devleague/DevLeague-Modules/blob/master/FunctionalProgramming/recursionLiveCodingDemo.js)
   - **Note**: Be sure to go through lots of examples with the call stack in Chrome Dev Tools to help illustrate how the call stack works with recursion. I have seen that this really helps students better understand recurison.
 1. Assign **Chirp Chirp**: [Chirp Chirp](https://github.com/devleague/chirp-chirp)
 1. Assign **Recursive Tree Traversal**: [Recursive Tree Traversal](https://github.com/devleague/recursive_tree_traversal)
