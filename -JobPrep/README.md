@@ -4,66 +4,81 @@
 This material should come after student's have completed or come close to completing their **final projects**. This module is intended to help students find a job after they have completed the core technical components of DevLeague.
 
 ## Class Format / Time to Allow for Subject
-This material usually takes 1 full day to introduce and up to a week's worth of exercises and reinforcement.
+This material usually takes 1 full day to introduce and up to a week's worth of exercises and reinforcement. Student's are expected to keep working on this material after they graduate from the program until they find their first job.
 
 ## Topics & Expected Outcomes
 
-#### Levels of Understanding
-Students will have *one of three* levels of understanding about each topic upon completion of this module.
-- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.
-- **explain**: understand enough about the topic to describe concepts without referring to notes.
-- **know about**: understand enough to look up further documentation when asked about the subject.
+1. Introduce career and job opportunities upon immediately graduating DevLeague
+  - Junior Developer
+    - Discuss job duties and expectations of you from a typical employeer
+    - Discuss fair pay and equity
+    - It's okay to say "I don't know". Just follow it up with "..., but I can find out for you."
+1. Technical Interviews - Discuss how to get prepared for a typical Technical Interview
+  - **Know yourself and the potential employer** - spend time thinking about your goals, talents, skills, abilities, and experiences (what positive stories can you tell).
+  - **Research before you go** - find literature or information online about the organization and its products so you are well informed.
+  - **Create Your Elevator Speech** - prepare a 2-5 minute sales pitch about yourself and rehearse with a friend or family.
+  - **Make a list of 5 questions to ask the interviewer about the organization and/or the position.**
+  - **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution outloud. You will look crazy talking to yourself, this is okay.
+  - **Review Algorithms** - Sorting algorithms, Linked Lists, Red Black trees, Search algorithms, etc.
+  - **Review Concepts** - Review vocab, design patterns, frameworks, libraries
+  - **Practice coding problems** - Practice solving code interview style questions from [Hacker Rank](https://www.hackerrank.com/), [Coder Byte](https://coderbyte.com/), [Code Wars](http://www.codewars.com/), and [Project Euler](https://projecteuler.net/). Try setting time limits for yourself, or solving them on a whiteboard
+  - **Look sharp** :sparkles:
+1. Discuss Resumes and Poirtfolios
+  - Start prepping your portfolio right after you graduate
+  - Github is your portfolio until you get 3 to 5 professional projects under your belt.
+  - Get yoru resume prepped with the [DevLeague resume outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing).
+1. Discuss how to get a job after they graduate from DevLeague.
+  - Start prepping for interviews **today**
+      - Prepare your answers now for normal interview questions
+      - Record yourself answering questions
+  - Do homework on your employer before you interview
+  - Look sharp
+  - You are not worth your salary at your previous job, you are worth the value you add at your new job
+  - Network and hustle
+  - No one cares about what you want - tell people what you can provide for them.
+     - You can learn some really hard skills really fast
+1. Discuss freelancing as an option:
+  - Never do a website for free - charge something - you are bringing the whole dev community down when you do work for freelancing
+  - Educate your clients
+  - Always charge something
+  - Have a contract it - it protects you and you client (Trust me)
+  - Get paid up front
+  - Sole Proprietorship vs LLC
+  - Know how to draft up a contract
+  - Managing yoruself
+  - What do you do if something goes bad?
+1. Discuss equity and salary
+  - What's fair market price for your new skills?
+1. Discuss what to do after a student graduates from DevLeague.
+  - DO NOT GIVE UP ON STUDYING
+  - WRITE CODE ALL THE TIME
+  - Be sure to ask DevLeague alumni and instructors technical questions on Slack.
+  - Come to hackathons and Devleague events
+  - Support past and future students
+  - Stay is touch with your cohort mates and DevLeague - Expand your network
 
----
+# Suggested Format for Delivery
+The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
-* DO NOT GIVE UP ON STUDYING
-* WRITE CODE ALL THE TIME
-* Be sure to ask us questions on Slack.
-* Come to hackathons/DL events
-* Support past and future students
-* Stay is touch with your cohort mates and DevLeague - Expand your network
-
-### How to Get a job
-* Start prepping your portfolio right after you graduate
-    * GH is your portfolio until you get 3 to 5 professional projects
-* Start prepping for interviews
-    * Prep your answers
-    * Record yourself answering questions
-* Do homework on your employer before you interview
-* Look sharp
-* You are not worth your salary at your previous job, you are worth the value you add at your new job
-* Network and hustle
-* Never do a website for free - charge something - you are bringing the whole dev community down when you do work for free
-* No one cares about what you want - tell people what you can provide for them.
-   * You can learn some really hard skills really fast
-
-### You got an offer now what?
-* Negotiate perks
-    * work from home
-    * Vacation
-    * parking
-    * Benefits
-
-### Freelancing Tips:
-* Educate your clients
-* Always charge something
-* Have a contract it - it protects you and you client
-* Get paid up front
-* Sole Proprietorship vs LLC
-
+1. Discuss the Job Preperation concepts outlined above.
+  - This topics can be covered at any point during the course, but they should all be covered by the time the students graduate. Most if it will should be covered the weeks preceeding graduation.
+1. Perform Mock Interviews with each student
+1. Present **Equity and Negotiating** talk with Russell.
+1. Have the students submit their resumes for review from our team
+1. If students are preparing for interviews at big tech companies, cover common data structures and algorithms that were not covered in the core curriculum
+1. Have each student fill out the [DevLeague Course Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdigqivbhLeaoeSvr2lfXf5pgiLtqvWWv7QrhAAp8ZGP2Y00g/viewform)
+1. Graduate
+1. PROFIT!
 
 # Additional Resources
 
-#### OOP in Javascript
-- Link: [http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- Concepts: *something*, *something*, and *something*
-- Notes: Write why this resource is included.
-
-- https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.a94agj415:
-* [Equity for Startups](https://gist.github.com/isaacsanders/1653078)
-* [Equity Compensation information for Startups](https://github.com/jlevy/og-equity-compensation)
-* [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-* [LLC vs Sole Proprietorship](http://info.legalzoom.com/llc-vs-sole-proprietorship-4342.html)
-* [Angel List](https://angel.co/)
-* [500 Miles](http://www.500miles.io/)
-* [Glassdoor](https://www.glassdoor.com/)
+- [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.a94agj415:)
+- [DevLeague resume Outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing)
+- [Equity for Startups](https://gist.github.com/isaacsanders/1653078)
+- [Equity Compensation information for Startups](https://github.com/jlevy/og-equity-compensation)
+- [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+- [LLC vs Sole Proprietorship](http://info.legalzoom.com/llc-vs-sole-proprietorship-4342.html)
+- [Angel List](https://angel.co/)
+- [500 Miles](http://www.500miles.io/)
+- [Glassdoor](https://www.glassdoor.com/)
+- [The Beginner’s Guide to Freelance](https://medium.com/code-like-a-girl/the-beginners-guide-to-freelance-ed89c4051c26#.81bsk1f9a)

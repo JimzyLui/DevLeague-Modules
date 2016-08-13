@@ -10,13 +10,14 @@ We usually debrief in small groups (groups of 4 with whom we observed), and then
 We often use a guideline like “everyone speaks once before anyone speaks twice” or “three before me” to help balance air time and hear from everyone.
 
 ### DevLeague Feedback
-* What did you like about DL?
-* What was easier/harder than you expected?
-* What would you want to change about DL?
-* What advice would you give to  yourself before you started DL?
-* What are you excited/nervous about now that DL is over?
-* What do you wish we had covered in DL?
-* What kinds of jobs are you interested in going for?
-* What is your dream Dev job?
-* Would you recommend DL to your friends?
-* How have your goals changed since you first come to DL?
+
+- What did you like about DL?
+- What was easier/harder than you expected?
+- What would you want to change about DL?
+- What advice would you give to  yourself before you started DL?
+- What are you excited/nervous about now that DL is over?
+- What do you wish we had covered in DL?
+- What kinds of jobs are you interested in going for?
+- What is your dream Dev job?
+- Would you recommend DL to your friends?
+- How have your goals changed since you first come to DL?
