@@ -69,3 +69,12 @@ The following exercises and projects state an average time alotted. A session is
 #### Linked Lists on Kahn Academy
 - Link: [Khan Academy Algorithms Couse](https://en.wikipedia.org/wiki/Linked_list)
 - Concepts: *Linked List Basics*
+
+#### What's the differnce between Array's and Linked Lists?
+- Link: [What's the differnce between Array's and Linked Lists?](https://www.quora.com/What-are-the-differences-between-arrays-and-linked-lists
+- http://www.i-programmer.info/programming/)
+
+#### Linked Lists on Kahn Academy
+- Link: [Khan Academy Algorithms Couse](https://en.wikipedia.org/wiki/Linked_list)
+- Concepts: *Linked List Basics*
+
