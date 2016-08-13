@@ -13,8 +13,8 @@ Introduce Git Flow
 - git flow feature
 - git flow release
 - git flow hotfix
-Demonstrate and Explain Git Flow branching on single repo strategy
-Demonstrate and Explain Git Flow forking strategy
+[teach] Demonstrate and Explain Git Flow branching on single repo strategy
+[teach] Demonstrate and Explain Git Flow forking strategy
 - git flow publish
 Introduce GUI tools
 - introduce alternatives
