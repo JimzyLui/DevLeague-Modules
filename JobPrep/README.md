@@ -14,7 +14,7 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
     - Discuss fair pay and equity
     - It's okay to say "I don't know". Just follow it up with "..., but I can find out for you."
 1. Technical Interviews - Discuss how to get prepared for a typical Technical Interview
-  - Do not regurgitate DevLeague marketign materials during an interview. Most interviewers do not care about the program you went through, they care about what you can immediately bring to their team/company.
+  - Do not regurgitate DevLeague marketing materials during an interview. Most interviewers do not care about the program you went through, they care about what you can immediately bring to their team/company.
   - Focus on your ability to learn new technical concepts quickly - Companies want Junior Develoeprs that can get up to speed as quickly as possible with as little as possible assistance.
   - A technical interview question can be solved utilizing a five step approach:
     1. Ask your interviewer questions to resolve ambiguity
@@ -31,10 +31,11 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
   - **Make a list of 5 questions to ask the interviewer about the organization and/or the position.**
   - **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution outloud. You will look crazy talking to yourself, this is okay.
   - **Review Algorithms** - Sorting algorithms, Linked Lists, Red Black trees, Search algorithms, etc.
+  - **Review interviews questions encountered by previous DevLeague students** [Check out write ups previous DevLeague students have done after interviewing at big companies](https://github.com/devleague/DevLeague-Modules/tree/master/JobPrep/bigFiveInterviews)
   - **Review Concepts** - Review vocab, design patterns, frameworks, libraries
   - **Practice coding problems** - Practice solving code interview style questions from [Hacker Rank](https://www.hackerrank.com/), [Coder Byte](https://coderbyte.com/), [Code Wars](http://www.codewars.com/), and [Project Euler](https://projecteuler.net/). Try setting time limits for yourself, or solving them on a whiteboard
   - **Look sharp** :sparkles:
-1. Discuss Resumes and Poirtfolios
+1. Discuss Resumes and Portfolios
   - Start prepping your portfolio right after you graduate
   - Github is your portfolio until you get 3 to 5 professional projects under your belt.
   - Get yoru resume prepped with the [DevLeague resume outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing).
@@ -61,7 +62,7 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
   - Managing yoruself
   - What do you do if something goes bad?
 1. Discuss equity and salary
-  - This talk is delivered by *Russell**
+  - This talk is delivered by **Russell**
   - What's fair market price for your new skills?
 1. Discuss what to do after a student graduates from DevLeague.
   - DO NOT GIVE UP ON STUDYING
@@ -76,12 +77,14 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 1. Discuss the Job Preperation concepts outlined above.
   - This topics can be covered at any point during the course, but they should all be covered by the time the students graduate. Most if it will should be covered the weeks preceeding graduation.
-1. Perform Mock Interviews with each student
+1. Perform [Mock Interviews](https://github.com/devleague/DevLeague-Modules/blob/master/JobPrep/MockInterviewPrep.md) with each student
 1. Present **Equity and Negotiating** talk with Russell.
 1. Have the students submit their resumes for review from our team.
-  - We will give notes adn feedback to each student to help them craft a powerful resume.
+  - We will give notes and feedback to each student to help them craft a powerful resume.
 1. If students are preparing for interviews at big tech companies, cover common data structures and algorithms that were not covered in the core curriculum
 1. Have each student fill out the anonymous [DevLeague Course Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdigqivbhLeaoeSvr2lfXf5pgiLtqvWWv7QrhAAp8ZGP2Y00g/viewform)
+1. Get the class together and discuss their experience. [Here is a guide](https://github.com/devleague/DevLeague-Modules/blob/master/JobPrep/debrief.md) with some sample questions to ask.
+  - It's usually pretty free form. Student's can talk about whatever is on their minds, give feedback for DevLeague, ask about what comes next, etc.
 1. Graduate
 1. PROFIT!
 
