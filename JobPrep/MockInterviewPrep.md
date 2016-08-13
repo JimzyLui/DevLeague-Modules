@@ -63,15 +63,17 @@ In order to gauge their technical skills - have them whiteboard a technical chal
 ### Five Steps to a Technical Questions
 
 A technical interview question can be solved utilizing a five step approach:
+
 1. Ask your interviewer questions to resolve ambiguity
 1. Design an Algorithm
-1. Write pseudo-code  rst, but make sure to tell your interviewer that you’re writing pseudo-code! Otherwise, he/she may think that you’re never planning to write “real” code, and many interviewers will hold that against you
+1. Write pseudo-code first, but make sure to tell your interviewer that you’re writing pseudo-code! Otherwise, he/she may think that you’re never planning to write “real” code, and many interviewers will hold that against you
 1. Write your code, not too slow and not too fast
 1. Test your code and carefully  x any mistakes
 
 * **Did they talk it Out?** Did they bring you along with their problem solving process? This can be as simple as outlining what they’re about to do when they’re doing it (“So, I’ll need a for-loop to iterate through all the items in this list”) or posing problems to yourself as you go (“This means I’ll need a better way to access the information; hmm, I’ll get back to that later”).
 
 * **Did they whiteboard their solution?** The point is to use your time up front to structure your approach, not to try to write all the code in your head before you touch marker to whiteboard.
+
 * **Did they bring their People Skills, Too** Just because they’re going for an engineering job doesn’t mean they can slack on being personable and responsible.
 
 ### Technical Mock Interview Questions
@@ -80,7 +82,7 @@ Feel free to get creative with the technical challenge, but here are some ideas:
 
 #### Write an function to check if a word is a palindrome.
 
-Write a function to check if a word is a palindrome. That means that the word is spelled the same whether it's read forwards or backwards. Example: `racecar`, `tacocat', or `hannah`. Note: You cannot use the array reverse method to solve this.
+Write a function to check if a word is a palindrome. That means that the word is spelled the same whether it's read forwards or backwards. Example: `racecar`, `tacocat`, or `hannah`. Note: You cannot use the array reverse method to solve this.
 
 #### Convert a binary search tree to a sorted double-linked list.
 
