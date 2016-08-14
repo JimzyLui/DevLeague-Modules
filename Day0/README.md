@@ -63,7 +63,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - Good Note-Taking is Searchable, use Evernote, OneNote, SublimeText, Dash, etc.
 
 1. Set Up Tools (Setup/Live Coding)
-  - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/_day0/installFest.md)
+  - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md)
   - Chrome
   - SublimeText, JSHint
   - Terminal, iTerm, Bash, zShell
@@ -84,15 +84,29 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-## Slides
-- [js-basics](https://slides.com/theremix/js-basics)
+# Slides & Examples
 
-## Work
-- [js-basics](https://github.com/devleague/js-basics)
-- [js-functions](https://github.com/devleague/js-functions)
+#### JS Basics Slides
+- Link: [js-basics](https://slides.com/theremix/js-basics)
+- Time Needed to Present: < 30 minutes
+- Type: **Slideshow**
+
+# Exercises & Projects
+The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### JS Basics
+- Repository: [js-basics](https://github.com/devleague/js-basics)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [Completed JS Basics](https://github.com/taylorak/js-basics)
+
+#### JS Functions
+- Repository: [js-functions](https://github.com/devleague/js-functions)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
 
 ## Additional Resources
 * [Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
-* [JavaScript Reference](https://github.com/devleague/DevLeague-Modules/blob/master/_day0/javaScriptReference.md)
+* [JavaScript Reference](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/javaScriptReference.md)
 * [MDN Arguements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/arguments)
 * [MDN Lexical Keywords](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords)
