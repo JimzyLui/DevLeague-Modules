@@ -92,14 +92,6 @@ add carbon to elements table
 resolves #6
 ```
 
-## Introduce Git Hub CLI
-
-only expose them to hub.github.com we do not need to recommend or support it.
-
-_some students ask if it's possible to create PRs from cli_
-
-- install the `hub` command
-
 
 ### Exercises & Projects
 Perform a live interactive demo of using both strategies as they are introduced.
@@ -220,3 +212,24 @@ steps:
 3. create a branch named `{maintainer}_master` that tracks `{maintainer}_origin/master`
     - `git branch {maintainer}_master --track {maintainer}_origin/master`
 4. merge `{maintainer}_master` into personal `master`
+
+## Introduce Git Hub CLI
+
+only expose them to hub.github.com we do not need to recommend or support it.
+
+_some students ask if it's possible to create PRs from cli_
+
+- install the `hub` command
+
+## Introduce some Github Integrations
+
+Any integrations that you (the instructor) have positive experiences with that may be useful in student's careers. Not necessarily to use in class.
+
+exapmles:
+
+- CI
+    - pass/fail badges
+    - CircleCI
+    - TravisCI
+- lgtm
+
