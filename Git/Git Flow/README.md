@@ -19,13 +19,30 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 - Students should *be able to demonstrate and explain* Git Flow centralized repo strategy
 - Students should *be able to demonstrate and explain* Git Flow forking strategy
+- Students should *know enough about to perform* Creating an upstream tracking branch
+- Students should *know enough about to perform* Pulling from Upstream
+- Students should *know enough about to perform* Resolving merge conflicts
+- Students should *grok* that Git Flow is just a workflow style and convention on top of normal git usage
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
+### Preparation
+
+Most students will have trouble using the git cli when it wants to open an editor.
+
+Make sure each student is prepared by adding this to their shell config, ~/.zshrc or ~/.bashrc
+
+```
+export EDITOR='subl'
+export GIT_EDITOR=$EDITOR
+```
+
+Review the existing Git-Flow-Centralized and Git-Flow-Forking projects, then delete them.
+
 ### Introduce Git Flow
 1. install git-flow
-1. osx users install git-flow-av
+1. osx users install git-flow-avh
     - explain the difference, and advantages
 1. git flow init
 1. git flow feature
@@ -34,6 +51,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. git flow publish
 
 ### Introduce GUI tools
+
 1. introduce OSX GUI Tools
     - Git Kraken
     - Tower.app
@@ -44,6 +62,44 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - gitk
     - SmartGit
 1. install Git Kraken
+    - show how to open projects
+    - navigate around the UI
+    - most students will simply need to uncheck the 'use local ssh-agent' preference
+    - using the diff tool
+    - enabling git flow
+    - using git flow actions
+        - note: Git Kraken does not support `git flow feature publish` command
+
+## Set a commit message standard
+
+A standard that should be explained is:
+
+- short summary of commit on first line
+- empty space
+- long description of changes that accomplishes the summary
+- empty space
+- reference or action related to issue number
+
+#### Example Commit Message
+
+```
+add carbon to elements table
+
+- add carbon atomic number
+- add carbon symbol
+- add carbon element name
+
+resolves #6
+```
+
+## Introduce Git Hub CLI
+
+only expose them to hub.github.com we do not need to recommend or support it.
+
+_some students ask if it's possible to create PRs from cli_
+
+- install the `hub` command
+
 
 ### Exercises & Projects
 Perform a live interactive demo of using both strategies as they are introduced.
@@ -67,14 +123,28 @@ Perform a live interactive demo of using both strategies as they are introduced.
 
 - create a Git-Flow-Forking repo
 - each student forks the Git-Flow-Forking repo
-    - push up a table to the README.md (see Elements Table below)
     - the goal is to fill out the table, in atomic weight element order
+- add the initial README to develop branch
+    - push up a table to the README.md (see Elements Table below)
+    - guide and instruct students on how to setup a tracking branch to pull updates from upstream
+        - see : "Pulling from upstream"
 - create issues and assign them to students quickly!
     - assign issues randomly
     - each issue is a contrived "add an element to the elements table"
 - each student concurrently resolves their issue on a feature branch with proper git commit messages
     - student will publish their feature branch
     - student will create a pull request
+- instructor will:
+    - review each PR
+    - make sure the PR is to the upstream `develop` branch
+    - watch for proper git commit messages
+        - demonstrate magic commit messages, `resolves #2`
+            - this only happens by default if upstream develop gets merged into master though
+    - keep constant watch on PRs tab
+        - if any PR is green, review and merge it!
+        - merging PRs invalidates most other PRs
+        - each other student must update their PR, resolve merge conflicts, and push their updated feature branch
+        - keep reviewing and merging in green PRs until none are left
 - students will either:
     - have to merge from upstream during their pr
     - have no conflicts, and have to merge from upstream to get the final table
@@ -86,10 +156,19 @@ use this data to initialize the exercise
 
 #### Initial table in the README
 
+```
+## Requirements
+
+Fill out the table in ascending order of atomic number
+
+## Elements
+
 | Atomic Number | Element Symbol | Element Name |
 |---------------|----------------|--------------|
 | 3             | Li             | Lithium      |
 |               |                |              |
+
+```
 
 
 #### Elements to assign to students
@@ -135,7 +214,9 @@ want:
 steps:
 
 1. add upstream origin as {maintainer}_origin using https url
-1. fetch upstream origin
-1. create a branch named `{maintainer}_master` that tracks `{maintainer}_origin/master`
+    - `git remote add devleague_origin https://github.com/{maintainer}/repo.git`
+2. fetch upstream origin
+    - `git fetch {maintainer}_origin`
+3. create a branch named `{maintainer}_master` that tracks `{maintainer}_origin/master`
     - `git branch {maintainer}_master --track {maintainer}_origin/master`
-1. merge `{maintainer}_master` into personal `master`
+4. merge `{maintainer}_master` into personal `master`
