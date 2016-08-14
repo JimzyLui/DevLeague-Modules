@@ -42,7 +42,8 @@ Review the existing Git-Flow-Centralized and Git-Flow-Forking projects, then del
 
 ### Introduce Git Flow
 1. install git-flow
-1. osx users install git-flow-avh
+1. install git-flow-avh
+    - ubuntu users install git-flow which _is_ git flow avh
     - explain the difference, and advantages
 1. git flow init
 1. git flow feature
