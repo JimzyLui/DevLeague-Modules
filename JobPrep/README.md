@@ -91,6 +91,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Additional Resources
 
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.a94agj415:)
+- [Front End INterview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [DevLeague resume Outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing)
 - [Equity for Startups](https://gist.github.com/isaacsanders/1653078)
 - [Equity Compensation information for Startups](https://github.com/jlevy/og-equity-compensation)

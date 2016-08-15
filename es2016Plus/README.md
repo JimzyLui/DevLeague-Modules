@@ -1,4 +1,4 @@
-# ES2016 PLus
+# ES2016 Plus
 
 ## Pre-Requisites
 This material should come after the students feel very comfortable with ES5 JavaScript syntax. This will suppliment their knowledge of ES6 and build on top of a firm understanding of JavaScript. They should be able to appreciate the pain points that ES6 is attempting to solve.
@@ -40,6 +40,7 @@ Students will have *one of three* levels of understanding about each topic upon 
   - The new way - `export` and `import`
 - Classes [grok]
   - See OOP module
+
 -Async Flow Control [explain]
   - Promises [explain]
   - Generators [about]
@@ -57,8 +58,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. Talk about the history of JS and why we use
 1. Present **ES6 Plus** Slideshow: [ES6 Plus Slides](http://slides.com/joecarlson/es6)
 1. Assign **ES6 Practice Problems**: [ES6 Practice](https://github.com/devleague/es6-Practice)
-1. Check in with studen
-1. Assign **ES6 Portfolio Pts and their understanding of **ES6**, **Major ES^ concepts** (talk)
+1. Check in with students
+1. Assign **ES6 Portfolio Piece Refactor**
 1. Verify that students have met the minimum required understanding before moving on.
 
 # Slides & Examples

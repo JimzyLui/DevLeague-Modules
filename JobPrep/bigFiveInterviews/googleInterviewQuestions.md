@@ -246,3 +246,5 @@ Ad Platforms/Services
 
 [3:57 PM]
 hope this helps
+
+https://www.fastcompany.com/3062713/how-to-be-a-success-at-everything/i-hire-engineers-at-google-heres-what-i-look-for-and-why
