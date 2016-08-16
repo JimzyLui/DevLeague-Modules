@@ -9,12 +9,12 @@ This material usually takes 0.5 day(s) to introduce and up to 1.5 day(s) worth o
 ## Topics & Expected Outcomes
 
 #### Levels of Understanding
-Students will have *one of three* levels of understanding about each topic upon completion of this module.  
-- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.  
-- **explain**: understand enough about the topic to describe concepts without referring to notes.  
+Students will have *one of three* levels of understanding about each topic upon completion of this module.
+- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.
+- **explain**: understand enough about the topic to describe concepts without referring to notes.
 - **know about**: understand enough to look up further documentation when asked about the subject.
 
----  
+---
 
 #### NoSQL Databases
 - Students should **fully grok** NoSQL databases
@@ -54,7 +54,7 @@ The following exercises and projects state an average time alotted. A session is
 - Gist: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
 - Average Time Alotted: 3 sessions
 - Completed Example: [#](http://google.com)
-- Concepts Practice: *MongoDB Dynamic Queries* 
+- Concepts Practice: *MongoDB Dynamic Queries*
 
 # Additional Resources
 
@@ -77,3 +77,6 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [https://docs.mongodb.com/manual/](https://docs.mongodb.com/manual/)
 - Concepts: MongoDB Documentation
 - Notes: MongoDB Documentation
+
+#### NoSQL Databases: a Survey and Decision Guidance
+- Link: [NoSQL Databases: a Survey and Decision Guidance](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.iac9pgy2j)
