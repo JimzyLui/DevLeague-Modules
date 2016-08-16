@@ -29,7 +29,7 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
   - **Research before you go** - find literature or information online about the organization and its products so you are well informed.
   - **Create Your Elevator Speech** - prepare a 2-5 minute sales pitch about yourself and rehearse with a friend or family.
   - **Make a list of 5 questions to ask the interviewer about the organization and/or the position.**
-  - **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution outloud. You will look crazy talking to yourself, this is okay.
+  - **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution out loud. You will look crazy talking to yourself, this is okay.
   - **Review Algorithms** - Sorting algorithms, Linked Lists, Red Black trees, Search algorithms, etc.
   - **Review interviews questions encountered by previous DevLeague students** [Check out write ups previous DevLeague students have done after interviewing at big companies](https://github.com/devleague/DevLeague-Modules/tree/master/JobPrep/bigFiveInterviews)
   - **Review Concepts** - Review vocab, design patterns, frameworks, libraries
@@ -38,7 +38,7 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
 1. Discuss Resumes and Portfolios
   - Start prepping your portfolio right after you graduate
   - Github is your portfolio until you get 3 to 5 professional projects under your belt.
-  - Get yoru resume prepped with the [DevLeague resume outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing).
+  - Get your resume prepped with the [DevLeague resume outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing).
 1. Discuss how to get a job after they graduate from DevLeague.
   - Start prepping for interviews **today**
       - Prepare your answers now for normal interview questions
@@ -55,11 +55,11 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
   - Never do a website for free - charge something - you are bringing the whole dev community down when you do work for freelancing
   - Educate your clients
   - Always charge something
-  - Have a contract it - it protects you and you client (Trust me)
+  - Have a contract - it protects you and you client (Trust me)
   - Get paid up front
   - Sole Proprietorship vs LLC
   - Know how to draft up a contract
-  - Managing yoruself
+  - Managing yourself
   - What do you do if something goes bad?
 1. Discuss equity and salary
   - This talk is delivered by **Russell**
@@ -91,6 +91,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Additional Resources
 
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.a94agj415:)
+- [Easy Applications](https://github.com/j-delaney/easy-application)
+- [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [DevLeague resume Outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing)
 - [Equity for Startups](https://gist.github.com/isaacsanders/1653078)
 - [Equity Compensation information for Startups](https://github.com/jlevy/og-equity-compensation)
