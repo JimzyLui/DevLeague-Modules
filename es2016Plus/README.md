@@ -40,7 +40,6 @@ Students will have *one of three* levels of understanding about each topic upon 
   - The new way - `export` and `import`
 - Classes [grok]
   - See OOP module
-
 -Async Flow Control [explain]
   - Promises [explain]
   - Generators [about]
