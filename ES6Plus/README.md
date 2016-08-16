@@ -1,4 +1,4 @@
-# ES2016 Plus
+# ES6 Plus
 
 ## Pre-Requisites
 This material should come after the students feel very comfortable with ES5 JavaScript syntax. This will suppliment their knowledge of ES6 and build on top of a firm understanding of JavaScript. They should be able to appreciate the pain points that ES6 is attempting to solve.
