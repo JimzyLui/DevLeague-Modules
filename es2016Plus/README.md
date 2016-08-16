@@ -86,6 +86,34 @@ The following exercises and projects state an average time alotted. A session is
 - Completed Example: N/A
 - Concepts Practiced: *ES6 Constructors*, *ES6 Instance Properties*, *Scope Variables*, *ES6 Super Call*, *Maps*, *Sets* and *Exporting and Importing Modules*
 - Notes: Add Airbnb ESlint to an old project and refactor it to be ES6 complient - great practice using ES6 for a real project - plus it has the posibility of making the code look super dope.
+- To install `eslint` for your project and SublimeText:
+
+  1. `npm i -D eslint`
+  1. `./node_modules/.bin/eslint --init`
+
+  1. Select the following options
+    1. `? How would you like to configure ESLint? Use a popular style guide`
+    1. `? Which style guide do you want to follow? AirBnB`
+    1. `? What format do you want your config file to be in? JavaScript`
+
+  1. install the following plugins on sublime:
+    - `eslint`
+    - `sublimeLinter-contrib-eslint`
+
+  1. add this to your `.package.json` under the scripts section:
+    "eslint": "eslint ."
+
+  1. run this in the command line
+    ...
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "eslint": "eslint ."
+    },
+    ...
+
+  1. BOOM - Yah got a badass linter
+
+  **Note** - You might need to restart Sublime Text to get your linter working
 
 # Additional Resources
 
