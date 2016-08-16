@@ -2,6 +2,31 @@
 
 ![Git XKCD](https://imgs.xkcd.com/comics/git.png)
 
+## Pre-Requisites
+TODO
+
+## Class Format / Time to Allow for Subject
+This material usually takes 1 full day to introduce. They should continue to intregrate new cabailities and workflows into their projects.
+
+## Topics & Expected Outcomes
+
+#### Levels of Understanding
+Students will have *one of three* levels of understanding about each topic upon completion of this module.
+- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.
+- **explain**: understand enough about the topic to describe concepts without referring to notes.
+- **know about**: understand enough to look up further documentation when asked about the subject.
+
+---
+
+- What is git?
+  - Students should be able to explain the core feautres of git
+  - Students should be able to explain the benefits of using git on a software project
+  - Students should be able to explain what version control is.
+
+- What is Github?
+  - Students should be able to explain the difference between Git and Github
+
+
 ### Contributor Maintainer Workflow
 
 This workflow is most commonly used on open source projects:
