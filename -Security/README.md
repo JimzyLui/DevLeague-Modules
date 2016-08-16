@@ -1,121 +1,112 @@
 # Security
 
-## Suggested order of delivery
+## Pre-Requisites
+This material should come after **Passport** and **User Auth**. Students should already be familiar with **User Authentication**.
 
-1. Talk about security as it relates to web application development
-    1. what you should be concerned about
-1. Talk about password security
-1. Talk about Crypto Hash functions
-1. Do the Crypto Hash workshop
-1. Do TubeHacked exercise
+## Class Format / Time to Allow for Subject
+This material usually takes 0.5 a day to introduce and up to a 2 days worth of exercises and reinforcement.
 
-_do not deliver **More Security Topics**_
+## Topics & Expected Outcomes
 
-## Topics
+#### Levels of Understanding
+Students will have *one of three* levels of understanding about each topic upon completion of this module.
+- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.
+- **explain**: understand enough about the topic to describe concepts without referring to notes.
+- **know about**: understand enough to look up further documentation when asked about the subject.
 
-- Password security [teach]
-- Crypto Hashes [teach]
-- Good Crypto Hashes [teach]
-- Salting Hashes [teach]
-- Bruteforce attacks [teach]
-- Rainbow table attacks [about]
-- Using sensitive data in applications [teach]
+---
 
-## Acceptance
+#### Application Security
+- Students should **fully grok** security in their application.
+- Students should **fully grok** dealing with sensitive data.
+- Students should **know** they are not expected to be security keys.
+- Students should **know** they will gain the mastery of being careful and following maximum security principles.
 
-- Students should be scared (thus overly careful) when dealing with sensitive data
-- Students should be pessimistic about their security, and work as if an attacker _will_ gain access
-- Students should understand the fundamentals, and usage of hash functions
-- Students should know the 5 properties of a crypto hash function
-- Students should know the 2 additional rules of using good crypto hash functions
-- Students should never roll their own crypto algorithms
-- Students should understand and be able to communicate good password policy
-- Students should understand and be able to demonstrate hashing passwords
-- Students should understand and be able to demonstrate salting hashed passwords
-- Students should know about bruteforce attacks and why it's feasible against weak passwords
-- Students should know about salted hashes and why it's used to counter rainbow table attacks
-- Students should know how to use ENV variables in cli
-- Students should know how to prevent ENV variables from being saved to shell history
-- Students should know how to use .env files
-- Students should know how to use .env-sample files
-- Students should never commit .env files
-- Students are allowed to commit .env-sample files that contain no sensitive information
-- Students should never commit sensitive data
-- Students should know they can rotate their security keys in case they do
-- Students are not expected to become security experts or cryptographers
-- Students will gain the mastery of being careful and following maximum best security practices
+#### Cryptographic Hashing
+- Students should **know about** the fundamentals and usage of hash functions.
+- Students should **know about** about the 5 properties of a crypto hash functions.
+    1. Simple/fast to create hash digest from a message
+    2. One way: mathematically infeasable to construct the message from the digest
+    3. Same message will always produce same digest
+    4. Changing the message changes the digest *dramatically*
+    5. Mathematically infeasable for collisions to occur
+- Students should **know about** the 2 additional rules of using good crypto hash functions.
+- Students should **know about** never rolling their own crypto algorithms.
 
-## Slides (none)
+#### Passwords
+- Students should **grok** good password policy.
+- Students should **grok** hashing passwords.
+- Students should **grok** salting hashed passwords.
+- Students should **know about** bruteforce attacks and why it is feasable against weak passwords.
+- Students should **know about** how salted hashes are used in counter rainbow table attacks.
 
-## Work
+#### Environment Varibales and Protected Files
+- Students should **fully grok** using `.env` variables in the CLI.
+- Students should **know about** how to prevent `.env` variables being saved to shell history.
+- Students should **know about** using `.env` and `.env-sample` files. 
+- Students should **grok** never commiting `.env` files.
+- Students should **know** about commiting `.env` sample files.
+- Students should **fully grok** never commiting sensitive data.
+- Students should **know about** rotateing security keys.
 
-1. tmp directory `crypto_hashing/index.js` (during workshop)
-1. Activity: TubeHacked (no github link yet)
+# Suggested Format of Delivery
+The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
+1. Introduce Security as it relates to web application development.
+    - Crypto Hash functions
+        - Hash function which takes an input (or 'message') and returns a fixed-size alphanumeric string, which is called the hash value
+        - Message
+            - can be anything, binary, utf8, image, string, file...
+        - Function
+            - takes in a message
+            - outputs a message digest
+            - one way hash
+        - Digest (aka message digest, aka hash)
+    - Salting Hashes
+        - Good hashes are not meant to be fast
+        - Hashes are salted
+    - Password Security
+    - Whiteboard example defining Bruteforce attacks
+    - Whiteboard example defining Rainbow Table attacks
+    - Using sensitive data in web applications
+1. Live code hashing algorithms
+    - MD5sum SHAsum hashing algorithms
+    - Piping output and files
+    - Generating hashes in Node.js
+        - Bcrypt algorithm
+1. Explain not committing sensitive data
+    - using .gitignore
+    - using git-crypt(optional)
+    - using `ENV` vars in CLI and hiding from CLI history
+1. Using `.env` files
+1. (Optional) Assign Jon's `TubeHacked` exercise.
+1. Assign students to add bcrypt to `Express-Gallery` and/or other CMS projects including user authentication.
 
-## Crypto Hash Functions
+# Exercises and Projects
+The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
-### Workshop
+#### TubeHacked
+- Link/Repo: [No Repository. Live coding exercise by Jon Borgonia, allowing incoming requests to change the youtube url, if password number is found by client.]
+- Individual or Goup: *Individual*
+- Sessions: 2 sessions
+- Concepts: Bruteforce
+- Notes: Bruteforce
 
-1. perform md5sum and shasum hashes using cli
-    1. piping output and files
-1. generating hashes in node
-    1. using different algorithms
+[Add hashing to `Express Gallery` and/or other CMS project containing user authentication]
 
+# Additional Resources
 
-### Talking Points
+#### Crypto Hash Wiki
+- Link: [https://simple.wikipedia.org/wiki/Cryptographic_hash_function](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
+- Concepts: Cryptographic hashing functions, hashing algorithms
+- Notes: Cryptographic hashing functions, hashing algorithms
 
-#### Why use hash functions
+#### Web Application Security Wiki
+- Link: [https://en.wikipedia.org/wiki/Web_application_security](https://en.wikipedia.org/wiki/Web_application_security)
+- Concepts: Overview of web app security, various attacks methods
+- Notes: Overview of web app security, various attacks methods
 
-1. to quickly compare
-
-#### What are hash functions
-
-- hash function which takes an input (or 'message') and returns a fixed-size alphanumeric string, which is called the hash value
-- take arbitrary length and distribute to something smaller
-
-#### parts of hashing
-
-- message
-    - can be anything, binary, utf8, image, string, file...
-- function
-    - takes in a message
-    - outputs a message digest
-    - one way hash
-- digest (aka message digest, aka hash)
-
-#### 5 traits of a crypto hash function
-
-1. simple/fast to create a hash digest from a message
-1. one way : mathematically infeasable to construct the message from the digest
-1. same message will always produce same digest
-1. changing the message changes the digest _dramatically_
-1. mathematically infeasable for collisions to occur
-
-#### Good crypto hashes
-
-1. are not meant to be fast
-1. are salted
-
-#### Rainbow tables and salting
-
-- whiteboard
-- provide examples of where to store salt strings
-
-#### Never commit sensitive data
-
-1. using .gitignore
-1. using git-crypt
-1. using ENV vars in cli
-    1. hiding ENV vars from history
-1. using .env files
-
-## Additional Resources
-
-there are no additional resources yet
-
-### More Security topics
-
-can be found in [Deployment](../Deployment) module
-
-such as linux file permissions, user and group ownership
+#### Hash Function Wiki
+- Link: [https://en.wikipedia.org/wiki/Hash_function](https://en.wikipedia.org/wiki/Hash_function)
+- Concepts: Hash Functions
+- Notes: Hash Functions
