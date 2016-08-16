@@ -53,4 +53,5 @@ Then in future, just follow these steps to update your fork:
 - Link [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow/)
 
 #### Comparing Git Workflows
-- Link [Git Tips](ttps://git.wiki.kernel.org/index.php/GitTips)
+- Link [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
+- Link [Getting Git Right](https://www.atlassian.com/git/)
