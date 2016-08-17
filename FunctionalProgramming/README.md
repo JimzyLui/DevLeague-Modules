@@ -158,3 +158,6 @@ The following exercises and projects state an average time alotted. A session is
 
 #### reduceRight() - MDN
 - Link: [reduceRight() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight)
+
+- [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
+- [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)

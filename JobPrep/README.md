@@ -31,9 +31,23 @@ This material usually takes 1 full day to introduce and up to a week's worth of 
   - **Make a list of 5 questions to ask the interviewer about the organization and/or the position.**
   - **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution out loud. You will look crazy talking to yourself, this is okay.
   - **Review Algorithms** - Sorting algorithms, Linked Lists, Red Black trees, Search algorithms, etc.
+  - For good strategies on how to approach interview questions: hiredintech.com/app
+    - Pay particular attention to the sections 'Algorithm Design' and 'Systems Design'
+
+Make sure and try some practice questions on sites like HackerRank, TopCoder, CodeChef, CareerCup.com, or projecteuler.net - handwrite your solutions!
+
   - **Review interviews questions encountered by previous DevLeague students** [Check out write ups previous DevLeague students have done after interviewing at big companies](https://github.com/devleague/DevLeague-Modules/tree/master/JobPrep/bigFiveInterviews)
   - **Review Concepts** - Review vocab, design patterns, frameworks, libraries
-  - **Practice coding problems** - Practice solving code interview style questions from [Hacker Rank](https://www.hackerrank.com/), [Coder Byte](https://coderbyte.com/), [Code Wars](http://www.codewars.com/), and [Project Euler](https://projecteuler.net/). Try setting time limits for yourself, or solving them on a whiteboard
+  - **Practice coding problems** - Practice solving code interview style questions from:
+  - [Hacker Rank](https://www.hackerrank.com/)
+  - [Coder Byte](https://coderbyte.com/)
+  - [Code Wars](http://www.codewars.com/)
+  - [Project Euler](https://projecteuler.net/)
+  - [Top Coder](https://www.topcoder.com/)
+  - [Code Chef](https://www.codechef.com/)
+  - [Career Cup](https://careercup.com/)
+    - Try setting time limits for yourself
+    - Try solving them on a whiteboard or by hand
   - **Look sharp** :sparkles:
 1. Discuss Resumes and Portfolios
   - Start prepping your portfolio right after you graduate
@@ -92,6 +106,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.a94agj415:)
 - [Easy Applications](https://github.com/j-delaney/easy-application)
+- [How should I prepare for my Google Interview If I have 1 month Left - Quora](https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
 - [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [DevLeague resume Outline](https://docs.google.com/document/d/18cP_bDl6O1QnJIQV__cxTAU2c6q6aEGPB-Jvejc2oBg/edit?usp=sharing)
 - [Equity for Startups](https://gist.github.com/isaacsanders/1653078)
@@ -101,4 +116,5 @@ The following format is meant to be a guideline for effective delivery. Instruct
 - [Angel List](https://angel.co/)
 - [500 Miles](http://www.500miles.io/)
 - [Glassdoor](https://www.glassdoor.com/)
+- [How to succeed at the Interview](https://www.fastcompany.com/3062713/how-to-be-a-success-at-everything/i-hire-engineers-at-google-heres-what-i-look-for-and-why)
 - [The Beginner’s Guide to Freelance](https://medium.com/code-like-a-girl/the-beginners-guide-to-freelance-ed89c4051c26#.81bsk1f9a)

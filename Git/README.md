@@ -29,8 +29,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Contributor Workflow
   This workflow is most commonly used on open source projects:
 
-  These are the initial steps to update your fork:
-  =================================
+  ##### These are the initial steps to update your fork:
   1. `git remote add devleague_origin git@github.com:devleague/REPO.git`
   1. `git checkout -b devleague_master`
   1. `git branch --track devleague_master devleague_origin/master`
@@ -38,8 +37,7 @@ Students will have *one of three* levels of understanding about each topic upon 
   1. `git checkout master`
   1. `git merge devleague_master`
 
-  Then in future, just follow these steps to update your fork:
-  =================================
+  ##### Then in future, just follow these steps to update your fork:
   1. `git checkout devleague_master`
   1. `git pull`
   1. `git checkout master`
@@ -74,3 +72,26 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 #### Getting Git Right
 - Link [Getting Git Right](https://www.atlassian.com/git/)
+
+- [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
+- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
+- [Conversational Git](http://blog.anvard.org/conversational-git/)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
+- [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
+- [Git Immersion](http://gitimmersion.com)
+- [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
+- [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
+- [Git Reference](http://gitref.org)
+- [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+- [Git Workflows](http://documentup.com/skwp/git-workflows-book)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+- [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
+- [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) - Michael Hartl
+- [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
+- [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
+- [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
+- [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
+- [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)

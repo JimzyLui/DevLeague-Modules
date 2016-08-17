@@ -43,7 +43,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Environment Varibales and Protected Files
 - Students should **fully grok** using `.env` variables in the CLI.
 - Students should **know about** how to prevent `.env` variables being saved to shell history.
-- Students should **know about** using `.env` and `.env-sample` files. 
+- Students should **know about** using `.env` and `.env-sample` files.
 - Students should **grok** never commiting `.env` files.
 - Students should **know** about commiting `.env` sample files.
 - Students should **fully grok** never commiting sensitive data.
@@ -110,3 +110,12 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [https://en.wikipedia.org/wiki/Hash_function](https://en.wikipedia.org/wiki/Hash_function)
 - Concepts: Hash Functions
 - Notes: Hash Functions
+
+* [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
+* [CryptoParty Handbook](https://unglue.it/work/141611/)
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+* [How to deal with Passwords](https://github.com/MHM5000/pass)
+* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
+* [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
+* [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
