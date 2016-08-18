@@ -9,10 +9,10 @@ This subject can be introduced earlier but will need further materials or slight
 
 Testing can be introduced to students earlier if they meet these requirements:
 - has prior coding experience
-- is excelling at completing and understanding early course material (week 1 & 2)\
+- is excelling at completing and understanding early course material (week 1 & 2)
 
 #### A word on BDD
-TODO: ... something about TDD is for programmers whereas BDD is for everyone on the entire team (Tests, Project Managers, Design, etc).
+TODO: something about the differences between TDD and BDD wording and... something about TDD is for programmers whereas BDD is for everyone on the entire team (Tests, Project Managers, Design, etc) and that's why it's valueable.
 
 Start with TDD. BDD comes later or comes after conversations between Development Team and Stakeholders.
 
@@ -21,7 +21,9 @@ Start with TDD. BDD comes later or comes after conversations between Development
 - Liz Keogh's Step Away From The Tools about BDD: [Link](https://lizkeogh.com/2011/03/04/step-away-from-the-tools/)
 
 ## Class Form / Time to Allow for Subject
-The lecture and intro exercise can take up 2-3 days. After this introduction the students are encouraged to implement tests on future exercises whether formally (tests written first before code) or as a stretch goal (write tests after completing the assignment). Generally students start off with adding tests as a stretch goal until they get comfortable with *writing tests first* principle.
+The lecture and intro exercises should take 1 session. The main exercise can take up to 2-3 sessions to complete.
+
+*See **Post-Introduction Strategy** *
 
 ## Topics & Expected Outcomes
 
@@ -45,9 +47,15 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - field for possible gaps in knowledge early
 1. Present TDD Slideshow: (TODO: need URL for slide deck)
 1. After presentation, set up two empty projects to use a test runner and assertion library along with students. Each project should focus on the two main environments where tests will be run: command-line and in-browser*
+  - *Notes: there is a chance here to have the students research and learn on their own how to set up one or all of these environments mentioned*
 1. Assign **js-calculator/no-tests branch** students are to write the tests for this assignment. Pre-req: must have *mvp* completed before writing tests.
   - **see Slides & Assignments section for more non-critical exercise suggestions
-1. Assign [Behavior Driven Shopping List](https://github.com/devleague/Behavior-Driven-Shopping-List)
+1. Assign the main exercise: [Behavior Driven Shopping List](https://github.com/devleague/Behavior-Driven-Shopping-List)
+
+# Post-Introduction Strategy
+After this introduction the students are encouraged to implement tests on future exercises whether formally (tests written first before code) or as a stretch goal (write tests after completing the assignment). Generally students start off with adding tests as a stretch goal until they get comfortable with *writing tests first* principle.
+
+- Writing tests can now be added as a stretch goal for any exercise including morning challenges.
 
 # Slides & Examples
 
@@ -65,9 +73,10 @@ The following format is meant to be a guideline for effective delivery. Instruct
 - Notes: Assign as main exercise after opening-exercises (see below)
 
 #### Additional Exercises
-- Notes: This is a list of exercises that can be used as reinforcement after presenting the slides. Exercises must meet MVP requirements before adding tests
+Notes: This is a list of exercises that can be used as reinforcement after presenting the slides. Exercises must meet MVP requirements before adding tests.
+
 - [https://github.com/devleague/js-calculator/tree/no-tests](https://github.com/devleague/js-calculator/tree/no-tests)
-- Misc. Morning Challenges
+- Any morning challenge
 
 # Additional Resources
 - Specification by Example (SBE) on [wikipedia](https://en.wikipedia.org/wiki/Specification_by_example)
