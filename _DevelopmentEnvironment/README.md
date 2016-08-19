@@ -4,9 +4,10 @@
 
 ## OSX 
 
+#### Hotkeys for great work flow!
+
 [Mac Keyboard Shortcuts Reference][osx_hotkeys_url]
 
-#### Hotkeys for great work flow!
 ![cat displaying great prowess with a keyboard][cat_typing]
 
 <kbd>⌘</kbd>+<kbd>Tab</kbd>
@@ -115,3 +116,26 @@ Windows has window management built-in!
 # Documentation Tools
 
 ## Dash App
+
+---
+
+# The Hotkey Warrior Manifesto
+> The mouse/trackpad is hot lava, don't touch it!
+
+Learning hotkeys and weening yourself off of the mouse will improve your workflow. The less time you spend reaching for your mouse then locating it visually on screen and interacting with the GUI and then moving back to your keyboard, will mean more time for you to focus your mental energy on problem solving, coding, and staying focused.
+
+**tips for memorizing hotkeys**
+1. Each week aim to **know about** 3-5 hotkeys and write them down and keep it near your workspace, like a post-it note or index card near or attached to your monitor.
+1. Throughout the week use these hotkeys. By the end of the week you should have 2-3 memorized because you have been using those the most.
+1. Repeat the process the following week with a new set of hotkeys.
+
+As the weeks go by your hand will get used to the chords patterns and you'll be able to memorize more hotkeys each week.
+
+**Caveats**
+- Don't try to learn too many hotkeys at once.
+- Aim for quality not quantity. More useful hotkeys are better than knowing **all the hotkeys**.
+
+**A word about "unix-pinky" aka hitting that control button with your pinky**
+The placement of the control key isn't the best though luckily you can reprogram your keyboard layout at software level (via your operating system) with open-source tools. A common re-mapping scheme is to change the <kbd>CAPS LOCK</kbd> key to <kbd>CTRL</kbd> instead.
+
+See **Keyboard re-mapping** section for your operating system for more information.
