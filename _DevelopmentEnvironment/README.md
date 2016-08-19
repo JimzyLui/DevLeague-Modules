@@ -6,8 +6,6 @@
 
 #### Hotkeys for great work flow!
 
-![cat displaying great prowess with a keyboard][cat_typing]
-
 [Mac Keyboard Shortcuts Reference][osx_hotkeys_url]
 
 ---
@@ -33,23 +31,17 @@ Same functionalty as Hold <kbd>CMD</kbd> + press <kbd>Tab</kbd> except that it c
 **Homebrew** - [Link][brew_url] *see webpage for installation instructions*
 
 
-Homebrew allows a user to install/update/uninstall programs (packages/binaries) via the command-line. These packages come prepackaged with default installation instructions so the installation process is much quicker than installing the same software manually.
-
-**It Just Works™**
+Homebrew allows a user to install/update/uninstall programs (packages/binaries) via the command-line. These packages come prepackaged with default installation instructions so the installation process is much quicker than installing the same software manually. *It Just Works™*
 
 **Homebrew Cask** - [Link][cask_url]
 
-```
 Cask focuses on everyday Applications like Google Chrome, Spotify, etc.
-```
 
 #### Window Management :metal:
 
 **Spectacle** [Link][spectacle_url] *Easily organize windows without using a mouse*
 
-```
-Amazing tool (AND FREE)! Strive to be the best keyboard warrior you can be.
-```
+Great tool (AND FREE)! Strive to be the best keyboard warrior you can be. Manage your window layout without using a mouse or trackpad.
 
 <!-- link references related to OSX -->
 [cat_typing]: http://i.imgur.com/bA3Rn7E.gif
@@ -72,7 +64,7 @@ Amazing tool (AND FREE)! Strive to be the best keyboard warrior you can be.
 [i3wm_url]: https://i3wm.org/
 ---
 
-## Windows (not recommended) :information_desk_person:
+## Windows :information_desk_person:
 
 #### Package Management :package:
 
@@ -121,13 +113,16 @@ Windows has window management built-in!
 ---
 
 # The Hotkey Warrior Manifesto
+
 > The mouse/trackpad is hot lava, don't touch it!
+
+![cat displaying great prowess with a keyboard][cat_typing]
 
 Learning hotkeys and weening yourself off of the mouse will improve your workflow. The less time you spend reaching for your mouse then locating it visually on screen and interacting with the GUI and then moving back to your keyboard, will mean more time for you to focus your mental energy on problem solving, coding, and staying focused.
 
 **tips for memorizing hotkeys**
 
-1. Each week aim to **know about** 3-5 hotkeys and write them down and keep it near your workspace, like a post-it note or index card near or attached to your monitor.
+1. Each week aim to *know about* 3-5 hotkeys and write them down and keep it near your workspace, like a post-it note or index card near or attached to your monitor.
 
 1. Throughout the week use these hotkeys. By the end of the week you should have 2-3 memorized because you have been using those the most.
 
