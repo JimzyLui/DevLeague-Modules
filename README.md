@@ -98,9 +98,25 @@ https://gist.github.com/theRemix/0852e5f2ce93851d691cf0411a4f451b
 ##### REEVALUATE THESE TASKS:
 These are tasks that are out of date and should be revaluated
 - [Context Exercise](https://github.com/devleague/Context-Exercise)
+  - We could use some more examples here
 - [bruhdash](https://github.com/devleague/bruhdash)
+  - Haven't used this one for a while
 - [Warrior Js](https://github.com/olistic/warriorjs)
+  - Never seen this one used - also, it's not official DL curriculum
 - [Technophile](https://github.com/devleague/Technophile)
+  - Multiple Inheritence
 - [Sir-Mix-Alot](https://github.com/devleague/Sir-Mix-Alot)
+  - Students struggle to understand the point or the context, and it's v hard
 - [DOM Cloud](https://github.com/devleague/DomCloud)
+  - V challenging recursion challenge
+- [What year is it?](https://github.com/devleague/What-Year-Is-It)
+- [Calls from the Highest Order](https://github.com/devleague/Calls-from-the-Highest-Order)
+- [Delta Force](https://github.com/devleague/Calls-from-the-Highest-Order)
+  - Event Emitter exercise - we need more of these. Can we bring it back?
+- [Rebirth of reddit](https://github.com/devleague/rebirth-of-reddit)
+  - Let's use real XHR data, not dummy data.
+- [AJAX Slides](http://slides.com/jasonsewell/ajax-schmajax#/)
+  - Should we still teach XHR or should we switch to Fetch. Or both?
+- [TODO Crud](https://gist.github.com/theRemix/4b630a417ee5764079db)
+- [America Online](https://github.com/devleague/America-Online)
 
