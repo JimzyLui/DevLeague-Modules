@@ -31,15 +31,33 @@ to help target application icons in the menu.
 
 ---
 
-TODO: add more super-useful OSX specific hotkeys
+<kbd>CMD</kbd>+<kbd>Left or Right arrow</kbd>
 
-CMD + arrow modifier for moving to end and beginning of lines (END and HOME buttons)
-OPT + Arrow for moving word by word
-
-^^SHIFT key modifier for highlighting
+Allows you to move to the beginning or end of a line. Adding shift adds highlighting capabilities.
 
 ---
 
+<kbd>OPT</kbd>+<kbd>Left or Right arrow</kbd>
+
+Allows you to move word by word on a line. Adding shift adds highlighting capabilities.
+
+---
+
+<kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>3</kbd>
+
+Take a screenshot of the entire desktop. If you have multiple monitors it will capture those as well. The file is outputted to your desktop.
+
+Adding <kbd>Shift</kbd> key will save the image to your clipboard. No file is generated when using the Shift key modifier.
+
+---
+
+<kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>4</kbd> + Mouse Gesture
+
+Uses the mouse to capture a region of the screen. The file is outputted to your desktop.
+
+Adding <kbd>Shift</kbd> key will save the image to your clipboard. No file is generated when using the Shift key modifier.
+
+---
 ### Package Management :package:
 
 **Homebrew** - [Link][brew_url] *see webpage for installation instructions*
@@ -148,6 +166,7 @@ hotkeys in i3wm are inspired by VIM's movement hotkeys:
 [Read the New User Guide to get started](i3wm_newuser_url)
 
 ![first i3 layout][i3wm_img1_url]
+
 ![second i3 layout][i3wm_img2_url]
 
 ### Operating Specific Applications
@@ -158,6 +177,7 @@ hotkeys in i3wm are inspired by VIM's movement hotkeys:
 [i3wm_newuser_url]: https://i3wm.org/docs/userguide.html
 [i3wm_img1_url]: https://i3wm.org/docs/keyboard-layer1.png
 [i3wm_img2_url]: https://i3wm.org/docs/keyboard-layer2.png
+
 ---
 
 ## Windows :information_desk_person:
