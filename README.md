@@ -89,8 +89,18 @@ to present, use **ngrok** then distribute the url
 the "Grok" list:
 https://gist.github.com/theRemix/0852e5f2ce93851d691cf0411a4f451b
 
-TASKS THAT NEED TO BE COMPLETED
+##### TASKS THAT NEED TO BE ADDED TO CURRICULUM:
+- [100 Specs](https://github.com/devleague/100-Specs)
+- [Be Positive](http://class.sandbox.devleague.com/Be-Positive.zip)
+- [PixelPainter](https://github.com/devleague/PixelPainter)
+- Morning Challenges should be added to curriculum in the relevant modules
 
-REEVALUATE THESE TASKS
+##### REEVALUATE THESE TASKS:
 These are tasks that are out of date and should be revaluated
+- [Context Exercise](https://github.com/devleague/Context-Exercise)
+- [bruhdash](https://github.com/devleague/bruhdash)
+- [Warrior Js](https://github.com/olistic/warriorjs)
+- [Technophile](https://github.com/devleague/Technophile)
+- [Sir-Mix-Alot](https://github.com/devleague/Sir-Mix-Alot)
+- [DOM Cloud](https://github.com/devleague/DomCloud)
 

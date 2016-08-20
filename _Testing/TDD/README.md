@@ -51,6 +51,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Assign **js-calculator/no-tests branch** students are to write the tests for this assignment. Pre-req: must have *mvp* completed before writing tests.
   - **see Slides & Assignments section for more non-critical exercise suggestions
 1. Assign the main exercise: [Behavior Driven Shopping List](https://github.com/devleague/Behavior-Driven-Shopping-List)
+  - Note: This assignment should be completed in an OOP programming paradigm.
 
 # Post-Introduction Strategy
 After this introduction the students are encouraged to implement tests on future exercises whether formally (tests written first before code) or as a stretch goal (write tests after completing the assignment). Generally students start off with adding tests as a stretch goal until they get comfortable with *writing tests first* principle.
