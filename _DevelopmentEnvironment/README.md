@@ -4,7 +4,7 @@
 
 ## OSX 
 
-#### Hotkeys for great work flow!
+### Hotkeys for great work flow!
 
 [Mac Keyboard Shortcuts Reference][osx_hotkeys_url]
 
@@ -38,7 +38,7 @@ OPT + Arrow for moving word by word
 
 ^^SHIFT key modifier for highlighting
 
-#### Package Management :package:
+### Package Management :package:
 
 **Homebrew** - [Link][brew_url] *see webpage for installation instructions*
 
@@ -51,7 +51,7 @@ same software manually. *It Just Works™*
 
 Cask focuses on everyday Applications like Google Chrome, Spotify, etc.
 
-#### Launching Applications
+### Launching Applications
 OSX has a feature called Spotlight to use this feature the chords are
 <kbd>OPT</kbd>+<kbd>SPACE</kbd> then you type in the name of an application
 that you want to launch and use the <kbd>Enter</kbd> key to launch it.
@@ -65,7 +65,7 @@ application-specific custom hotkeys, etc. Another amazing feature is the
 ability to trigger a workflow which can launch multiple applications, websites,
 or anything you want all with a user-defined command entered into Alfred.
 
-#### Window Management :metal:
+### Window Management :metal:
 
 **Spectacle** - [Link][spectacle_url] *Easily organize windows without using a
 mouse*
@@ -73,7 +73,7 @@ mouse*
 Great tool (AND FREE)! Strive to be the best keyboard warrior you can be.
 Manage your window layout without using a mouse or trackpad.
 
-#### Operating Specific Applications
+### Operating Specific Applications
 
 **iTerm** - [Link][iterm_url] *use this instead of the Terminal.app included by default*
 
@@ -93,15 +93,15 @@ Manage your window layout without using a mouse or trackpad.
 
 ## Linux (generally Debian-flavor, e.g. Ubuntu) :finnadie:
 
-#### Package Management :package:
+### Package Management :package:
 
-#### Launching Applications
+### Launching Applications
 
-#### Window Management :metal:
+### Window Management :metal:
 
 **i3wm** [Link][i3wm_url] *window manager for GNU/Linux and BSD operating systems*
 
-#### Operating Specific Applications
+### Operating Specific Applications
 
 <!-- link references related to Linux -->
 [i3wm_url]: https://i3wm.org/
@@ -109,11 +109,11 @@ Manage your window layout without using a mouse or trackpad.
 
 ## Windows :information_desk_person:
 
-#### Launching Applications
+### Launching Applications
 
-#### Package Management :package:
+### Package Management :package:
 
-#### Window Management :metal:
+### Window Management :metal:
 
 <kbd>Window Key</kbd>+<kbd>Up/Down/Left/Right Arrow</kbd>
 
@@ -121,7 +121,7 @@ Manage your window layout without using a mouse or trackpad.
 Windows has window management built-in!
 ```
 
-#### Operating Specific Applications
+### Operating Specific Applications
 
 ---
 
@@ -145,11 +145,11 @@ Windows has window management built-in!
 
 ## Sublime Text
 
-#### Package Management
+### Package Management
 
 ## VIM
 
-#### Package Management
+### Package Management
 
 ---
 
