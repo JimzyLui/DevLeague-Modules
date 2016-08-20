@@ -75,11 +75,27 @@ mouse*
 Great tool (AND FREE)! Strive to be the best keyboard warrior you can be.
 Manage your window layout without using a mouse or trackpad.
 
-### Operating Specific Applications
+### Command-line
 
 **iTerm** - [Link][iterm_url] *use this instead of the Terminal.app included by default*
 
+### Documentation tools
+
 **Dash** - [Link][dash_url] *download documentation - work offline!*
+
+### Git workflow tools
+
+Source Tree
+
+Git Kraken
+
+### Text Editors
+
+Sublime Text 3
+
+vim
+
+macvim
 
 <!-- link references related to OSX -->
 [cat_typing]: http://i.imgur.com/bA3Rn7E.gif
@@ -120,8 +136,9 @@ environments focus on eye candy, i3wm focuses on giving the user the ability
 to manage windows, workspaces, launching applications, and more, all with
 keyboard commands.
 
-It is recommended that you use i3wm after getting somewhat comfortable with VIM
-since the window movement hotkeys in i3wm are inspired by VIM's movement hotkeys:
+It is recommended that you use i3wm after getting somewhat comfortable with
+executing hotkeys and maybe even after using VIM since the window movement
+hotkeys in i3wm are inspired by VIM's movement hotkeys:
 
 1. <kbd>H</kbd> for left
 2. <kbd>J</kbd> for down
@@ -153,39 +170,9 @@ since the window movement hotkeys in i3wm are inspired by VIM's movement hotkeys
 
 <kbd>Window Key</kbd>+<kbd>Up/Down/Left/Right Arrow</kbd>
 
-```
 Windows has window management built-in!
-```
 
 ### Operating Specific Applications
-
----
-
-# Command-line
-
-## Bash shell
-
-## Zsh shell
-
----
-
-# Git Work Flow Tools
-
-## SourceTree
-
-## GitKraken
-
----
-
-# Text Editors
-
-## Sublime Text
-
-### Package Management
-
-## VIM
-
-### Package Management
 
 ---
 
