@@ -31,15 +31,33 @@ to help target application icons in the menu.
 
 ---
 
-TODO: add more super-useful OSX specific hotkeys
+<kbd>CMD</kbd>+<kbd>Left or Right arrow</kbd>
 
-CMD + arrow modifier for moving to end and beginning of lines (END and HOME buttons)
-OPT + Arrow for moving word by word
-
-^^SHIFT key modifier for highlighting
+Allows you to move to the beginning or end of a line. Adding shift adds highlighting capabilities.
 
 ---
 
+<kbd>OPT</kbd>+<kbd>Left or Right arrow</kbd>
+
+Allows you to move word by word on a line. Adding shift adds highlighting capabilities.
+
+---
+
+<kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>3</kbd>
+
+Take a screenshot of the entire desktop. If you have multiple monitors it will capture those as well. The file is outputted to your desktop.
+
+Adding <kbd>Shift</kbd> key will save the image to your clipboard. No file is generated when using the Shift key modifier.
+
+---
+
+<kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>4</kbd> + Mouse Gesture
+
+Uses the mouse to capture a region of the screen. The file is outputted to your desktop.
+
+Adding <kbd>Shift</kbd> key will save the image to your clipboard. No file is generated when using the Shift key modifier.
+
+---
 ### Package Management :package:
 
 **Homebrew** - [Link][brew_url] *see webpage for installation instructions*
@@ -75,11 +93,27 @@ mouse*
 Great tool (AND FREE)! Strive to be the best keyboard warrior you can be.
 Manage your window layout without using a mouse or trackpad.
 
-### Operating Specific Applications
+### Command-line
 
 **iTerm** - [Link][iterm_url] *use this instead of the Terminal.app included by default*
 
+### Documentation tools
+
 **Dash** - [Link][dash_url] *download documentation - work offline!*
+
+### Git workflow tools
+
+Source Tree
+
+Git Kraken
+
+### Text Editors
+
+Sublime Text 3
+
+vim
+
+macvim
 
 <!-- link references related to OSX -->
 [cat_typing]: http://i.imgur.com/bA3Rn7E.gif
@@ -95,18 +129,55 @@ Manage your window layout without using a mouse or trackpad.
 
 ## Linux (generally Debian-flavor, e.g. Ubuntu) :finnadie:
 
+### Hotkeys for great work flow!
+
 ### Package Management :package:
 
+**apt-get** - [Link to official documentation][aptget_url] *available by default**
+
 ### Launching Applications
+
+<kbd>ALT</kbd>+<kbd>SPACE</kbd>
+
+Type the name of the application that you want to launch and press <kbd>Enter</kbd>.
 
 ### Window Management :metal:
 
 **i3wm** [Link][i3wm_url] *window manager for GNU/Linux and BSD operating systems*
 
+> This is hard mode.
+
+i3wm is a desktop environment. When a user logs into a linux system they can choose
+an environment. Think of these environments as *skins*, they change the way
+your desktop looks and how you might interace with the GUI. While most desktop
+environments focus on eye candy, i3wm focuses on giving the user the ability
+to manage windows, workspaces, launching applications, and more, all with
+keyboard commands.
+
+It is recommended that you use i3wm after getting somewhat comfortable with
+executing hotkeys and maybe even after using VIM since the window movement
+hotkeys in i3wm are inspired by VIM's movement hotkeys:
+
+1. <kbd>H</kbd> for left
+2. <kbd>J</kbd> for down
+3. <kbd>K</kbd> for up
+4. <kbd>L</kbd> for right
+
+[Read the New User Guide to get started](i3wm_newuser_url)
+
+![first i3 layout][i3wm_img1_url]
+
+![second i3 layout][i3wm_img2_url]
+
 ### Operating Specific Applications
 
 <!-- link references related to Linux -->
+[aptget_url]: https://help.ubuntu.com/community/AptGet/Howto
 [i3wm_url]: https://i3wm.org/
+[i3wm_newuser_url]: https://i3wm.org/docs/userguide.html
+[i3wm_img1_url]: https://i3wm.org/docs/keyboard-layer1.png
+[i3wm_img2_url]: https://i3wm.org/docs/keyboard-layer2.png
+
 ---
 
 ## Windows :information_desk_person:
@@ -119,39 +190,9 @@ Manage your window layout without using a mouse or trackpad.
 
 <kbd>Window Key</kbd>+<kbd>Up/Down/Left/Right Arrow</kbd>
 
-```
 Windows has window management built-in!
-```
 
 ### Operating Specific Applications
-
----
-
-# Command-line
-
-## Bash shell
-
-## Zsh shell
-
----
-
-# Git Work Flow Tools
-
-## SourceTree
-
-## GitKraken
-
----
-
-# Text Editors
-
-## Sublime Text
-
-### Package Management
-
-## VIM
-
-### Package Management
 
 ---
 
