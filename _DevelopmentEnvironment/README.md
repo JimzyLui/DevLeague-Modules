@@ -38,6 +38,8 @@ OPT + Arrow for moving word by word
 
 ^^SHIFT key modifier for highlighting
 
+---
+
 ### Package Management :package:
 
 **Homebrew** - [Link][brew_url] *see webpage for installation instructions*
