@@ -7,6 +7,11 @@ This module has resources for students that want to continue learning and readin
 * [Code Newbie](http://www.codenewbie.org/podcast) - [Weekly] - [Interview](#interview), [Begginer](#beginner)
 * [JavaScript Jabber](http://devchat.tv/js-jabber) - [Weekly] - [Interview](#interview)
 * [Healthy Hacker](http://www.healthyhacker.com/) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Healthy Hacker](http://www.healthyhacker.com/) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Shop Talk](http://shoptalkshow.com/) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Node Up](http://nodeup.com/) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Developer Tea](https://spec.fm/podcasts/developer-tea) - [Weekly] - [Themes](#themes), [Interview](#interview)
+* [Coder Radio](http://www.jupiterbroadcasting.com/20392/pardon-our-dust-coder-radio/) - [Weekly] - [Themes](#themes), [Interview](#interview)
 
 ### Books
 - [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
@@ -118,5 +123,6 @@ This module has resources for students that want to continue learning and readin
 - [@SwiftOnSecurity](https://twitter.com/swiftonsecurity)
 - [@migueldeicaza](https://twitter.com/migueldeicaza)
 - [@codinghorror](https://twitter.com/codinghorror)
+- [@thepracticaldev](https://twitter.com/thepracticaldev)
 - [@spolsky](https://twitter.com/spolsky)
 - [@jonskeet](https://twitter.com/jonskeet)

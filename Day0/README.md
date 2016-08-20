@@ -66,6 +66,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md)
   - Chrome
   - SublimeText, JSHint
+    - Discuss the [DevLeague JavaScript Style Guide](https://github.com/devleague/JS-Style-Guide)
   - Terminal, iTerm, Bash, zShell
   - Setup Medium.com Accounts and blogs
   - git, github, ssh keys
