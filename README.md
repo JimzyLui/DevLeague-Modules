@@ -82,7 +82,7 @@ https://github.com/blindFS/vim-reveal
 
 use Remark ?
 
-to present, use **ngrok** then distribute the url
+to present, use **grok** then distribute the url
 
 # DevLeague Topics
 
@@ -118,5 +118,64 @@ These are tasks that are out of date and should be revaluated
 - [AJAX Slides](http://slides.com/jasonsewell/ajax-schmajax#/)
   - Should we still teach XHR or should we switch to Fetch. Or both?
 - [TODO Crud](https://gist.github.com/theRemix/4b630a417ee5764079db)
-- [America Online](https://github.com/devleague/America-Online)
+- [America Online](https://githaub.com/devleague/America-Online)
+- [Meteor](https://gist.github.com/jaywon/16c18ebc3037ab9c5839)
+  - https://slides.com/jasonsewell/meteor-day/
+- [bashercise](https://github.com/devleague/bashercise)
+  - Bash Pracitce
+- [Don't string Me Along](https://github.com/devleague/dont-string-me-along)
+- [Rock, Paper, Fireball](https://gist.github.com/theRemix/c81b72cfe004cba879b3)
 
+##### Morning Challenges
+These need to be added to the appropriate module or put into their own module
+- Algorithm Challenge	Scrambled-Number-Generator	https://github.com/devleague/Scrambled-Number-Generator
+- Algorithm Challenge	Multiples of 3 and 5	https://github.com/devleague/Challenge-Multiples-of-3-and-5
+- Algorithm Challenge	Even Fibbonacci Sequence
+- Algorithm Challenge	Largest Prime Factor	https://github.com/devleague/Challenge-Largest-Prime-Factor
+- Algorithm Challenge	Largest Palindrome Product	https://github.com/devleague/Challenge-Largest-palindrome-product
+- Algorithm Challenge	Smallest Product	https://github.com/devleague/Challenge-Smallest-multiple
+- Algorithm Challenge	Sum Square Differences	https://github.com/devleague/Challenge-Sum-square-difference
+- Algorithm Challenge	10001st Prime	https://github.com/devleague/Challenge-10001st-prime
+- Algorithm Challenge	Largest Product in a Series	https://github.com/devleague/Challenge-Largest-product-in-a-series
+- Algorithm Challenge	Special Pythagorean Triplet	https://github.com/devleague/Challenge-Special-Pythagorean-triplet
+- Algorithm Challenge	Summation of Primes	https://github.com/devleague/Challenge-Summation-of-primes
+- Algorithm Challenge	Rotate Matrix	https://github.com/devleague/Challenge-Rotate-Matrix
+- Algorithm Challenge	Js-Calculator	https://github.com/devleague/js-calculator
+- Algorithm Challenge	Js-Linked-List	https://github.com/devleague/js-linked-list
+- Algorithm Challenge	Bookseller	http://jsbin.com/bajesayola/1/edit?js,output
+- Palindromic Number Generator https://gist.github.com/sgnl/db8a16af1747ba8f4217
+- Bowling Score Calculator https://gist.github.com/sgnl/08e477d597e0b6b8b0b3
+- Multidimensional Array Search https://gist.github.com/sgnl/fa528cb66198d48c47a8
+- Dart Score Calculator https://gist.github.com/sgnl/14f6be6a48a198f33a3c
+- Reseating Challenge		https://github.com/devleague/Reposition-Challenge-1
+- Pig Latin Translator https://gist.github.com/JoeKarlsson1/abbe66b00ee8540bf364
+- Christmas Day Challenge Holiday Code Challenge https://gist.github.com/JoeKarlsson1/27011b72338ff9aee901
+- Getty Images Search Engine (XHR) https://gist.github.com/sgnl/71e584c28a04f0d36524
+- GettingImages API (XHR)		https://gist.github.com/sgnl/71e584c28a04f0d36524
+- Towers of Hanoi https://gist.github.com/JoeKarlsson1/195def24345aefb18fd7
+- Broken Keyboard		https://github.com/devleague/Challenge-Broken-Keyboard
+- Circular String Detection	Week 1	https://gist.github.com/jaywon/c76abc57dc33e1679c02
+- Stack Trace	Week 2	https://gist.github.com/jaywon/5f572dadb66cc596c505
+- Email Hell		https://gist.github.com/jaywon/77c024346887fe7c3f37
+- Project Setup Quickfire		https://gist.github.com/jaywon/670e4912024f8bdd1ff9
+- Matrix Generator		https://gist.github.com/jaywon/7df674a8b3e76693ab20
+- Recursive Factorial	Week3	https://gist.github.com/jaywon/26125d42bb8ede20411a
+- Reflector https://gist.github.com/jaywon/129cf3f0775d0e6babfa
+- Factory Pattern		https://gist.github.com/jaywon/f5b81c2bd68d35f49bad
+- Click Tracking	Week 4	https://gist.github.com/jaywon/29b696679cd49b3d3d8f
+- Better Buttons		https://gist.github.com/jaywon/84bd0ddb8f6950d40b43
+- Redacted	Not Given Yet	https://gist.github.com/sgnl/cfe5e4b715fdd75f1a36
+- Sql Data Types		https://gist.github.com/jaywon/80b3ceb78c2791c30950
+- Stream Minifier		https://gist.github.com/jaywon/f5c38602d02ea654276b
+- Project Planning		https://gist.github.com/jaywon/d69eb6306c129bf5c5ea
+- Sorting algorithms		https://gist.github.com/theRemix/cbb16c60ee16144b3a53
+- 5-Day Forecast		https://gist.github.com/sgnl/bba0abc3f3ef925dfc38
+
+##### Ideas for slides or Modules
+- Cookies
+- Authentication
+- Sessions
+- Redis??? Do we want to cover this???
+- D3 - Students use every cohort, maybe we should make a assignment or slides to cover it.
+- Performance
+- Agile Development

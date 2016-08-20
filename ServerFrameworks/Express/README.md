@@ -41,7 +41,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Introduce ExpressJS (Whiteboard and talk)
 1. Present **ExpressJS Part Deux** Slideshow: [ExpressJS Part Deux](http://slides.com/joecarlson/express-yourself-deux#/)
 1. Assign *Pixel Painter ExpressJS Refactor* - Build an Express server for Pixel-Painter. Based on what was presented in the lecture the students will create a server for one of their previous assignments. Focus on Project alteration, static-file serving, has only one route.
-1. Present **Articles, Products and Express, Oh My!**: [Articles, Products and Express, Oh My!](https://github.com/devleague/articles-products-and-express)
+1. Assign **Buzzword Bingo**: [Buzzword Bingo]()
+1. Assign **Articles, Products and Express, Oh My!**: [Articles, Products and Express, Oh My!](https://github.com/devleague/articles-products-and-express)
 1. Cover [Templating](https://github.com/devleague/DevLeague-Modules/tree/master/ServerFrameworks/Templating)
 1. [Optional] Assign **Redacted** as a morning challenge or as a stretch assignment: [Redacted](https://github.com/devleague/Redacted)
 1. Check in with students and their understanding of **ExpressJS**, **Middleware**, and **Routing** (talk)
