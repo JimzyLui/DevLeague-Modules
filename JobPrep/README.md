@@ -63,6 +63,7 @@ Make sure and try some practice questions on sites like HackerRank, TopCoder, Co
   - Network and hustle
   - No one cares about what you want - tell people what you can provide for them.
      - You can learn some really hard skills really fast
+
 1. Discuss freelancing as an option:
   - **Note** DevLegaue does not suggest starting out as a freelance web developer. We find that students have better outcomes if they get full-time work at a company that can continue to provide mentorship.
   - **Note** These notes are for student's that want to do freelancing on the side or in the future after gaining more experience.

@@ -179,3 +179,9 @@ These need to be added to the appropriate module or put into their own module
 - D3 - Students use every cohort, maybe we should make a assignment or slides to cover it.
 - Performance
 - Agile Development
+- Create a client server communication module
+  - XHR
+  - SSE
+  - Websockets
+  - Fetch
+  - HTTP2
