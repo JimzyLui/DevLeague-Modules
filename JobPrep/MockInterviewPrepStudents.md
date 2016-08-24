@@ -13,37 +13,6 @@ DevLeague believes in the value of an authentic interview experience. As with ev
 - **Research before you go** - find literature or information online about the organization and its products so you are well informed.
 - **Create Your Elevator Speech** - prepare a 2-5 minute sales pitch about yourself and rehearse with a friend or family.
 - **Make a list of 5 questions to ask the interviewer about the organization and/or the position.**
-- **Practice Whiteboarding** - Solve problems without the aid of your text editor or the internet. Be sure to practice talking through your solution outloud. You will look crazy talking to yourself, this is okay.
-- **Review Algorithms** - Sorting algorithms, Linked Lists, Red Black trees, Search algorithms, etc.
-- **Review Concepts** - Review vocab, design patterns, frameworks, libraries
-- **Practice coding problems** - Practice solving code interview style questions from [Hacker Rank](https://www.hackerrank.com/), [Coder Byte](https://coderbyte.com/), [Code Wars](http://www.codewars.com/), and [Project Euler](https://projecteuler.net/). Try setting time limits for yourself, or solving them on a whiteboard
-- **Look sharp**
-
-## Soft Questions
-
-In order to help coach students on their answers to soft questions - ask them about their experience. Some sample questions include:
-* Can you tell me a little bit about yoruself?
-* What are your short term and long term goals?
-* What do you like to do on the weekends?
-* How do you set and manage goals?
-* Where do you predict the industry will be in three years?
-* Could you describe your dream job?
-* What project or acheivement that you are proud of?
-* What would you like me to know about you that isn't on yoru resume?
-* Why should I hire you?
-* You seem to be making a big career change, why is that?
-* What is your greatest weakness?
-* Why did you want to be a dev?
-* What was your biggest mistake and what did you learn from it.
-* What do you do if you disagree with a boss or coworker at work, and how you handled it?
-* How do you resolve issues in a team?
-* What do you care about most when reviewing somebody else's code?
-* Tell me about a situation where you had to solve a difficult problem.
-* Describe a time when you anticipated potential problems and developed preventive measures.
-* Please describe a time when you faced a significant obstacle to succeeding with an important work project or activity.
-* How do you find the middle item in a linked list?
-* Tell me about a time you were stuck on a problem and your process of solving that issue?
-* When can you start?
 
 ## Technical Interview
 
