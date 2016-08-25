@@ -50,7 +50,7 @@ In order to gauge your technical skills - a potential employeer may have you whi
 - Practice for phone-/video: practice in a Google Doc.
 - Technical Interviews are not adversarial
   - I recommend a collaborative demeanor
-- Manage your time
+- **Manage your time**
   - Design is good up front, but, leave time for implementation
   - If youre putting somethign aside (boundary conditions, optimization, function definition, etc). Say so!
 - Don't try to intepret the interviewers mood/body language, etc
