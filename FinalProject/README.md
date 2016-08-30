@@ -94,6 +94,10 @@ Wow, you just built a tool for other developers to use while also creeating the 
 - [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
 
 ## Previous DevLeague Final Projects
+- [New Coders](http://newcoders.tech/)
+  - [New Coders Repo](https://github.com/devMattO/New-Coders-Survey-Data-Visualizations)
+- [Xtinct Online](http://xtinct.online/)
+  - [Xtinct Online Repo](https://github.com/zee-A-team/Final-Project)
 - [Hi Viz](http://hiviz.io/)
 - [Lane Wins](http://lanewins.com/)
 - [U Hero](http://uhero.devleague.com/)
