@@ -32,7 +32,7 @@ Package control is a Package Manager used to manage Sublime Text Plugins.
 
 ====
 
-## [Oh-My-ZSH Shell](http://ohmyz.sh/)
+## Install [Oh-My-ZSH Shell](http://ohmyz.sh/)
 
 - **OSX:** follow the instructions in the via curl tab
 - **Linux:** follow the instructions in the via curl tab
