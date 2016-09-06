@@ -6,7 +6,7 @@ If you have already installed any of these programs before, then you may skip it
 
 ## [Homebrew](http://brew.sh/#install) **osx only**
 
-### Install Node through Homebrew
+## Install Node through Homebrew
 **OSX**
 1. run the command `brew install nodejs` (this will give us the NPM command which we will use later in this doc)
 
@@ -29,6 +29,8 @@ Package control is a Package Manager used to manage Sublime Text Plugins.
 ### [Installing a Javascript Linter](https://gist.github.com/sgnl/04fa7063183e7777e079)
 
 ### [Suggested configuration for Sublime Text](https://gist.github.com/sgnl/0b0c5db79b16105c5fb5)
+
+====
 
 ## [Oh-My-ZSH Shell](http://ohmyz.sh/) **all operating systems**
 
