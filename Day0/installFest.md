@@ -66,15 +66,19 @@ With the `.zshrc` file still open in `vi`, find the line with the code `plugins`
 ### Enabling some helpful aliases
 find the code near the bottom of the `.zshrc` file:
 
+```
   # Example aliases
   # alias zshconfig="subl ~/.zshrc"
   # alias ohmyzsh="subl ~/.oh-my-zsh"
+```
 
 change to (remove the `#` and space after it; this a code comment in the `bash` language):
 
+```
   # Example aliases
   alias zshconfig="subl ~/.zshrc"
   alias ohmyzsh="subl ~/.oh-my-zsh"
+```
 
 ### Save and reload your configuration
 While in Command Mode (press `ESC` key a few times to make sure you are in Command Mode), press the `:` key then type `wq` and hit <kbd>Enter</kdb>. You have now saved and exited  the `vi` program.
