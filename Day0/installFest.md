@@ -50,6 +50,9 @@ Package control is a Package Manager used to manage Sublime Text Plugins.
 
 Now VIM will be your default editor in the command-line!
 
+**Opening your zsh configuration file**
+`vim ~/.zshrc`
+
 **Moving around in vim**
 Move your cursor down with the `J` key and `L` to move right. (also, `H` is left, and `K` is Up). **YOUR MOUSE WILL NOT WORK**
 
