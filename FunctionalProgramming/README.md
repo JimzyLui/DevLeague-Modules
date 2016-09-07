@@ -161,3 +161,6 @@ The following exercises and projects state an average time alotted. A session is
 
 - [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 - [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+#### Functional Light JS - A book about functional programming
+- Link: [Functional Light JS - A book about functional programming](https://github.com/getify/functional-light-js/?ref=mybridge.co)

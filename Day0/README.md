@@ -16,12 +16,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     1. Where are your from?
 
 1. Context of Class
-  - Self-teaching
-  - Ask questions / discussion
-  - Humility (no ego)
-  - Immersion
   - Respect others, yourself, and the facilities
-  - Have fun
 
 1. [Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
   1. Understand and accept that you will make mistakes.
@@ -36,6 +31,16 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. Critique code instead of people
 
 1. Guidelines for success
+  - Self-teaching
+  - Ask questions / discussion
+  - Take care of yourself
+    - Eat healthy foods
+    - Get plenty of sleep
+    - Excercise
+  - Respect the facilities
+    - Be mindful of noise - we have neighbors
+    - No alocohol
+  - Immersion
   - No Drama
   - No romantic relationships during the course of the class
   - Come to Jason or Russell if there are any grievances
@@ -43,6 +48,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - We talk about “Programming not people”
   - Be here on time everyday.
   - Do not compare yourself to others
+  - Have fun
 
 1. Content Overview
   - Format of Course (Daily Schedule)
@@ -54,8 +60,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
     * 5:00pm - 6:00pm - Dinner
     * 6:00pm - 8:00pm - Jam on code with TAs
     * 8:00pm to whenever - Jam on code
-  - Challenges (algorithms, problem solving, think like an engineer)
-  - What is Programming? (Programmer(cs+code) vs. Developer(se+pro=problemsolver))
+  - Challenges
+    - Algorithms, problem solving, think like an engineer
   - How do I know I learned something?
     - Learning
     - Knowing
