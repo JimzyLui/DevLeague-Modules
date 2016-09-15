@@ -61,6 +61,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 #### Closures
 - Students should be able to **explain** closures.
+  - Closure is when a function is able to remember and access its lexical scope even when that function is executing outside its lexical scope.
 - Recommended: When given code snippets, be able to identify where a closures might occur. And why closures exist in Javascript and how they are utilized.
 
 #### Module Pattern
@@ -211,6 +212,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Hoisting
 
 #### Closures
+- [You Don't Know JS - Closures and Scope](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/)
 
 #### Module Pattern
 

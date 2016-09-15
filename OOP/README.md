@@ -103,6 +103,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Present **Prototypes in Javascript**: [http://slides.com/jasonsewell/prototypes-in-javascript](http://slides.com/jasonsewell/prototypes-in-javascript) @Jon - this was added in.
 1. Assign **JS Constructors**: [https://github.com/DevLeague/js-constructors](https://github.com/DevLeague/js-constructors)
 1. Assign **JS Zombies**: [https://github.com/DevLeague/js-zombies](https://github.com/DevLeague/js-zombies)
+1. Present **Multiple Inheritence**: [Multiple Inheritence Slides](http://slides.com/joecarlson/multiple-inheritance#/)
+1. Assign **Technophile**: [Technophile](https://github.com/devleague/Technophile)
 1. Check in with students and their understanding of **Constructors**, **Inheritence**, and **Super calls** (talk)
 1. Verify that students have met the minimum required understanding before moving on.
 
