@@ -16,9 +16,13 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-- Students should *be able to explain* XXX
-- Students should *know about* XXX
-- Students should *fully grok* XXX
+- Students should *be able to explain*
+  - what a server(differences between a shared host, VPS, and etc.) is.
+  - how an http request works (from browser to server and back).
+- Students should *know about*
+  - how to traverse and work in a VPS (or server) environment.
+  - deploy and run project environments on a staging or production server.
+- Students should *fully grok*
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
