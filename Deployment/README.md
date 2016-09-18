@@ -4,7 +4,7 @@
 This material should come after creating a fully featured deployable web application. Students should already be familiar with basic linux commands.
 
 ## Class Format / Time to Allow for Subject
-This material usually takes XXX to introduce and up to XXX of exercises and reinforcement.
+This material usually takes 1 full day to introduce and up to a day's worth of exercises and reinforcement.
 
 ## Topics & Expected Outcomes
 
