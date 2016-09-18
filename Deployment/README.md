@@ -104,6 +104,8 @@ At the end of this lecture, students should *be able to explain* linux user and 
 ### Ports
 At the end of this lecture, students should *be able to explain* what ports are and their role in servers.
 
+List of [Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) for reference.
+
 ### Talk on network security
 At the end of this lecture, students should *know about* basic VPS security through limiting access to ports.
 
