@@ -101,6 +101,9 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
+#### Test Data for LiveCoding
+- [Gists Here](https://gist.github.com/theRemix/ac3f04288d2cbae670917e0109d76b7c)
+
 #### Fun Arrays
 - Repository: [Fun Arrays](https://github.com/devleague/fun-arrays)
 - Average Time Alotted: 1 to 2 sessions
