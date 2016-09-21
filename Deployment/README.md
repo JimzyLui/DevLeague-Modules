@@ -4,7 +4,7 @@
 This material should come after creating a fully featured deployable web application. Students should already be familiar with basic linux commands.
 
 ## Class Format / Time to Allow for Subject
-This material usually takes XXX to introduce and up to XXX of exercises and reinforcement.
+This material usually takes 1 full day to introduce and up to a day's worth of exercises and reinforcement.
 
 ## Topics & Expected Outcomes
 
@@ -16,9 +16,13 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-- Students should *be able to explain* XXX
-- Students should *know about* XXX
-- Students should *fully grok* XXX
+- Students should *be able to explain*
+  - what a server(differences between a shared host, VPS, and etc.) is.
+  - how an http request works (from browser to server and back).
+- Students should *know about*
+  - how to traverse and work in a VPS (or server) environment.
+  - deploy and run project environments on a staging or production server.
+- Students should *fully grok*
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
@@ -99,6 +103,8 @@ At the end of this lecture, students should *be able to explain* linux user and 
 
 ### Ports
 At the end of this lecture, students should *be able to explain* what ports are and their role in servers.
+
+List of [Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) for reference.
 
 ### Talk on network security
 At the end of this lecture, students should *know about* basic VPS security through limiting access to ports.
