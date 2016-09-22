@@ -103,6 +103,7 @@ In order to gauge your technical skills - a potential employeer may have you whi
 - **Review Concepts** - Review vocab, design patterns, frameworks, libraries
 - **Practice coding problems** - Practice solving code interview style questions from:
   - [Hacker Rank](https://www.hackerrank.com/)
+  - [LeetCode](https://leetcode.com/)
   - [Coder Byte](https://coderbyte.com/)
   - [Code Wars](http://www.codewars.com/)
   - [Project Euler](https://projecteuler.net/)
