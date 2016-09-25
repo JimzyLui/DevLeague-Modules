@@ -124,6 +124,14 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [ECMAScript 2015 (ES6) and beyond - Node.js](https://nodejs.org/en/docs/es6/)
 - Notes: Great book covering ES6 and beyond
 
+#### TC39
+- Link: https://tc39.github.io/process-document/
+- Notes: Stage 0 and the governing enitity: TC39
+
+#### ES6-Feature
+- Link: http://es6-features.org
+- Notes: Get quick information of ES6 features and also showcases whether or not a feature has ECMA5 equivalent code.
+
 #### Node.js ES2015 Support Page
 - Link: [Node.js ES2015 Support Page](http://node.green/)
 - Notes: Great book covering ES6 and beyond
