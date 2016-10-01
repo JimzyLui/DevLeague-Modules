@@ -44,7 +44,7 @@ Should take about 60 to 90 minutes to cover a general idea.
   - file permissions
   - User Group ownership
 1. Communicating with servers
-  - curl/scp/rsync
+  - curl/scp
 1. Ports
 1. SSH keys
 1. Nginx
@@ -82,7 +82,7 @@ Make sure that students remember/understand topics talked about the previous ses
 1. Install Fest:
   - `npm`, `n`
 1. Run and test
-1. Install `forever`
+1. Install `pm2`
 
 
 ## Day Three
@@ -119,4 +119,4 @@ Talk about crazy stuff and support students on deploying projects
 
 # Additional Resources
 
-[Basic VPCS Deployment Resources](https://github.com/devleague/Basic-VPS-Deployment-Resources)
+[Basic VPS Deployment Resources](https://github.com/devleague/Basic-VPS-Deployment-Resources)
