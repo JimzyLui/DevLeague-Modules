@@ -28,22 +28,26 @@ _students should be responsible for thinking of the names based on the purpose_
 
 
 > Create a variable to track the person's age
+
 ```javascript
 var personAge;
 ```
 
 > Create a variable to track the person's age with an initial value of 33
+
 ```javascript
 var personAge = 33;
 ```
 
  > Set the "age" property of the "person" object to 33
+ 
 ```javascript
 person.age = 33;
 ```
 
 > Create a pure function that takes in 2 arguments, "element name" and "id"
 > and returns a new HTMLElement with it's type based on the first parameter, and it's id set to the "id" parameter
+
 ```javascript
 function createElement(elementName, id){
   const newElement = document.createElement(elementName);
