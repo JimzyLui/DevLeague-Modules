@@ -40,12 +40,12 @@ var personAge = 33;
 ```
 
  > Set the "age" property of the "person" object to 33
- 
+
 ```javascript
 person.age = 33;
 ```
 
-> Create a pure function that takes in 2 arguments, "element name" and "id"
+> Create a function that takes in 2 arguments, "element name" and "id"
 > and returns a new HTMLElement with it's type based on the first parameter, and it's id set to the "id" parameter
 
 ```javascript
@@ -53,4 +53,7 @@ function createElement(elementName, id){
   const newElement = document.createElement(elementName);
   newElement.id = id;
   return newElement;
-}```
+}
+```
+
+
