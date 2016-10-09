@@ -21,3 +21,9 @@ We often use a guideline like “everyone speaks once before anyone speaks twice
 - What is your dream Dev job?
 - Would you recommend DL to your friends?
 - How have your goals changed since you first come to DL?
+
+### Leaving a bootcamp
+
+_this does not need to be shown on the last day, though is relevant_
+
+[DBCx Stuff Everybody Knows - CTO of NPM](https://www.youtube.com/watch?v=fjtn3KCi17Y)
