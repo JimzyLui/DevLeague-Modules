@@ -113,3 +113,9 @@ The following exercises and projects state an average time alotted. A session is
 - Link: [http://www.sql-join.com/](http://www.sql-join.com/)
 - Concepts: SQL JOIN Statements
 - Notes: Explanation of the different types of JOIN statements and how to use them
+
+#### Software tools for PostreSQL
+Recommend using both tools mentioned below
+
+- [PgAdmin, full-featured and very robust tool](https://www.pgadmin.org/)
+- [PSequel, a query-tool with a clean interface. ](http://www.psequel.com/)
