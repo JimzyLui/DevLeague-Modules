@@ -1,3 +1,16 @@
+# OSX PostgeSQL install methods
+
+1. [brew](https://github.com/devleague/DevLeague-Modules/blob/master/Databases/RDBMS/postgresInstall.md#installing-postgres-via-brew)
+2. [postgres.app](http://postgresapp.com/)
+
+The differences being that the brew method needs more time but touching on command-line, symlinking, and bash aliasing for starting and stoping the service daemon.
+
+`Postgres.app` is a one-click install. consider using this when all else fails or there is a time constraint.
+
+# Ubuntu PostgreSQL install methods
+
+1. `version 16.04`[Digital Ocean community documentation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+
 # Installing Postgres via Brew
 
 ## Pre-Reqs
@@ -7,6 +20,8 @@ In your command-line run the following commands:
 
 1. `brew doctor`
 1. `brew update`
+
+*brew recommends running the `doctor` and `update` commands before upgrading or installing new packages. Run these commands each time. If you forget to, brew will remind you in most cases :information_desk_person:*
 
 ## Installing
 1. In your command-line run the command: `brew install postgresql`
