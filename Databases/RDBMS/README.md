@@ -115,7 +115,7 @@ The following exercises and projects state an average time alotted. A session is
 - Notes: Explanation of the different types of JOIN statements and how to use them
 
 #### Software tools for PostreSQL
-Recommend using both tools mentioned below
-
-- [PgAdmin, full-featured and very robust tool](https://www.pgadmin.org/)
+- [Postico](https://eggerapps.at/postico/)
 - [PSequel, a query-tool with a clean interface. ](http://www.psequel.com/)
+- [PgAdmin, full-featured and very robust tool](https://www.pgadmin.org/)
+
