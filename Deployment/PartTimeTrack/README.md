@@ -99,6 +99,9 @@ DNS settings and setting your app free into the internet wilderness.
 1. Purchasing domains (should be discussed briefly on day one)
 1. Top Level Domains (TLD)
 1. DNS Records
+1. Basic Firewalls
+  - UFW [link](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+  - IPtables [link](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
 
 ### Exercise/Examples:
 1. Setup DNS Records
