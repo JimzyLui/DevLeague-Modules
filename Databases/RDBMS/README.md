@@ -126,3 +126,6 @@ The following exercises and projects state an average time alotted. A session is
 
 **PostgreSQL Community-driven list**
 - [wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
+
+#### External Exercises
+- https://pgexercises.com/
