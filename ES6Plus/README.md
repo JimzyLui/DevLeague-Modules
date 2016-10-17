@@ -170,8 +170,9 @@ The following exercises and projects state an average time alotted. A session is
 #### Promise - MDN
 - Link: [Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/API/PromiseRejection/promise)
 
-#### Generaor - MDN
-- Link: [Generaor - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+#### Generator - MDN
+- Link: [Generator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+- Link: [ES6 Generators - In Depth](https://davidwalsh.name/es6-generators)
 
 1. [Learn Harmony](http://learnharmony.org)
 1. [ECMAScript 6 — Feature Overview & Comparison](http://es6-features.org/)
