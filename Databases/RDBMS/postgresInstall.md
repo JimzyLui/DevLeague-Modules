@@ -10,6 +10,7 @@ The differences being that the brew method needs more time but touching on comma
 # Ubuntu PostgreSQL install methods
 
 1. `version 16.04`[Digital Ocean community documentation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+2. update `pg_hba.conf` file access permissions: http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
 
 # Installing Postgres via Brew
 
