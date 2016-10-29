@@ -94,6 +94,10 @@ Wow, you just built a tool for other developers to use while also creeating the 
 - [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
 
 ## Previous DevLeague Final Projects
+- [Styles For Hue](http://stylesforhue.com/)
+  - [Styles For Hue Repo](https://github.com/devleague/styles-for-hue)
+- [Omnimood](http://omnimood.com/)
+  - [Omnimood Repo](https://github.com/devleague/omnimood)
 - [New Coders](http://newcoders.tech/)
   - [New Coders Repo](https://github.com/devMattO/New-Coders-Survey-Data-Visualizations)
 - [Xtinct Online](http://xtinct.online/)

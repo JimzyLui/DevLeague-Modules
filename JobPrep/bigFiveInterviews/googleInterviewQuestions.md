@@ -118,3 +118,189 @@ Question and Answer Portion
 - His one great advice
   - Overly communicate!
   - Bounce ideas off the interviewer if you have to
+
+  # Google Interview Process
+
+I applied for a job at Google through their [career
+website](https://www.google.com/about/careers/). The actual position I applied
+for didn't really matter but it did get my resume into the hands of a recruiter.
+
+The recruiter, who was from Texas, contacted me a couple weeks after I
+initially applied. She asked me a few soft questions about my resume and
+past jobs and then walked me through the setup for the phone interview. The
+recruiter will ask you what programming languages you are most comfortable with
+and which of their campuses you would be willing to go to if you get through to
+the on site. I told them I was going to program in javascript and that I would
+prefer to go to the Fremont, WA campus(The other campus is in Mountainview, CA).
+They will send you a packet of information about the interview and study
+material.
+
+# Phone Interview
+
+The phone interview is 45 minutes with 2 questions, 1 "easy" and 1 "hard". They will
+match you with an interviewer who knows the language you specified. They do not
+allow psuedocode. Aside from the technical questions I was also asked a couple
+of questions about some technologies I had on my resume.
+
+The interview is held over the phone with no video and you will have to code
+in google docs. You should definitely practice coding in google docs before hand
+because it can slow you down during the actual interview. Also communication is
+super important, you should constantly be explaining over the phone. I spent too
+long on the first problem and just talked through the second question and I
+passed the phone interview.
+
+### Question 1 - Make a counter
+
+Make a function that will increment a number stored in array
+(There is a max value for integers so we must use an array to increment higher than that value).
+Explain the time complexity of the function you wrote.
+
+For example, [8,0,0,0] increments to  [8,0,0,1] when passed through the
+function.
+
+### Questioin 2 - Autosuggestion
+
+Make a function that when given a string that has been
+misspelled by hitting a wrong key will give back list of possible correct
+spellings.
+
+For example, "WEARCH" will return "SEARCH".
+
+You are given two helper functions:
+
+**surroundingKeys(key)** - A function that takes a key on the keyboard and returns all keys
+directly surrounding that key. For example, passing "s" will return {a,q,w,e,d,x,z}
+
+**dict(string)** - A function that returns true or false if a string is a word in the
+dictionary.
+
+Explain the time complexity of the function you wrote and offer any
+ideas that would possibly make the run time faster. How many possible correct
+combinations are there for a word?
+
+# On Site Interview
+
+Before the onsite I switched recruiters to one that was located in
+Fremont where I was going to do my interview. I went through a lot of the same
+soft questions as with the first recruiter and he walked me through setting up
+the dates for the onsite interview. There is also a class you can sign up for in california that
+will help you prep. Again I got a packet of information with material to study
+and some forms that I needed to sign.
+
+On the day of the interview I went up to their campus (The one in Fremont is
+much smaller than the one in Mountainview). All the doors needed a passkey so I
+snuck in after an employee. They have a station where you sign in and it will
+contact your recruiter. The recruiter will give you a tour and then sit you in a room
+where you will spend the rest of the day having interviews.
+
+If you are in Mountainview you will have to do all your coding on a whiteboard.
+In Freemont they have a whiteboard wall and a chromebook with some editor hooked
+up to a monitor on the other wall.
+
+There are 5 interviews, 1 hour each, with 1 or more questions per interview.
+There will be a lunch break with a Google Software Engineer after the second interview.
+The interviewers will not talk to each other and there will generally only be
+one person in the room besides you unless the interviewer is being reviewed.
+I got asked about a project I worked on during almost all my interviews so have
+something prepared to say.
+
+### Interview 1
+
+Decompress a string where anything inside brackets is expanded x amount of times
+where x is a number preceding the brackets. What is the runtime complexity of
+this function.
+
+For example, the string a2[b]h will be expanded to abbh  \
+A slightly tougher example, a2[b2[c]]h will be expanded to abccbcch
+
+### Interview 2
+
+Find the longest path of increasing integers in a matrix.
+
+example matrix:
+
+```
+[ 1 3 5 2 ]
+[ 5 9 2 5 ]
+[ 0 3 5 3 ]
+```
+
+### Lunch Break
+
+Get to have an hour for lunch and coffee while you talk with a Software Engineer
+who works at Google.
+
+### Interview 3
+
+Find the sum of two line segments using linear interpolation. The x,y values for
+each line are stored in two arrays. What tests would you write for this
+function?
+
+For example
+
+line segment 1: [{x:1,y:1}, {x:4,y:4}]  \
+line segment 2: [{x:1,y:1}, {x:3,y:2}]
+
+For x value 1 you will simply sum the y values of both line segments a x value 1. 1 + 1 = 2, giving you the new
+point {1,2}.
+
+However, for x value 3 in line segment 2 there is not a corresponding point in
+the line segment 1 array. You will have to use linear interpolation to find the
+y value at x value 3.
+
+Same for x value 4 which is in line segment 1 but not line
+segment 2.
+
+### Interview 4
+
+Find the optimal place to put a water jug in an office so that the people in the
+office reach the water jug in the shortest amount of steps. People and obstacles
+will be randomly placed in a matrix.
+
+example matrix:
+
+x = obstacle  \
+o = person
+
+```
+[ x    o  o ]
+[ o  x  x   ]
+[   x    o  ]
+```
+
+### Interview 5
+
+Given a matrix containing randomly placed rocks find the best place to put a
+"bomberman bomb" so that the explosion area is the largest. "bomberman bombs"
+will exploded vertically along the y-axis and horizontally along the x-axis
+until they hit a rock or edge. What is the runtime? Can you optimize?
+
+example matrix:
+
+x = obstacle
+```
+[  x   x    ]
+[ x     x   ]
+[    x    x ]
+[ x       x ]
+```
+# Post Interview
+
+After all the interviews are done the last interviewer will walk you out. The
+recruiter will gather all the notes from the interviewers and send them to be
+looked over by the hiring comittee. Different departments will get a chance to
+extend offers to you. The process can take about 1-2 weeks.
+
+# Tips
+
+1. Keep talking and explain what you are doing. If you are stuck they will often
+   give you a hint.
+2. Keep in touch with the recruiters. If you don't get an offer you can reapply
+   later through them. If you get to the onsite they said they normally do not
+   consider you again for a year.
+3. Wear something comfortable. The dress code is fairly lax for Software
+   Engineers.
+4. Draw up your solution and confirm with your interviewer about the different
+   inputs/outputs before writing code.
+5. Know the more common data structures and algorithms like the back of your
+   hand and be able to code them quickly.
