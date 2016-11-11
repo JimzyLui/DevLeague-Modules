@@ -73,6 +73,30 @@ The following are not rules, but suggestions based on previous successful final 
 - The project should be about something all groups
 - Avoid 'Hackathon' type projects. Must have depth, and must keep everyone in the group busy developing.
 
+## Additional Requirements
+
+#### Secure project site
+
+**use Let's Encrypt to get free SSL certificate**
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
+
+**test your SSL certs**
+https://www.ssllabs.com/ssltest/analyze.html
+
+#### Add Social Media sharing meta tags for
+
+**Facebook**
+https://developers.facebook.com/tools/debug/sharing/
+
+**Twitter**
+https://dev.twitter.com/cards/overview
+
+**Canva** helpful site for generating marketing assets for many social media sites.
+https://www.canva.com/
+
+**designapp** for creating icons and logos
+https://designapp.io/app
+
 ## Resources
 More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead the data exists as an excel spreadsheet somewhere on the web.
 
