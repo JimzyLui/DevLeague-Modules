@@ -16,6 +16,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
+- ByReference and ByValue [grok]
 - Linked Lists General [grok]
 - Linked Lists Methods [teach]
   - Create Node
@@ -29,6 +30,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
+1. Clarify if not already clear how object and array assignments to variables are by reference and what that means
 1. Introduce Linked Lists (whiteboard a Linked List)
 1. Present **Linked List** Slideshow: [Linked Lists Slideshow](https://github.com/devleague/slides-js-linked-lists)
 1. Assign **Linked List Generator**: [JS Linked Lists](https://github.com/devleague/js-linked-list)
@@ -38,6 +40,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 ## Acceptance
 - Students have all tests passing on their linked list implementation
+- Students can explain what ByReference and ByValue mean and illustrate it if asked
 - Students can whiteboard Linked List solution on the whiteboard and explain the following:
   - Create Node
   - Delete Node
