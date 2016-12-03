@@ -104,12 +104,18 @@ Students will have *one of three* levels of understanding about each topic upon 
   - Assign assignments:
     - [Secret Number Generator](https://github.com/devleague/Secret-Number-Generator)
     - [The Vault](https://github.com/devleague/The-Vault)
-    - [Foreclosure](https://github.com/devleague/foreclosure)
+    - [Foreclosure](https://github.com/devleague/foreclosure) _only when done, for Advanced students_
 
 1. Chrome Dev Tools - Debugging with Source Tab
   - Present **Chrome Dev Tools** slides: [Chrome Dev Tools](https://github.com/devleague/slides-debugging-in-browser)
+
+1. Pair Programming & Closures
   - Assign **Cash register** [Cash Register](https://github.com/devleague/Cash-Register)
     - notes: This project can span a few days.
+    - when announcing, discuss Pair Programming, Simple Single Git repo strategy, whiteboarding, and show finished examples.
+        - clone both, show finished product in this order
+        - [https://github.com/taylorak/Cash-Register](https://github.com/taylorak/Cash-Register)
+        - [https://github.com/SpaceToastCoastToCoast/Cash-Register](https://github.com/SpaceToastCoastToCoast/Cash-Register)
     - topics: closures, modules, adds complexity of browser environment.
 
 1. Context
