@@ -146,6 +146,13 @@ The following exercises and projects state an average time alotted. A session is
 - Completed Example: [http://TODO](http://TODO)
 - Concepts Practiced: *Defining ES5 Classes*, *Prototypical Inheritance*, *ES5 Instance Properties*, and *ES5 Instance Methods*
 
+#### Whiteboard Exercise: Prototypical Inheritance
+- Refer to `Whiteboard` directory for README.md
+- Average Time Alotted: 1 hour
+- Individual or Group: Group (2 to 3)
+- Completed Example: [http://TODO](http://TODO)
+- Concepts Practiced: *Defining ES5 Classes*, *Prototypical Inheritance*
+
 # Additional Resources
 
 #### OOP in Javascript
