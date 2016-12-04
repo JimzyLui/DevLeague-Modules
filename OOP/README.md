@@ -144,7 +144,8 @@ The following exercises and projects state an average time alotted. A session is
 - Average Time Alotted: 2 sessions
 - Individual or Group: Individual Exercise
 - Completed Example: [http://TODO](http://TODO)
-- Concepts Practiced: *Defining ES5 Classes*, *Prototypical Inheritance*, *ES5 Instance Properties*, and *ES5 Instance Methods*
+- Concepts Practiced: *Defining ES6 Classes*, *Prototypical Inheritance*, *ES6 Instance Properties*, and *ES6 Instance Methods*
+- Optional: `es5` branch for more practice if desired.
 
 #### Whiteboard Exercise: Prototypical Inheritance
 - Refer to `Whiteboard.md`
