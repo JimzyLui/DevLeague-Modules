@@ -149,11 +149,11 @@ These need to be added to the appropriate module or put into their own module
 - Dart Score Calculator https://gist.github.com/sgnl/14f6be6a48a198f33a3c
 - Reseating Challenge		https://github.com/devleague/Reposition-Challenge-1
 - Memoize Me https://gist.github.com/jaywon/a12b2b9848726e7d81f5
-- Pig Latin Translator https://gist.github.com/JoeKarlsson1/abbe66b00ee8540bf364
-- Christmas Day Challenge Holiday Code Challenge https://gist.github.com/JoeKarlsson1/27011b72338ff9aee901
+- Pig Latin Translator https://gist.github.com/JoeKarlsson/abbe66b00ee8540bf364
+- Christmas Day Challenge Holiday Code Challenge https://gist.github.com/JoeKarlsson/27011b72338ff9aee901
 - Getty Images Search Engine (XHR) https://gist.github.com/sgnl/71e584c28a04f0d36524
 - GettingImages API (XHR)		https://gist.github.com/sgnl/71e584c28a04f0d36524
-- Towers of Hanoi https://gist.github.com/JoeKarlsson1/195def24345aefb18fd7
+- Towers of Hanoi https://gist.github.com/JoeKarlsson/195def24345aefb18fd7
 - Broken Keyboard		https://github.com/devleague/Challenge-Broken-Keyboard
 - Circular String Detection	Week 1	https://gist.github.com/jaywon/c76abc57dc33e1679c02
 - Stack Trace	Week 2	https://gist.github.com/jaywon/5f572dadb66cc596c505
