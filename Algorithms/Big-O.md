@@ -73,7 +73,7 @@ function listReducer(arr) {
     return;
   }
   let newArr = [];
-  for( let i = 0; i < N-1; i++) {
+  for( let i = 0; i < N-2; i++) {
     newArr[i] = arr[i];
   }
   listReducer(newArr);
