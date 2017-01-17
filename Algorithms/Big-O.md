@@ -2,8 +2,9 @@
 
 analyze time complexity
 
-Write on the whiteboards, students analyze
+Write on the whiteboards, students analyze. The correct Big Theta run time is listed above each algorithm.
 
+O(N^2)
 ```javascript
 let size = 5;
 let cells = [];
@@ -13,6 +14,8 @@ for(let i = 0; i < size; i++){
   }
 }
 ```
+
+O(N^2)
 ```javascript
 let size = 100;
 let cells = [];
@@ -25,6 +28,7 @@ for(let i = 0; i < size; i++){
 }
 ```
 
+O(2^N)
 ```javascript
 let size = 5;
 function fork(i){
@@ -36,6 +40,7 @@ function fork(i){
 fork(0);
 ```
 
+O(N!)
 ```javascript
 let size = 5;
 function fork(i){
@@ -46,4 +51,41 @@ function fork(i){
   }
 }
 fork(1);
+```
+
+O(N * log(N))
+```javascript
+function getCount(N) {
+  let total = 0;
+  for (let i = 0; i < N;  i *= 2) {
+    for (let j = 0; j < i; j++) {
+      total++
+    }
+  }
+}
+```
+
+O(N * log(N))
+```javascript
+function listReducer(arr) {
+  let N = arr.length;
+  if (N === 0){
+    return;
+  }
+  let newArr = [];
+  for( let i = 0; i < N-1; i++) {
+    newArr[i] = arr[i];
+  }
+  listReducer(newArr);
+}
+```
+
+O(3^N)
+```javascript
+function loop(N) {
+  if(N < 0) {
+    return N;
+  }
+  return loop(N-1) + loop(N-2) + loop(N-3)
+}
 ```
