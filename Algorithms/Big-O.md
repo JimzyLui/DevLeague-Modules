@@ -4,6 +4,8 @@ analyze time complexity
 
 Write on the whiteboards, students analyze. The correct Big Theta run time is listed above each algorithm.
 
+_obviously, do not write the Big-O notation on the whiteboard, this is for instructor reference_
+
 O(N^2)
 ```javascript
 let size = 5;
