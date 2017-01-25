@@ -6,6 +6,8 @@ Write on the whiteboards, students analyze. The correct Big Theta run time is li
 
 _obviously, do not write the Big-O notation on the whiteboard, this is for instructor reference_
 
+For the `fork()` examples, it would help if students diagram out the forking tree on the whiteboard
+
 O(N^2)
 ```javascript
 let size = 5;
