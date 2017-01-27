@@ -56,3 +56,92 @@ GT - a "go-to" which will send the robot to a specific command in the code which
 
 Overall it was a pretty good experience!
 Let me know if you have any questions. :D
+
+Interview #1 Matt
+Matt first asked me two questions about what I had on my resume. The following questions were what he asked next:
+
+1. What is a class in object oriented programming?
+2. What are the advantages and disadvantages of class?
+
+Whiteboard question
+Matt gave me a picture of a calendar and asked me to create a function to create a calendar based on the appointments shown.
+
+Interview #2 Adam
+Adam was late to the interview by 15 minutes. Then it took another 5 minutes for him to fix his audio.
+
+Adam told me a little bit about himself stating he worked for Microsoft for 20+ years and currently works on Microsofts CRM. After a brief intro he gave me the whiteboard question due to time constraints
+
+1. Write a function that will output a boolean to determine if something is a triangle. He provided me with:
+
+function isTriangle(x, y, z){
+
+}
+
+# Leap Interview Process
+
+For the interview you have the option to either do it through skype or in
+person. I chose to do it through skype. They give you a list of times that are
+available and make you pick two consecutive hour long slots. You will interview
+with two Microsoft employees. My first interviewer worked on the LINQ client and
+my second interviewer was an engineering program manager.
+
+Make sure that you are able to skype with them and share your screen for writing
+code. During my interview I couldn't share my screen but luckily I was able to
+write code using notepad that my interviewer let me access remotely. I only
+ended up having 1 coding question so it wasn't too bad for me.
+
+My interviewers focused mainly on my resume and past jobs. I would recommend
+being able to describe in detail anything you have written down on your resume,
+including job responsibilities and technologies. I wont' include all these
+questions since they are kind of specific to me, but I'll write down a few.
+
+----------------
+
+### Interview 1
+
+My first interviewer worked on the LINQ team. He seemed like he had work to
+do so it felt kind of rushed. He really focused on my resume and asking me questions
+related to what technologies I listed and some of my past job responsibilities.
+
+1. Describe redis?
+2. What tools do you use for testing?
+3. What is a microservice?
+
+The only question that was not related to my resume was an easy coding question.
+
+1. Write a function that will print the indexes of a char in a char array. In a 2d char array?
+
+### Interview 2
+
+My second interviewer worked as a engineering lead. He also asked a lot of
+questions related to my resume.
+
+1. Tell me about a time you worked on a team?
+2. How was the team managed?
+3. Where there any instances where you had a difficult problem to overcome with
+your team?
+
+However he did have more technical questions that didn't involve my resume than my first interviewer.
+
+----------
+
+1. How would you implement a Uber MVP? What kind of features and technologies
+   would this include?
+2. How would you implement a bot for a library? What features would this
+   include?
+3. Several months after the library bot has been in use how would you use the
+   data it has collected to improve the bot?
+4. How would you determine if a linked list loops back to the beginning. What if
+   you had limited space? What if you wanted to improve runtime?
+5. Describe a queue and a stack to an 8 year old.
+
+---------
+
+Question(s):
+- How would you find the duplicate strings? The strings will be "a. a, a, b, b, c, c, d." The end result should be "a3, b2, c2, d1." (For this problem I had to write it on notepad.)
+- How would you create a search website for  vendor's that are selling the same type of dresses? (For this problem, she wanted me to draw it on my tablet.)
+
+My second interview they wanted to know my favorite project that I worked on in the past. Also, for the group projects how did we determine the roles for each person.
+
+Question:
+- How would you find a palindrome in an array? Ex. [a b, c, b, a]. Once you've completed the problem, he wanted me to talk it though by using different arrays.
