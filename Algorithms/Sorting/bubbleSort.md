@@ -7,10 +7,7 @@ The trick to remembering bubble sort is to visualize that your array is vertical
 1. Create a project and a repo for your Bubble Sort implementation. You probably want a README as well.
 2. Add Mocha/Chai to your project for writing your tests against your function.
 3. Write your tests __FIRST__ that will indicate that your sorting function works with multiple inputs.
-4. Implement a function that will take an input Array and apply the bubble sort algorithm to sort the input and return the number of moves that were necessary to sort the Array.
-
-###Extra
-Create a way for all Arrays to be able to use your bubble sort function as a method of the Array object.
+4. Implement a function that will take an input Array and apply the bubble sort algorithm to sort the input and return the sorted array.
 
 ###Super Extra
 Write a browser tool that will visually show the array and it's values as they are being sorted to see how the elements are moving in real time. It will be impossible to see things being sorted in real time, so you may need to tweak your function to make this work or find new ways of calling it.
