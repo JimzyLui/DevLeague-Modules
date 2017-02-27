@@ -103,3 +103,5 @@ The following exercises and projects state an average time alotted. A session is
 #### Big O Notation
 - Link: [Big O](https://en.wikipedia.org/wiki/Big_O#In_mathematics_and_computing)
 
+#### Illustrated Quicksort
+- Link: [Illustrated Quicksort](https://illustrated-algorithms.now.sh/quicksort)
