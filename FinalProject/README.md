@@ -118,6 +118,12 @@ Wow, you just built a tool for other developers to use while also creeating the 
 - [Norse Cyber Security Visualization](http://map.norsecorp.com/#/)
 
 ## Previous DevLeague Final Projects
+- [Oblik](https://oblik.us/#/)
+  - [Oblik Repo](https://github.com/OblikUs/)
+- [Spellcasters](https://spellcastersgame.com/#/)
+  - [Spellcasters Repo](https://github.com/SpaceToastCoastToCoast/spell-casters)
+- [FrenZone](https://github.com/frenZone)
+  - [FrenZone Repo](https://github.com/frenZone)
 - [Styles For Hue](http://stylesforhue.com/)
   - [Styles For Hue Repo](https://github.com/devleague/styles-for-hue)
 - [Omnimood](http://omnimood.com/)
