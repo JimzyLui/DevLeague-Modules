@@ -11,9 +11,12 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 1. Welcome/Intro/Orientation (Lecture)
   1. Student Intros, Instructor Intros (whiteboard)
-    1. What's your name?
-    1. What do you want to get out of the bootcamp?
+    1. What's your name? (and what do you want to be called)
     1. Where are your from?
+    1. What programming / engineering experience do you have?
+    1. What do you want to get out of the bootcamp?
+        - desired outcome
+        - job ? at what kind of company
 
 1. Guidelines for success
   - Self-teaching
