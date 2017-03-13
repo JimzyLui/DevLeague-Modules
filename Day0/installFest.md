@@ -62,7 +62,7 @@ Press `i` to go into insert mode to make changes.
 When ready to save and exit, press `ESC` to leave Insert Mode and go back to Command Mode. Now you can move around again with the movement keys.
 
 ### Useful plugins
-With the `.zshrc` file still open in `vi`, find the line with the code `plugins` and change it to look like the line below, order doesn't matter:
+With the `.zshrc` file still open in `vim`, find the line with the code `plugins` and change it to look like the line below, order doesn't matter:
 
 `plugins=(osx git npm brew github node sublime)`
 
