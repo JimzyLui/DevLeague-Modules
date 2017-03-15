@@ -26,7 +26,7 @@ If you have Sublime Text 2 installed, then remove it and install 3. Version 3 is
 ### [Package Control for Sublime Text](https://packagecontrol.io/installation)
 Package control is a Package Manager used to manage Sublime Text Plugins.
 
-### [Installing a Javascript Linter](https://gist.github.com/sgnl/04fa7063183e7777e079)
+### [Installing Javascript Linting system](https://gist.github.com/sgnl/7f00f56db83749c47388e0c1ac62aa17)
 
 ### [Suggested configuration for Sublime Text](https://gist.github.com/sgnl/0b0c5db79b16105c5fb5)
 
