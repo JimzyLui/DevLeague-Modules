@@ -49,6 +49,13 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Students should **fully grok** never commiting sensitive data.
 - Students should **know about** rotateing security keys.
 
+#### Web Security
+- Students should **grok** importance and purpose of `https`.
+- Students should **know about** [LetsEncrypt](https://letsencrypt.org/about/) and the mission to encrypt anything and everything.
+- Students should **know** how to set up LetsEncrypt certification to secure their servers.
+- Students should **know** what a cron job is, and how to use it.
+- Students should **know about** `http/2` and its involvment with security.
+
 # Suggested Format of Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
