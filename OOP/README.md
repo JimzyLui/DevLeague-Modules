@@ -100,9 +100,10 @@ The following format is meant to be a guideline for effective delivery. Instruct
         - *Recommend: Whiteboard an "Animal Kingdom" example.*
 1. Present **ES6 OOP** Slideshow: [http://slides.com/theremix/es6-oop](http://slides.com/theremix/es6-oop)
 1. Assign **Kingdom of OOP**: [https://github.com/devleague/Kingdom-of-OOP](https://github.com/devleague/Kingdom-of-OOP)
+1. Assign **JS Zombies**: [https://github.com/DevLeague/js-zombies](https://github.com/DevLeague/js-zombies)
+1. Checkin with students understanding of OOP by whiteboarding OOP problems: [https://github.com/devleague/DevLeague-Modules/blob/master/OOP/Whiteboard.md]
 1. Present **Prototypes in Javascript**: [http://slides.com/jasonsewell/prototypes-in-javascript](http://slides.com/jasonsewell/prototypes-in-javascript) @Jon - this was added in.
 1. Assign **JS Constructors**: [https://github.com/DevLeague/js-constructors](https://github.com/DevLeague/js-constructors)
-1. Assign **JS Zombies**: [https://github.com/DevLeague/js-zombies](https://github.com/DevLeague/js-zombies)
 1. Present **Multiple Inheritence**: [Multiple Inheritence Slides](http://slides.com/joecarlson/multiple-inheritance#/)
 1. Assign **Technophile**: [Technophile](https://github.com/devleague/Technophile)
 1. Check in with students and their understanding of **Constructors**, **Inheritence**, and **Super calls** (talk)
