@@ -8,6 +8,8 @@ Flexbox - https://github.com/devleague/Fun-with-FlexBox
 
 Block Family - https://gist.github.com/sgnl/95ce8a08f83640c8e96b56a59977ea62
 
+Build Layout with CSS and Flexbox. Gulp as build tool: https://github.com/devleague/StarFox-Travel-Agency
+
 https://github.com/devleague/fastenate
 
 https://github.com/devleague/rebirth-of-reddit
