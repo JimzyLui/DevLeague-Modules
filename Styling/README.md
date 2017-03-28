@@ -4,7 +4,9 @@ CSS - http://slides.com/joecarlson/css-yes#/
 
 SCSS - http://slides.com/nigelearle/sass#/
 
-Flexbox - https://github.com/devleague/Fun-with-FlexBox
+Slides http://slides.com/sgnl/flexbox/
+ - http://kellishouts.github.io/css-properties/
+ - Exercise - https://github.com/devleague/Fun-with-FlexBox
 
 Block Family - https://gist.github.com/sgnl/95ce8a08f83640c8e96b56a59977ea62
 
