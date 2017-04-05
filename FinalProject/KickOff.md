@@ -43,3 +43,9 @@ Part Time - 6pm, 6pm, 9am, 12:30pm, 6pm
 
 Standups should be conducted in a classroom, Instructors will be able to offer guidance and mentorship.
 
+## Code Reviews
+
+Every PR needs to have at least one other team member perform a solid code review before Approving and Accepting the PR.
+
+Team members may request a code review from an instructor, assign the instructor in the PR, and @message the instructor in your Slack channel with the link to the PR.
+
