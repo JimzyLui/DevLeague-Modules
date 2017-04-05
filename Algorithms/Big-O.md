@@ -21,14 +21,12 @@ for(let i = 0; i < size; i++){
 
 O(N^2)
 ```javascript
-let size = 100;
-let cells = [];
-for(let i = 0; i < size; i++){
-  let row = [];
-  for(let j = 0; j < size; j++){
-    row.push( { x:i, y:j } );
+function foo(arr) {
+  for (var i = 0; i < arr.length; i++) {
+    for (var j = i; j < arr.length; j++) {
+      console.log(arr[j])
+    }
   }
-  cells.push(row);
 }
 ```
 
