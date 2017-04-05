@@ -57,7 +57,7 @@ function fork(i){
 fork(1);
 ```
 
-O(N * log(N))
+O(N^2))
 ```javascript
 function getCount(N) {
   let total = 0;
