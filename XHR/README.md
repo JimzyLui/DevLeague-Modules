@@ -58,24 +58,29 @@ The following format is meant to be a guideline for effective delivery. Instruct
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
 #### The Async-Force Series
+
+**The-Async-Force-Ep-1**
 - Repository: [The-Async-Force-Ep-1](https://github.com/devleague/The-Async-Force-Ep-1)
 - Average Time Alotted: `TBD`
 - Individual or Group: `TBD`
 - Completed Example: `TBD`
 - Concepts Practiced: *XHR*, *JS*, *Frontend*
 
+**The-Async-Force-Ep-2**
 - Repository: [The-Async-Force-Ep-2](https://github.com/devleague/The-Async-Force-Ep-2)
 - Average Time Alotted: `TBD`
 - Individual or Group: `TBD`
 - Completed Example: `TBD`
 - Concepts Practiced: *XHR*, *JS*, *Frontend*
 
+**The-Async-Force-Ep-3**
 - 🚧 Repository: [The-Async-Force-Ep-3](https://github.com/devleague/The-Async-Force-Ep-3)
 - Average Time Alotted: `TBD`
 - Individual or Group: `TBD`
 - Completed Example: `TBD`
 - Concepts Practiced: *XHR*, *JS*, *Frontend*
 
+**The-Async-Force-Ep-4**
 - 🚧 Repository: [The-Async-Force-Ep-4](https://github.com/devleague/The-Async-Force-Ep-4)
 - Average Time Alotted: `TBD`
 - Individual or Group: `TBD`
