@@ -57,7 +57,30 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
-- https://github.com/devleague/xhr-chat-server
+#### The Async-Force Series
+- Repository: [The-Async-Force-Ep-1](https://github.com/devleague/The-Async-Force-Ep-1)
+- Average Time Alotted: `TBD`
+- Individual or Group: `TBD`
+- Completed Example: `TBD`
+- Concepts Practiced: *XHR*, *JS*, *Frontend*
+
+- Repository: [The-Async-Force-Ep-2](https://github.com/devleague/The-Async-Force-Ep-2)
+- Average Time Alotted: `TBD`
+- Individual or Group: `TBD`
+- Completed Example: `TBD`
+- Concepts Practiced: *XHR*, *JS*, *Frontend*
+
+- 🚧 Repository: [The-Async-Force-Ep-3](https://github.com/devleague/The-Async-Force-Ep-3)
+- Average Time Alotted: `TBD`
+- Individual or Group: `TBD`
+- Completed Example: `TBD`
+- Concepts Practiced: *XHR*, *JS*, *Frontend*
+
+- 🚧 Repository: [The-Async-Force-Ep-4](https://github.com/devleague/The-Async-Force-Ep-4)
+- Average Time Alotted: `TBD`
+- Individual or Group: `TBD`
+- Completed Example: `TBD`
+- Concepts Practiced: *XHR*, *JS*, *Frontend*
 
 #### Rebirth of Reddit
 - Repository: [Rebirth of Reddit](https://github.com/devleague/rebirth-of-reddit)
@@ -82,7 +105,7 @@ The following exercises and projects state an average time alotted. A session is
 - Concepts Practiced: *XHR*, *SCSS*, *Frontend*
 - Notes: This is optional after completeing Rebirth of Reddit - it more of a practice using SCSS
 
-#### XHR Chat Server
+#### XHR Chat Server (🚧 refactoring)
 - Repository: [XHR Chat Server](https://github.com/devleague/xhr-chat-server)
 - Average Time Alotted: 3 sessions
 - Individual or Group: Pair Programming Exercise
