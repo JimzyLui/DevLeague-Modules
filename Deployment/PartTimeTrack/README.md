@@ -1,6 +1,6 @@
 # Deployment
 
-Chunked out version of the [DevLeague Deployment](https://github.com/devleague/DevLeague-Modules/blob/master/Deployment/README.md) lecture for part-time cohorts spread across 4 weeks instead of one full day.
+Chunked out version of the [DevLeague Deployment](https://github.com/devleague/DevLeague-Modules/blob/master/Deployment/README.md) lecture for part-time cohorts spread across 3 weeks instead of one full day. A fourth week (Saturday) may be needed.
 
 This non-finalized module represents a new approach to teaching DevOps specifically molded for part-time cohort's schedule and style of learning. Will allow easier absorption through repetition and practice over many days.
 
@@ -8,16 +8,38 @@ This non-finalized module represents a new approach to teaching DevOps specifica
 
 Will be taught during final project season (last month of part-time cohorts) for 3.5 hours (in the morning) every Saturday. With a total of 14 hours (compared to 9 for full-time)
 
-
 ## Topics and Expected Outcomes
 
 Reflects original full-time development expectations.
 
 # Suggested Format for Delivery
 
-_subject to change -- Last Updated: 26 Sept. 2016_
+_subject to change -- Last Updated: 11 April 2017_
 
 Number of days can be shorted depending on speed of instructor delivery and retention of material by students. It is required that students knows basic desired outcomes.
+
+The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
+
+1. **Day One**
+  1. Discuss the role of servers in web application architecture
+  1. What is DevOps?
+  1. What is deployment?
+  1. What happens when a user visits google.com?
+  1. Talk on linux security
+  1. Linux security, users (root and creation)
+  1. Linux security, File permissions
+  1. Linux security, User Group ownership
+  1. Ports
+  1. Talk on network security
+1. **Day Two**
+  1. Create admin user
+  1. ssh keys
+  1. Deploy static site
+  1. Deploy node app
+1. **Day Three**
+  1. Talk on automation
+  1. Talk on high availability
+  1. Deploy your app!
 
 ## Day One
 
@@ -49,6 +71,19 @@ Should take about 60 to 90 minutes to cover a general idea.
 1. SSH keys
 1. Nginx
   - Refer to super basic [nginx config](https://github.com/devleague/Basic-VPS-Deployment-Resources/blob/master/node-app/single.conf)
+
+### DNS Resolutions
+1. What happens when you visit www.google.com
+  - Give to students [link](https://github.com/alex/what-happens-when) about what happens.
+1. DNS Resolutions/server
+1. Use Google DNS instead! `8.8.8.8` and `8.8.4.4`.
+1. Server codes [link](https://gist.github.com/sgnl/11084b28e28a18ee6a64)
+1. Server ports [link](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+1. Purchasing domains (should be discussed briefly on day one)
+1. Top Level Domains (TLD)
+1. DNS Records
+
+1. Setup DNS Records
 
 ### Exercise/Examples:
 1. Get students onboard SoftCoreOS
@@ -84,42 +119,25 @@ Make sure that students remember/understand topics talked about the previous ses
 1. Run and test
 1. Install `pm2`
 
-
 ## Day Three
 
-DNS settings and setting your app free into the internet wilderness.
-
-### Quick Talk:
-1. What happens when you visit www.google.com
-  - Give to students [link](https://github.com/alex/what-happens-when) about what happens.
-1. DNS Resolutions/server
-1. Use Google DNS instead! `8.8.8.8` and `8.8.4.4`.
-1. Server codes [link](https://gist.github.com/sgnl/11084b28e28a18ee6a64)
-1. Server ports [link](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-1. Purchasing domains (should be discussed briefly on day one)
-1. Top Level Domains (TLD)
-1. DNS Records
-1. Basic Firewalls
-  - UFW [link](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
-  - IPtables [link](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
-
-### Exercise/Examples:
-1. Setup DNS Records
-1. Parking domains on a server
-1. Floating IPs
-
-## Day Four
-
-Talk about crazy stuff and support students on deploying projects
+High-level talk on Automation and High Availability.
 
 ### Talk:
 1. Automation
   - Continuous Integration and Continuous Deliver concepts
+  - Github Hooks
   - Tests
   - Deployments
-- High Availability.
+1. High Availability.
   - Round Robin
+1. Floating IPs
 
 # Additional Resources
 
 [Basic VPS Deployment Resources](https://github.com/devleague/Basic-VPS-Deployment-Resources)
+
+#### Firewalls
+
+- UFW [link](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+- IPtables [link](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
