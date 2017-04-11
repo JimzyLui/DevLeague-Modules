@@ -152,7 +152,6 @@ These need to be added to the appropriate module or put into their own module
 - Pig Latin Translator https://gist.github.com/JoeKarlsson/abbe66b00ee8540bf364
 - Christmas Day Challenge Holiday Code Challenge https://gist.github.com/JoeKarlsson/27011b72338ff9aee901
 - Getty Images Search Engine (XHR) https://gist.github.com/sgnl/71e584c28a04f0d36524
-- GettingImages API (XHR)		https://gist.github.com/sgnl/71e584c28a04f0d36524
 - Towers of Hanoi https://gist.github.com/JoeKarlsson/195def24345aefb18fd7
 - Broken Keyboard		https://github.com/devleague/Challenge-Broken-Keyboard
 - Circular String Detection	Week 1	https://gist.github.com/jaywon/c76abc57dc33e1679c02
@@ -170,7 +169,7 @@ These need to be added to the appropriate module or put into their own module
 - Stream Minifier		https://gist.github.com/jaywon/f5c38602d02ea654276b
 - Project Planning		https://gist.github.com/jaywon/d69eb6306c129bf5c5ea
 - Sorting algorithms		https://gist.github.com/theRemix/cbb16c60ee16144b3a53
-- 5-Day Forecast		https://gist.github.com/sgnl/bba0abc3f3ef925dfc38
+- 5-Day Forecast		https://gist.github.com/JoeKarlsson/3c19e428264d384bde87da07456649e5
 
 ##### Ideas for slides or Modules
 - Cookies
