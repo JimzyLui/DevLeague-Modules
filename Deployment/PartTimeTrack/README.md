@@ -20,7 +20,7 @@ Number of days can be shorted depending on speed of instructor delivery and rete
 
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
-1. **Day One**
+### Day One
   - Discuss the role of servers in web application architecture
   - What is DevOps?
   - What is deployment?
@@ -31,12 +31,12 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - Linux security, User Group ownership
   - Ports
   - Talk on network security
-1. **Day Two**
+### Day Two
   - Create admin user
   - ssh keys
   - Deploy static site
   - Deploy node app
-1. **Day Three**
+### Day Three
   - Talk on automation
   - Talk on high availability
   - Talk on firewalls
