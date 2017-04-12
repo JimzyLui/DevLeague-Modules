@@ -21,25 +21,26 @@ Number of days can be shorted depending on speed of instructor delivery and rete
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
 1. **Day One**
-  1. Discuss the role of servers in web application architecture
-  1. What is DevOps?
-  1. What is deployment?
-  1. What happens when a user visits google.com?
-  1. Talk on linux security
-  1. Linux security, users (root and creation)
-  1. Linux security, File permissions
-  1. Linux security, User Group ownership
-  1. Ports
-  1. Talk on network security
+  - Discuss the role of servers in web application architecture
+  - What is DevOps?
+  - What is deployment?
+  - What happens when a user visits google.com?
+  - Talk on linux security
+  - Linux security, users (root and creation)
+  - Linux security, File permissions
+  - Linux security, User Group ownership
+  - Ports
+  - Talk on network security
 1. **Day Two**
-  1. Create admin user
-  1. ssh keys
-  1. Deploy static site
-  1. Deploy node app
+  - Create admin user
+  - ssh keys
+  - Deploy static site
+  - Deploy node app
 1. **Day Three**
-  1. Talk on automation
-  1. Talk on high availability
-  1. Deploy your app!
+  - Talk on automation
+  - Talk on high availability
+  - Talk on firewalls
+  - Deploy your app!
 
 ## Day One
 
@@ -133,11 +134,12 @@ High-level talk on Automation and High Availability.
   - Round Robin
 1. Floating IPs
 
-# Additional Resources
-
-[Basic VPS Deployment Resources](https://github.com/devleague/Basic-VPS-Deployment-Resources)
-
 #### Firewalls
 
 - UFW [link](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
 - IPtables [link](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
+
+# Additional Resources
+
+[Basic VPS Deployment Resources](https://github.com/devleague/Basic-VPS-Deployment-Resources)
+
