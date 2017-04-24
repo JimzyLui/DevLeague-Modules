@@ -2,7 +2,7 @@
 
 Designing your own APIs.
 
-[Authenticating and accessing external APIs.](/APIs/External-APis)
+[Authenticating and accessing external APIs.](/APIs/External-APis.md)
 
 ## Pre-Requisites
 This material should come after **Server Side Node** and **Databases**. Students should already be familiar with **Server Side Rendering** and **XHR**.
