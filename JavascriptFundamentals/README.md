@@ -218,6 +218,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Hoisting
 
 #### Closures
+- [Closures as a Princess Story](https://gist.github.com/sgnl/9a168d695373f09f64d5dee7d985bd99)
 - [You Don't Know JS - Closures and Scope](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/)
 
 #### Module Pattern
