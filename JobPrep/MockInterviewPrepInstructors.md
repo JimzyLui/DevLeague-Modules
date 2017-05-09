@@ -143,6 +143,20 @@ Did the student ask any follow up questions - this is an important step in order
 * What are you looking for in a candidate?
 * Next Steps?
 
+## Super Light Interview Primer
+Always two interviewers per interview. Interviewers will have questions prepared before
+either together or standalone. Throughout the interview make note of the question asked
+and more importantly the answers given. At the very end, after the questions and whiteboard challenge and final "questions for us (for interviewers)", call "SCENE" and give feedback to the interviewee, e.g. How good the answers given were, any corrections/improvemments that should be made (wrong terms used, etc).
+
+1. Start with Culture questions
+1. Work experience questions
+1. Code Challenge
+1. "Any questions for us?" (interviewers will assume the role of the company and answer questions as such. Make note of the Interviewees questions for feedback)
+1. Thank you and close interview
+1. Give interviewee feedback
+
+Interviews are one hour long, ideally the first 10 - 15 minutes are for questions. 40 minutes for coding challenge (+/- 10 mins). 5 mins for "questions for us", 10 mins for user feedback.
+
 ## Resources
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 * [Programming Interviews Exposed: Secrets to Landing Your Next Job ](http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
