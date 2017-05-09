@@ -83,7 +83,9 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 **test your SSL certs**
 https://www.ssllabs.com/ssltest/analyze.html
 
-#### Add Social Media sharing meta tags for
+#### Unfurling
+
+https://medium.com/slack-developer-blog/everything-you-ever-wanted-to-know-about-unfurling-but-were-afraid-to-ask-or-how-to-make-your-e64b4bb9254
 
 **Facebook**
 https://developers.facebook.com/tools/debug/sharing/
