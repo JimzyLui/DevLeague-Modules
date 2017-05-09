@@ -304,3 +304,6 @@ extend offers to you. The process can take about 1-2 weeks.
    inputs/outputs before writing code.
 5. Know the more common data structures and algorithms like the back of your
    hand and be able to code them quickly.
+   
+## Additional Resources
+- [Google Interview questions via GlassDoor](https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm)
