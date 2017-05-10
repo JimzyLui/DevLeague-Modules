@@ -40,7 +40,7 @@ In order to help coach students on their answers to soft questions - ask them ab
 * Where do you predict the industry will be in three years?
 * Could you describe your dream job?
 * What project or acheivement that you are proud of?
-* What would you like me to know about you that isn't on yoru resume?
+* What would you like me to know about you that isn't on your resume?
 * Why should I hire you?
 * You seem to be making a big career change, why is that?
 * What is your greatest weakness?
