@@ -58,7 +58,7 @@ In order to help coach students on their answers to soft questions - ask them ab
 
 ## Technical Interview
 
-In order to gauge their technical skills - have them whiteboard a technical challenege that they have never solved before. Interviews are supposed to be di cult If they don’t get every – or any – answer immediately, that’s ok!  Take note of the following while they are solving the problem:
+In order to gauge their technical skills - have them whiteboard a technical challenege that they have never solved before. Interviews are supposed to be difficult If they don’t get every – or any – answer immediately, that’s ok!  Take note of the following while they are solving the problem:
 
 ### Five Steps to a Technical Questions
 
