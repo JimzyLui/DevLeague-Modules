@@ -83,50 +83,43 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Students should **grok** this data structure and be able to communicate its features.
 
 # Suggested Format for Delivery
+
 1. Intro Hoisting (half-day)
-  - Present **js-basics** slides: [JS Basics](https://github.com/devleague/js-basics)
-    - Note: Decouple hoisting from js-basic slides.
-
+    - Present **js-basics** slides: [JS Basics](https://github.com/devleague/js-basics)
+        - Note: Decouple hoisting from js-basic slides.
 1. Functions
-  - Assign **JS Functions**: [JS Functions](https://github.com/devleague/js-functions)
-
+    - Assign **JS Functions**: [JS Functions](https://github.com/devleague/js-functions)
 1. Strict Mode
-  - Present **Strict Mode** slides: [Strict Mode](http://slides.com/theremix/strict-mode)\
-
+    - Present **Strict Mode** slides: [Strict Mode](http://slides.com/theremix/strict-mode)\
 1. Arrays (sans functional-methods)
-  - Present **JS Arrays** slides: [JS Arrays](https://github.com/devleague/slides-js-arrays)
-  - Assign **Array Methods**: [Array Methods](https://github.com/devleague/array-methods)
-
-1. Closures and Module Pattern
-  - Present **Closures** slides [Closures](https://github.com/devleague/slides-js-closures)
-  - Present **Revealing Module Pattern** slides [Revealing Module Pattern](https://github.com/devleague/slides-js-objects-module-patterns)
-  - Assign [JS Calcualtor](https://github.com/devleague/js-calculator)
-  - Assign assignments:
-    - [Secret Number Generator](https://github.com/devleague/Secret-Number-Generator)
-    - [The Vault](https://github.com/devleague/The-Vault)
-    - [Foreclosure](https://github.com/devleague/foreclosure) _only when done, for Advanced students_
-
+    - Present **JS Arrays** slides: [JS Arrays](https://github.com/devleague/slides-js-arrays)
+    - Assign **Array Methods**: [Array Methods](https://github.com/devleague/array-methods)
+1. Module Pattern
+    - Present **Revealing Module Pattern** slides [Revealing Module Pattern](https://github.com/devleague/slides-js-objects-module-patterns)
+    - Assign [JS Calcualtor](https://github.com/devleague/js-calculator)
+1. Closures
+    - Present **Closures** slides [Closures](https://github.com/devleague/slides-js-closures)
+    - Assign assignments:
+        - [Secret Number Generator](https://github.com/devleague/Secret-Number-Generator)
+        - [The Vault](https://github.com/devleague/The-Vault)
+        - [Foreclosure](https://github.com/devleague/foreclosure) _only when done, for Advanced students_
 1. Chrome Dev Tools - Debugging with Source Tab
-  - Present **Chrome Dev Tools** slides: [Chrome Dev Tools](https://github.com/devleague/slides-debugging-in-browser)
-
+    - Present **Chrome Dev Tools** slides: [Chrome Dev Tools](https://github.com/devleague/slides-debugging-in-browser)
 1. Pair Programming & Closures
-  - Assign **Cash register** [Cash Register](https://github.com/devleague/Cash-Register)
-    - notes: This project can span a few days.
-    - when announcing, discuss Pair Programming, Simple Single Git repo strategy, whiteboarding, and show finished examples.
-        - clone both, show finished product in this order
-        - [https://github.com/taylorak/Cash-Register](https://github.com/taylorak/Cash-Register)
-        - [https://github.com/SpaceToastCoastToCoast/Cash-Register](https://github.com/SpaceToastCoastToCoast/Cash-Register)
-    - topics: closures, modules, adds complexity of browser environment.
-
+    - Assign **Cash register** [Cash Register](https://github.com/devleague/Cash-Register)
+        - notes: This project can span a few days.
+        - when announcing, discuss Pair Programming, Simple Single Git repo strategy, whiteboarding, and show finished examples.
+            - clone both, show finished product in this order
+            - [https://github.com/taylorak/Cash-Register](https://github.com/taylorak/Cash-Register)
+            - [https://github.com/SpaceToastCoastToCoast/Cash-Register](https://github.com/SpaceToastCoastToCoast/Cash-Register)
+        - topics: closures, modules, adds complexity of browser environment.
 1. Context
-  - Present **Context** slides: [Context](https://github.com/devleague/slides-js-this)
-
+    - Present **Context** slides: [Context](https://github.com/devleague/slides-js-this)
 1. Call, apply, bind
-  - Present **Call, Apply, Bind** slides: [JS Call, Apply, Bind](https://github.com/devleague/slides-js-call-apply-bind)
-  - Assign **Context Exercise**: [Context Exercise](https://github.com/devleague/Context-Exercise) (needs more work)
-
+    - Present **Call, Apply, Bind** slides: [JS Call, Apply, Bind](https://github.com/devleague/slides-js-call-apply-bind)
+    - Assign **Context Exercise**: [Context Exercise](https://github.com/devleague/Context-Exercise) (needs more work)
 1. Linked Lists
-  - See [Linked Lists Module](https://github.com/devleague/DevLeague-Modules/tree/master/Algorithms/LinkedLists) for slides and assignments.
+    - See [Linked Lists Module](https://github.com/devleague/DevLeague-Modules/tree/master/Algorithms/LinkedLists) for slides and assignments.
 
 # Slides & Examples
 
