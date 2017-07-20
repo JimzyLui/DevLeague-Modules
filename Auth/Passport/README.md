@@ -41,6 +41,34 @@ This could be a good time to discuss express router, and show how to mount `/pri
 
 Create a `GET /login` route to render a login form, and demonstrate authentication working.
 
+#### Flow Details
+
+1. initialize the passport middleware
+1. initialize the session middleware
+1. configure localstrategy
+1. configure serializeUser
+1. configure deserializeUser
+1. add `POST /login` route, successRedirect, failureRedirect
+1. write `isAuthenticated` middleware
+
+When user authenticates `POST /login`
+
+```
+POST /login
+  ↳ LocalStrategy config, callbacks done()
+    ↳ serializeUser() store the user id in session
+      ↳ successRedirect()
+```
+
+When user returns to private route and has session
+
+```
+GET /private (has isAuthenticated middleware)
+  ↳ isAuthenticated() middleware, next()
+    ↳ deserializeUser() grab the user object based on the user.id from session
+      ↳ route has req.user
+```
+
 ### Highlights
 
 Students are often confused with the flow of passport. Instructor may need to go through the flow a couple times, however, students are usually still confused before and after implementing it, so instructors need to go through the flow using the students' implementation.
