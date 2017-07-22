@@ -56,3 +56,40 @@ _from the `man ln` command_
 _from the `man launchctl` command_
 
 >launchctl interfaces with launchd to manage and inspect daemons, angents and XPC services.
+
+# Install Postgres for Ubunutu
+Link: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04~
+
+Ubuntu Installation Process:
+
+```
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib
+```
+Once that is complete run the command: psql
+
+You will see an error. Read the error, what is it saying?
+
+It says that the "...role [yourusername] doesn't exist" so we will create one with the needed permissions.
+
+enter the command: `$ sudo -u postgres -c 'psql'` this should log you into the postgres server.
+
+To create a user, enter this command and replace `yourusername` with your username from the error message previous: `CREATE ROLE yourusername WITH LOGIN CREATEDB CREATEDB`
+
+enter: `\q` to exit out
+
+You should be able to run the command `psql` now and have permissions to create/modify/delete databases and roles.
+
+## Ubuntu TLDR;
+
+`$ sudo su - postgresql`
+
+`$ createuser --interactive`
+
+(enter your machine username at the first prompt and y at the second)
+
+`$ createdb yourusername`
+
+`$ exit`
+
+`$ psql` //This will allow you to be able to run this psql command as your user and connect to Postgres
