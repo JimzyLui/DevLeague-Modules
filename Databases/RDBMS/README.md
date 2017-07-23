@@ -41,7 +41,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Introduce Database Normalization
     1. [Whiteboard transferance of denormalized data to normalized](#Whiteboard-Denormalized-to-Normalized)
 1. Assign **Denormal Automotives**: [https://github.com/devleague/Denormal-Automotives](https://github.com/devleague/Denormal-Automotives)
-1. Whiteboard UML diagrams in small groups
+1. Whiteboard UML diagrams in small groups. [Whiteboard Exercise](https://github.com/devleague/DevLeague-Modules/blob/master/Databases/RDBMS/WBE-relationships.md)
 1. Assign **Has Many Relationships**: [https://github.com/devleague/Has-Many-Relationships](https://github.com/devleague/Has-Many-Relationships)
 1. Assign **SQL Blog Post** (morning exercise?): [https://gist.github.com/jaywon/80b3ceb78c2791c30950](https://gist.github.com/jaywon/80b3ceb78c2791c30950)
 1. Check in on students, understanding of normalization, common SQL commands, UML diagrams
