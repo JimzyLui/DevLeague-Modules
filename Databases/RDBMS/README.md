@@ -6,10 +6,10 @@ This material should come after **server-side frameworks (express)** and before 
 This material usually takes 1 day to introduce and 2.5 days of exercise and reinforcement.
 ## Topics & Expected Outcomes
 #### Levels of Understanding
-Students will have *one of three* levels of understanding about each topic upon completion of this module.  
-- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.  
-- **explain**: understand enough about the topic to describe concepts without referring to notes.  
-- **know about**: understand enough to look up further documentation when asked about the subject. 
+Students will have *one of three* levels of understanding about each topic upon completion of this module.
+- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.
+- **explain**: understand enough about the topic to describe concepts without referring to notes.
+- **know about**: understand enough to look up further documentation when asked about the subject.
 
 ---
 
@@ -35,9 +35,11 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Present **SQL Slides**: [https://github.com/devleague/slides-sql](https://github.com/devleague/slides-sql)
 1. Install **PostgreSQL**: [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 1. Assign **SELECT todo FROM list**: [https://github.com/devleague/SELECT-todo-FROM-list](https://github.com/devleague/SELECT-todo-FROM-list)
+1. Introduce Indexing
+    1. [Whiteboard how index works using js-like concepts](#Whiteboard-Indexing)
 1. Assign **Automotive Index**: [https://github.com/devleague/Automotive-Index](https://github.com/devleague/Automotive-Index)
 1. Introduce Database Normalization
-    1. Whiteboard transferance of denormalized data to normalized
+    1. [Whiteboard transferance of denormalized data to normalized](#Whiteboard-Denormalized-to-Normalized)
 1. Assign **Denormal Automotives**: [https://github.com/devleague/Denormal-Automotives](https://github.com/devleague/Denormal-Automotives)
 1. Whiteboard UML diagrams in small groups
 1. Assign **Has Many Relationships**: [https://github.com/devleague/Has-Many-Relationships](https://github.com/devleague/Has-Many-Relationships)
@@ -69,7 +71,7 @@ The following exercises and projects state an average time alotted. A session is
 - Average Time Alotted: 2 sessions
 - Individual or Group: Individual Exercise
 - Completed Example: [#](https://google.com)
-- Concepts Practiced: *PostgreSQL shell commands, Create database and user, Basic SQL queries -- select, insert, update, alter* 
+- Concepts Practiced: *PostgreSQL shell commands, Create database and user, Basic SQL queries -- select, insert, update, alter*
 
 #### Automotive-Index
 - Repository: [https://github.com/devleague/Automotive-Index](https://github.com/devleague/Automotive-Index)
@@ -91,6 +93,22 @@ The following exercises and projects state an average time alotted. A session is
 - Individual or Group: Individual Exercise
 - Completed Example: [#](https://google.com)
 - Concepts Practiced: *Relationships between tables(one-to-many, many-to-many etc.), Setting foriegn key on relational table, JOIN statements*
+
+## Whiteboard Indexing
+
+Describe how indexing would work illustrated as an unindexed set of data, array of objects.
+
+Explain the concept of indexing.
+
+Then create a separate object to track "indexed" columns in the array of objects, and demonstrate what a query on a table with indexed columns would look like using the "index".
+
+
+## Whiteboard Denormalized to Normalized
+
+Have a large whiteboard of a table of duplicated values.
+
+Step by step, interactively create related tables to normalize the single table into multiple relations.
+
 
 # Additional Resources
 
@@ -127,5 +145,5 @@ The following exercises and projects state an average time alotted. A session is
 **PostgreSQL Community-driven list**
 - [wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
 
-#### External Exercises
+## External Exercises
 - https://pgexercises.com/
