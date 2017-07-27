@@ -31,7 +31,7 @@ Students should also know:
 
 Stand up a basic express app with body-parser, and session middleware.
 [Passport.js livecode boilerplate repo](https://github.com/devleague/learn-passport)
-[livecode solution](https://gist.github.com/mentalgrinds/ec6ab68a60597e2bc582580e3be1cf3c.js)
+[livecode solution](https://gist.github.com/mentalgrinds/ec6ab68a60597e2bc582580e3be1cf3c)
 
 Express server should have at least 2 endpoints to start with, `GET /public` and `GET /private`
 
