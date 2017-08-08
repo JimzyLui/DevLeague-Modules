@@ -17,11 +17,17 @@ Students will have *one of three* levels of understanding about each topic upon 
 ---
 
 #### NoSQL Databases
-- Students should **fully grok** NoSQL databases
+- Students should **fully grok** what NoSQL databases are
 - Students should **fully grok** the difference between NoSql and RDBMS's.
+- Students should be able to explain the different NoSql stores
+    - document store
+        - schema-less documents in collections
+    - key-value store
+    - graph database
+    - wide-column store
 
 #### MongoDB
-- Students should explain how to start the MongoDB server locally and get into the MongoDB shell
+- Students should be able to explain how to start the MongoDB server locally and get into the MongoDB shell
 - Students should understand databases, collections and documents in MongoDB
 - Students should understand the core concepts of MongoDB
     - ObjectID
@@ -33,11 +39,13 @@ Students will have *one of three* levels of understanding about each topic upon 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructions can present material in another way if it is more effective for the students.
 
-1. Introduce NoSQL vs Relational Databases(white board)
+1. Introduce NoSQL vs Relational Databases
 1. Present **NoSQL** Slide Deck: [https://github.com/devleague/slides-nosql](https://github.com/devleague/slides-nosql)
-1. Assign **MongoDB practice**: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
+1. Assign [MongoDB practice](./MongoDbPractice.md)
+    - can alternatively run your own practice via repl
 1. Check in on students - assign small groups and whiteboard differences between NoSQL and Relational databases to one another
-1. Refactor **PixelPainter** assignment by adding NoSQL database using Mongoose
+1. _DEPRECATED_ Refactor **PixelPainter** assignment by adding NoSQL database using Mongoose
+1. Assign [Express Gallery Photo Metadata Exercise](./Express-Gallery-Photo-Metadata-Exercise.md)
 1. Verify
 
 # Slides & Examples
@@ -51,10 +59,17 @@ The following format is meant to be a guideline for effective delivery. Instruct
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
 #### MongoDB Practice
-- Gist: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
-- Average Time Alotted: 3 sessions
-- Completed Example: [#](http://google.com)
+- Readme: [MongoDB practice](./MongoDbPractice.md)
+- Average Time Alotted: 1 sessions
+- Completed Example: _none_
 - Concepts Practice: *MongoDB Dynamic Queries*
+
+#### MongoDB Express Gallery Photo Metadata Exercise
+- Readme: [Express Gallery Photo Metadata Exercise](./Express-Gallery-Photo-Metadata-Exercise.md)
+- Average Time Alotted: 2 sessions
+- Completed Example:  see > cohort 18
+    - [C18/Jon](https://github.com/johnwangel/express-gallery/tree/mongo)
+- Concepts Practice: *MongoDB*, *Modules*, *async*
 
 # Additional Resources
 
