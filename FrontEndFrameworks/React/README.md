@@ -24,7 +24,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Students should be able to **grok** what a "SPAs" is.
 
 #### React
-- Students should be able to **explain** "React," adn the types of projects it's useful for.
+- Students should be able to **explain** "React," and the types of projects it's useful for.
 
 #### React Components
 - Students should be able to **explain** "React Components."
@@ -85,7 +85,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     1. Start with the fundamentals of React and how to [think in React](https://facebook.github.io/react/docs/thinking-in-react.html).
         - *Recommend: Whiteboard an example of a building a sample React app and it's respective components*
 1. Present **Intro to React** Slideshow: [React Docs](https://facebook.github.io/react/)
-1. Live Code **Simple React Project** Live Code Demo: [React Demo](https://github.com/devleague/react_redux_demo/tree/master/1-Simple_Setup)
+1. Alternative Live Code **Simple React Project** Live Code Demo: [React Demo](https://github.com/devleague/react_redux_demo/tree/master/1-Simple_Setup)
 1. Assign **React Kanban**: [React Kanban](https://github.com/devleague/React-Kanban)
 1. Live Code **Refactor App and Intro to Webpack** Live Code Demo: [Refactor app and integrate Webpack](https://github.com/devleague/react_redux_demo/tree/master/2-Webpack_Refactor)
 1. Live Code **React Router** Live Code Demo: [React Router](https://github.com/devleague/react_redux_demo/tree/master/3-Router)
