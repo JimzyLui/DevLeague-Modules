@@ -86,6 +86,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 1. Intro Hoisting (half-day)
     - Present **js-basics** slides: [JS Basics](https://github.com/devleague/js-basics)
+        - Whiteboard exercises: [Exercises](https://github.com/devleague/DevLeague-Modules/blob/hoisting-whiteboarding/JavascriptFundamentals/whiteboard-hoisting.md)
         - Note: Decouple hoisting from js-basic slides.
 1. Functions
     - Assign **JS Functions**: [JS Functions](https://github.com/devleague/js-functions)
