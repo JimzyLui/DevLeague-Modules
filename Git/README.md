@@ -58,6 +58,10 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Check in with students and their understanding of **Git**, and **Git Workflows**(talk)
 1. Verify that students have met the minimum required understanding before moving on.
 
+## Git Branching Practice
+
+Distribute this resource : [http://learngitbranching.js.org](http://learngitbranching.js.org/)
+
 ## Additional Resources
 
 #### Comparing Git Workflows
