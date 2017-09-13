@@ -6,7 +6,7 @@ Setup
 1. clone your new github project
 1. change directory into ngReddit
 1. grab the starter kit source files from @preboot
-    - `git remote add preboot_origin https://github.com/preboot/angular-webpack.git`
+    - `git remote add preboot_origin https://github.com/preboot/angularjs-webpack.git`
     - `git fetch preboot_origin`
     - ```git checkout `git log preboot_origin/master | head -n 1 | awk '{print $2}'` .```
 1. commit
