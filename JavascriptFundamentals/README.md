@@ -178,6 +178,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 #### Chrome Dev Tools - Source Tab
 - Link: [https://github.com/devleague/slides-debugging-in-browser](https://github.com/devleague/slides-debugging-in-browser)
 - Type: **Slideshow**
+- Link: [Debugging Video from the Chrome Dev Team](https://www.youtube.com/watch?v=Xb_0awoShR8)
 - Time needed to present: 1 hour 30 minutes
 
 #### Cash Register exercise
