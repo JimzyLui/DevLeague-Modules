@@ -16,6 +16,14 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
+#### Personal Security
+- Students should **know** the function of DNS in the context of security.
+- Students should **know** how to set their DNS to Google DNS or OpenDNS.
+- Students should **know** what firewalls are.
+- Students should **know** how to block ports from firewalls.
+- Students should **know** about private browsing and what a VPN is.
+- Students should **grok** the importance of encryption and https.
+
 #### Application Security
 - Students should **fully grok** security in their application.
 - Students should **fully grok** dealing with sensitive data.
@@ -59,6 +67,26 @@ Students will have *one of three* levels of understanding about each topic upon 
 # Suggested Format of Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
+1. Introduce Security as it relates to personal protection.
+    - Explain why DNS is important and how it can be used in several attacks.
+        - explain dns poisoning / spoofing
+        - phishing
+        - mitm
+        - session hijacking
+    - Demonstrate, and have all students set their DNS to Google or OpenDNS.
+    - Explain what firewalls are and what they do to protect your computer.
+        - While explaining, perform an nmap scan on the local network.
+        - `time nmap -Pn 10.0.1.0/24` _make sure you set the correct address range_
+    - Demonstrate, and have all students enable firewall.
+        - After enabling firewalls, perform an nmap scan again on the local network.
+        - `time nmap -Pn 10.0.1.0/24` _this should show that the OS still allows some ports in_
+    - Explain what VPNs do, how they protect you (privacy) and how they don't protect you (local network)
+        - Demonstrate IP (and maybe DNS) before and after enabling a VPN.
+    - Explain the role of encryption and https while being a normal user or developer.
+        - Demonstrate reading traffic on unencrypted channelss using Wireshark.
+            - `tcp.port == 80`
+            - go to unencrypted site
+            - right click, export as, .gif, .jpg etc
 1. Introduce Security as it relates to web application development.
     - Crypto Hash functions
         - Hash function which takes an input (or 'message') and returns a fixed-size alphanumeric string, which is called the hash value
