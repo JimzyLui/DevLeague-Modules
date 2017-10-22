@@ -91,9 +91,9 @@ Make sure that students remember/understand topics talked about the previous ses
     - Practice [VIM Adventures](https://vim-adventures.com/)
 1. Linux package managers `apt-get`
 1. Nginx
-  - Refer to super basic [nginx config](https://github.com/devleague/Basic-VPS-Deployment-Resources/blob/master/node-app/single.conf)
+    - Refer to super basic [nginx config](https://github.com/devleague/Basic-VPS-Deployment-Resources/blob/master/static/static.conf)
 1. Communicating with servers
-  - curl/scp
+    - curl/scp
 
 ### Exercise/Examples:
 1. Install `nginx`.
