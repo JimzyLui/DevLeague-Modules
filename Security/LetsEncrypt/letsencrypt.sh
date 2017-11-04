@@ -1,19 +1,22 @@
-# as super user after pointing domain to server. ref: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+# Installing Lets Encrypt
+## ref: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+
+## follow each line one-by-one replace [[site.com]] to whats needed
+## ATTENTION: DO NOT COPY/PASTE ANY OF THESE COMMANDS
+##            USE THESE LINES AS REFERENCE
+
 cd /usr/local/sbin
 wget https://dl.eff.org/certbot-auto
 chmod a+x /usr/local/sbin/certbot-auto
 certbot-auto certonly -a webroot --webroot-path=/usr/share/nginx/html -d [[site.com]] -d www.[[site.com]]
 openssl dhparam -out /etc/ssl/certs/dhparam.pem 2048
 
-# as super user, edit the nginx config for the site you just set up
-vim /etc/nginx/conf.d/[[site.com]].conf
-# when editing the file, just follow all the directions to comment and uncomment TLS-related config
+#####
+# Setup Cron for Autorenewal
 
-service nginx restart
-
-# set up auto-cert-renewal
+## Open cron
 crontab -e
 
-## within the crontab
+## Set cron to run every monday morning at 2am and reload nginx
 30 2 * * 1 /usr/local/sbin/certbot-auto renew >> /var/log/le-renew.log
 35 2 * * 1 /etc/init.d/nginx reload
