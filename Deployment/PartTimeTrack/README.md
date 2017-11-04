@@ -123,19 +123,26 @@ Deploying a node project and running it _forever_
 
 Make sure that students remember/understand topics talked about the previous session. Students should be able to answer questions pertaining to what was talked about such as basic server terminogloy and such.
 
+1. Git deployments
 1. Nginx Reverse Proxy
 1. Daemons
 
 ### Exercise/Examples:
 
 1. Build Counter API Node App locally
-  - `api/counter`
-  - `api/counter/increment`
-  - `api/counter/decrement`
-1. Install Fest:
-  - `npm`, `n`
-1. Run and test
-1. Install `pm2`
+    - `/api/counter`
+    - `/api/counter/increment`
+    - `/api/counter/decrement`
+1. On GitHub
+    - Push Counter API into a git repository
+    - Create a deploy key for servers to pull from a git repo
+1. Pull git repository into server
+1. Install Node and NPM
+1. Using [n](https://github.com/tj/n)
+1. Nginx
+    - Create a proxy pass to nginx process
+1. Node Proccess Manager: `pm2`
+1. Use `git` to do continous deployments for the future
 
 ## Day Four
 
