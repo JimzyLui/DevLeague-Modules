@@ -103,8 +103,15 @@ Make sure that students remember/understand topics talked about the previous ses
 Sample `index.html`:
 
 ```html
-<h1>Hello World!</h1>
-<img src="url-to-link.com/awesomeimage.jpeg">
+<html>
+  <head>
+    <title>My Awesome Site</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <img src="url-to-link.com/awesomeimage.jpeg">
+  </body>
+</html>
 ```
 
 ## Day Three
