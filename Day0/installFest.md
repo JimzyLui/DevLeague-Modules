@@ -20,15 +20,8 @@ sudo n stable
 sudo npm i -g npm
 ```
 
-## [Sublime Text 3](http://www.sublimetext.com/3)
+## [VS Code](https://code.visualstudio.com/)
 If you have Sublime Text 2 installed, then remove it and install 3. Version 3 is still free and has many helpful packages that Version 2 does not.
-
-### [Package Control for Sublime Text](https://packagecontrol.io/installation)
-Package control is a Package Manager used to manage Sublime Text Plugins.
-
-### [Installing a Javascript Linter](https://gist.github.com/sgnl/04fa7063183e7777e079)
-
-### [Suggested configuration for Sublime Text](https://gist.github.com/sgnl/0b0c5db79b16105c5fb5)
 
 ====
 
@@ -64,7 +57,7 @@ When ready to save and exit, press `ESC` to leave Insert Mode and go back to Com
 ### Useful plugins
 With the `.zshrc` file still open in `vim`, find the line with the code `plugins` and change it to look like the line below, order doesn't matter:
 
-`plugins=(osx git npm brew github node sublime)`
+`plugins=(osx git npm brew github node)`
 
 ### Enabling some helpful aliases
 find the code near the bottom of the `.zshrc` file:
