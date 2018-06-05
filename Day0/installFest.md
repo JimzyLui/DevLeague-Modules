@@ -21,7 +21,7 @@ sudo npm i -g npm
 ```
 
 ## [VS Code](https://code.visualstudio.com/)
-If you have Sublime Text 2 installed, then remove it and install 3. Version 3 is still free and has many helpful packages that Version 2 does not.
+First install VS Code!
 
 ====
 
