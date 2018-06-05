@@ -22,6 +22,7 @@ sudo npm i -g npm
 
 ## [VS Code](https://code.visualstudio.com/)
 First install VS Code!
+Install the `code` command: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
 
 ====
 
@@ -44,7 +45,7 @@ First install VS Code!
 Now VIM will be your default editor in the command-line!
 
 **Opening your zsh configuration file**
-`vim ~/.zshrc`
+`code ~/.zshrc`
 
 **Moving around in vim**
 Move your cursor down with the `J` key and `L` to move right. (also, `H` is left, and `K` is Up). **YOUR MOUSE WILL NOT WORK**
