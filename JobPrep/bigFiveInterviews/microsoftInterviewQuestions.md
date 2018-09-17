@@ -147,4 +147,4 @@ Question:
 - How would you find a palindrome in an array? Ex. [a b, c, b, a]. Once you've completed the problem, he wanted me to talk it though by using different arrays.
 
 ## Additional Resources
-- [Microsoft Interview questions via GlassDoor](https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm)
+- [Microsoft Interview questions via GlassDoor](https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm)
