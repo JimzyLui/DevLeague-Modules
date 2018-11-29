@@ -21,10 +21,17 @@ sudo npm i -g npm
 ```
 
 ## [VS Code](https://code.visualstudio.com/)
-First install VS Code!
-Install the `code` command: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
+First install VS Code!  
+Install the `code` command: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line  
 
-====
+Once VS Code is installed, 
+- Go to the Settings panel
+- Look for "Editor: Tab Size"
+- Set this value to "2"
+- Click on the "Editor: Detect Indentation" click in the instructions for "Editor: Tab Size"
+- Disable "Detect Indentation"
+
+===
 
 ## Install [Oh-My-ZSH Shell](http://ohmyz.sh/)
 
