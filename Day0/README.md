@@ -66,7 +66,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Learning
     - Knowing
     - Groking
-  - Good Note-Taking is Searchable, use Evernote, OneNote, Visual Studio Code, Dash, etc.
+  - Good Note-Taking is Searchable, use Evernote, OneNote, Visual Studio Code, BoostNote, etc.
 
 * Set Up Tools (Setup/Live Coding)
   - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md)
