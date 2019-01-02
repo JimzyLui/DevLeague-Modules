@@ -75,6 +75,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Discuss the [DevLeague JavaScript Style Guide](https://github.com/devleague/JS-Style-Guide)
   - Terminal, iTerm, Bash, zShell
   - Setup Medium.com Accounts and blogs
+  - Setup Free tier AWS account: [here](https://github.com/devleague/DevLeague-Modules/blob/day0-typos/Day0/aws-free-tier-signup.md)
   - git, github, ssh keys
 1. Present **Javascript Basics** Slideshow: [js-basics](https://slides.com/theremix/js-basics)
 1. Assign **js-basics**: [js-basics](https://github.com/devleague/js-basics)
