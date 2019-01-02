@@ -10,7 +10,7 @@ This material usually takes 1 full day to introduce. We will spend the whole fir
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
 1. Welcome/Intro/Orientation (Lecture)
-  1. Student Intros, Instructor Intros (whiteboard)
+  1. Student Intros, Instructor Intros (whiteboard)  
     1. What's your name? (and what do you want to be called)
     1. Where are your from?
     1. What programming / engineering experience do you have?
@@ -24,10 +24,10 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - Take care of yourself
     - Eat healthy foods
     - Get plenty of sleep
-    - Excercise
+    - Exercise
   - Respect the facilities
     - Be mindful of noise - we have neighbors
-    - No alocohol
+    - No alcohol
   - Immersion
   - No Drama
   - No romantic relationships during the course of the class
@@ -66,12 +66,12 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Learning
     - Knowing
     - Groking
-  - Good Note-Taking is Searchable, use Evernote, OneNote, SublimeText, Dash, etc.
+  - Good Note-Taking is Searchable, use Evernote, OneNote, Visual Studio Code, Dash, etc.
 
 1. Set Up Tools (Setup/Live Coding)
   - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md)
   - Chrome
-  - SublimeText, JSHint
+  - Visual Studio Code
     - Discuss the [DevLeague JavaScript Style Guide](https://github.com/devleague/JS-Style-Guide)
   - Terminal, iTerm, Bash, zShell
   - Setup Medium.com Accounts and blogs
