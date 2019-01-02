@@ -15,8 +15,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
     * Where are your from?
     * What programming / engineering experience do you have?
     * What do you want to get out of the bootcamp?
-      * desired outcome
-      * job ? at what kind of company
+      * desired outcome?
+      * job? at what kind of company?
 
 * Guidelines for success
   - Self-teaching
