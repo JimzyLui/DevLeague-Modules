@@ -1,95 +1,101 @@
 # Install Fest
+
 If you have already installed any of these programs before, then you may skip it.
 
-## [iTerm2](http://iterm2.com/) **osx only**
-- Ubuntu/Linux flavors can use instead use the Terminal application that comes installed.
+## Install [iTerm2](http://iterm2.com/) **osx only**
 
-## [Homebrew](http://brew.sh/#install) **osx only**
+- Ubuntu/Linux flavors can use the Terminal application that comes installed.
 
-## Install Node through Homebrew
-**OSX**
-1. run the command `brew install nodejs` (this will give us the NPM command which we will use later in this doc)
+## Install [VS Code](https://code.visualstudio.com/)
 
-**Ubuntu/Linux**
+1. Click above link to install VS Code.
+2. **osx users only:** Install the `code` command: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
 
-```bash
-sudo apt-get -y update
-sudo apt-get -y install nodejs npm
-sudo npm i -g n
-sudo n stable
-sudo npm i -g npm
-```
+Once VS Code is installed:
 
-## [VS Code](https://code.visualstudio.com/)
-First install VS Code!  
-Install the `code` command: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line  
-
-Once VS Code is installed, 
-- Go to the Settings panel
-- Look for "Editor: Tab Size"
-- Set this value to "2"
-- Click on the "Editor: Detect Indentation" click in the instructions for "Editor: Tab Size"
-- Disable "Detect Indentation"
-
-===
+1. Go to `Preferences` > `Settings`
+2. Search for `"Editor: Tab Size"` and change it's value to `2`
+3. Search for `"Editor: Detect Indentation"` click in the instructions for `"Editor: Tab Size"`, then disable `"Detect Indentation"`
 
 ## Install [Oh-My-ZSH Shell](http://ohmyz.sh/)
 
 - **OSX:** follow the instructions in the via curl tab
 - **Linux:** follow the instructions in the via curl tab
+  - Linux: If you get the error `"You need to install zsh first!"`, run the command `sudo apt install zsh`, then run the oh-my-zsh command.
 
-### Change your theme to `pygmalion`
+## Install Node with [NVM](https://github.com/creationix/nvm)
 
-**Install VIM editor**
-- **OSX**: Follow these instructions
-  - `brew install vim`
+1. Click the NVM link above and copy and paste the `install script` in your terminal
+2. Quit and restart terminal
+3. Verify NVM installation, run command: `command -v nvm`.
+   - The output should say `nvm`. If the output says `command not found`, see solution here: [NVM Docs](https://github.com/creationix/nvm)
+4. Install node, run command: `nvm install --lts`
+5. Verify node installation, run command: `node -v`
+   - The output should say the version of node installed. Example: `v10.15.0`
 
-- **Ubuntu:** Follow these instructions
+## Install [Homebrew](http://brew.sh/#install) **osx only**
+
+- Click above link for installation instructions.
+
+## Install VIM editor
+
+### OSX
+
+- Run command: `brew install vim`
+
+### Ubuntu
+
+- Run the following commands:
   - `sudo apt-get -y update`
   - `sudo apt-get install vim`
   - `sudo update-alternatives --config editor` then select the number that references: `/usr/bin/vim`
 
 Now VIM will be your default editor in the command-line!
 
-**Opening your zsh configuration file**
-`code ~/.zshrc`
+## Change your zsh theme to `pygmalion`
 
-**Moving around in vim**
-Move your cursor down with the `J` key and `L` to move right. (also, `H` is left, and `K` is Up). **YOUR MOUSE WILL NOT WORK**
+#### Opening your zsh configuration file
 
-In your `.zshrc` file, using the movement keys the line with the code `ZSH_THEME` and change it to `ZSH_THEME="pygmalion"`
+- VS Code, run command: `code ~/.zshrc`
+- Vim, run command: `vim ~/.zshrc`
 
-Press `i` to go into insert mode to make changes.
-When ready to save and exit, press `ESC` to leave Insert Mode and go back to Command Mode. Now you can move around again with the movement keys.
+In your `.zshrc` file look for the `ZSH_THEME=""` line and change it to `ZSH_THEME="pygmalion"`
+
+#### Moving around in vim
+
+- **YOUR MOUSE WILL NOT WORK**
+- **Press the following keys to move your cursor:**
+  - Down with the `J` key
+  - Up with the `K` key
+  - Right with the `L` key
+  - Left with the `H` key
+
+Press `i` to go into `INSERT` mode to make changes.
+When ready to save and exit, press `ESC` to leave `INSERT` mode and go back to Command mode. Now you can move around again with the movement keys. Press `:wq` to save and quit file.
 
 ### Useful plugins
-With the `.zshrc` file still open in `vim`, find the line with the code `plugins` and change it to look like the line below, order doesn't matter:
+
+With the `.zshrc` file still open in `vim` or `code`, find the line with the code `plugins` and change it to look like the line below, order doesn't matter:
 
 `plugins=(osx git npm brew github node)`
+**Linux:** You don't need `osx` and `brew`
 
 ### Enabling some helpful aliases
-find the code near the bottom of the `.zshrc` file:
+
+Find the code near the bottom of the `.zshrc` file and delete the `#` symbol and the space after it. Should now look like:
 
 ```
   # Example aliases
-  # alias zshconfig="subl ~/.zshrc"
-  # alias ohmyzsh="subl ~/.oh-my-zsh"
+  alias zshconfig="code ~/.zshrc"
+  alias ohmyzsh="code ~/.oh-my-zsh"
 ```
 
-change to (remove the `#` and space after it; this a code comment in the `bash` language):
-
-```
-  # Example aliases
-  alias zshconfig="subl ~/.zshrc"
-  alias ohmyzsh="subl ~/.oh-my-zsh"
-```
-
-### Save and reload your configuration
-While in Command Mode (press `ESC` key a few times to make sure you are in Command Mode), press the `:` key then type `wq` and hit <kbd>Enter</kdb>. You have now saved and exited  the `vi` program.
+#### Save and reload your configuration
 
 Type the command: `source ~/.zshrc` into your terminal to reload the configuration file.
 
-### Notes
+#### Notes
+
 **Ubuntu/Linux: ** if you get errors like this:
 
 ```
