@@ -9,27 +9,27 @@ This material usually takes 1 full day to introduce. We will spend the whole fir
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
 
-1. Welcome/Intro/Orientation (Lecture)
-  1. Student Intros, Instructor Intros (whiteboard)
-    1. What's your name? (and what do you want to be called)
-    1. Where are your from?
-    1. What programming / engineering experience do you have?
-    1. What do you want to get out of the bootcamp?
-        - desired outcome
-        - job ? at what kind of company
+* Welcome - Intro - Orientation (Lecture)
+  * Student Intros, Instructor Intros (whiteboard)  
+    * What's your name? (and what do you want to be called)
+    * Where are you from?
+    * What programming / engineering experience do you have?
+    * What do you want to get out of the bootcamp?
+      * Desired outcome?
+      * Job? at what kind of company?
 
-1. Guidelines for success
+* Guidelines for success
   - Self-teaching
   - Ask questions / discussion
   - Take care of yourself
     - Eat healthy foods
     - Get plenty of sleep
-    - Excercise
+    - Exercise
   - Respect the facilities
     - Be mindful of noise - we have neighbors
-    - No alocohol
+    - No alcohol
   - Immersion
-  - No Drama
+  - No drama
   - No romantic relationships during the course of the class
   - Come to Jason or Russell if there are any grievances
   - Take care of yourself
@@ -38,7 +38,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - Do not compare yourself to others
   - Have fun
 
-1. [Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+* [Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
   1. Understand and accept that you will make mistakes.
   1. You are not your code.
   1. No matter how much "karate" you know, someone else will always know more.
@@ -47,10 +47,10 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. The only constant in the world is change.
   1. The only true authority stems from knowledge, not from position.
   1. Fight for what you believe, but gracefully accept defeat.
-  1. Don't be "the guy in the room."
-  1. Critique code instead of people
+  1. Don't be "the guy in the room".
+  1. Critique code instead of people.
 
-1. Content Overview
+* Content Overview
   - Format of Course (Daily Schedule)
     * 9:00am - 10:00am - Morning Challenge
     * 10:00am - 10:30am - Standup/D20
@@ -66,15 +66,16 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Learning
     - Knowing
     - Groking
-  - Good Note-Taking is Searchable, use Evernote, OneNote, SublimeText, Dash, etc.
+  - Good Note-Taking is Searchable, use Evernote, OneNote, Visual Studio Code, BoostNote, etc.
 
-1. Set Up Tools (Setup/Live Coding)
+* Set Up Tools (Setup/Live Coding)
   - [Install Fest](https://github.com/devleague/DevLeague-Modules/blob/master/Day0/installFest.md)
   - Chrome
-  - SublimeText, JSHint
+  - Visual Studio Code
     - Discuss the [DevLeague JavaScript Style Guide](https://github.com/devleague/JS-Style-Guide)
   - Terminal, iTerm, Bash, zShell
-  - Setup Medium.com Accounts and blogs
+  - Setup medium.com account for blogging
+  - Setup free tier AWS account: [here](https://github.com/devleague/DevLeague-Modules/blob/day0-typos/Day0/aws-free-tier-signup.md)
   - git, github, ssh keys
 1. Present **Javascript Basics** Slideshow: [js-basics](https://slides.com/theremix/js-basics)
 1. Assign **js-basics**: [js-basics](https://github.com/devleague/js-basics)
