@@ -47,7 +47,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. The only constant in the world is change.
   1. The only true authority stems from knowledge, not from position.
   1. Fight for what you believe, but gracefully accept defeat.
-  1. Don't be "the guy in the room."
+  1. Don't be "the guy in the room".
   1. Critique code instead of people.
 
 * Content Overview
