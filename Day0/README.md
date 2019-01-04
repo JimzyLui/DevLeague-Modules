@@ -12,11 +12,11 @@ The following format is meant to be a guideline for effective delivery. Instruct
 * Welcome - Intro - Orientation (Lecture)
   * Student Intros, Instructor Intros (whiteboard)  
     * What's your name? (and what do you want to be called)
-    * Where are your from?
+    * Where are you from?
     * What programming / engineering experience do you have?
     * What do you want to get out of the bootcamp?
-      * desired outcome?
-      * job? at what kind of company?
+      * Desired outcome?
+      * Job? at what kind of company?
 
 * Guidelines for success
   - Self-teaching
@@ -29,7 +29,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
     - Be mindful of noise - we have neighbors
     - No alcohol
   - Immersion
-  - No Drama
+  - No drama
   - No romantic relationships during the course of the class
   - Come to Jason or Russell if there are any grievances
   - Take care of yourself
@@ -48,7 +48,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   1. The only true authority stems from knowledge, not from position.
   1. Fight for what you believe, but gracefully accept defeat.
   1. Don't be "the guy in the room."
-  1. Critique code instead of people
+  1. Critique code instead of people.
 
 * Content Overview
   - Format of Course (Daily Schedule)
@@ -74,7 +74,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
   - Visual Studio Code
     - Discuss the [DevLeague JavaScript Style Guide](https://github.com/devleague/JS-Style-Guide)
   - Terminal, iTerm, Bash, zShell
-  - Setup Medium.com Accounts and blogs
+  - Setup Medium.com account for blogging
   - Setup Free tier AWS account: [here](https://github.com/devleague/DevLeague-Modules/blob/day0-typos/Day0/aws-free-tier-signup.md)
   - git, github, ssh keys
 1. Present **Javascript Basics** Slideshow: [js-basics](https://slides.com/theremix/js-basics)
