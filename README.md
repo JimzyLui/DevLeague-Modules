@@ -143,6 +143,7 @@ These need to be added to the appropriate module or put into their own module
 - Algorithm Challenge	Js-Calculator	https://github.com/devleague/js-calculator
 - Algorithm Challenge	Js-Linked-List	https://github.com/devleague/js-linked-list
 - Algorithm Challenge	Bookseller	http://jsbin.com/bajesayola/1/edit?js,output
+- Algortihm Challenge Matrix Generator  https://github.com/devleague/Challenge-Matrix-Generator
 - Palindromic Number Generator https://gist.github.com/sgnl/db8a16af1747ba8f4217
 - Bowling Score Calculator https://gist.github.com/sgnl/08e477d597e0b6b8b0b3
 - Multidimensional Array Search https://gist.github.com/sgnl/fa528cb66198d48c47a8
@@ -158,7 +159,6 @@ These need to be added to the appropriate module or put into their own module
 - Stack Trace	Week 2	https://gist.github.com/jaywon/5f572dadb66cc596c505
 - Email Hell		https://gist.github.com/jaywon/77c024346887fe7c3f37
 - Project Setup Quickfire		https://gist.github.com/jaywon/670e4912024f8bdd1ff9
-- Matrix Generator		https://gist.github.com/jaywon/7df674a8b3e76693ab20
 - Recursive Factorial	Week3	https://gist.github.com/jaywon/26125d42bb8ede20411a
 - Reflector https://gist.github.com/jaywon/129cf3f0775d0e6babfa
 - Factory Pattern		https://gist.github.com/jaywon/f5b81c2bd68d35f49bad
