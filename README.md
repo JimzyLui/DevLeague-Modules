@@ -144,8 +144,8 @@ These need to be added to the appropriate module or put into their own module
 - Algorithm Challenge	Js-Linked-List	https://github.com/devleague/js-linked-list
 - Algorithm Challenge	Bookseller	http://jsbin.com/bajesayola/1/edit?js,output
 - Algortihm Challenge Matrix Generator  https://github.com/devleague/Challenge-Matrix-Generator
+- Algorithm Challenge Palindromic Number Generator https://github.com/devleague/Challenge-Palindromic-Number-Generator
 - Challenge Express Debugging https://github.com/devleague/challenge-express-debugging
-- Palindromic Number Generator https://gist.github.com/sgnl/db8a16af1747ba8f4217
 - Bowling Score Calculator https://gist.github.com/sgnl/08e477d597e0b6b8b0b3
 - Multidimensional Array Search https://gist.github.com/sgnl/fa528cb66198d48c47a8
 - Dart Score Calculator https://gist.github.com/sgnl/14f6be6a48a198f33a3c
