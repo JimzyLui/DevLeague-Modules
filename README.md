@@ -148,6 +148,7 @@ These need to be added to the appropriate module or put into their own module
 - Algorithm Challenge Multidimensional Array Search https://github.com/devleague/Challenge-Multidimensional-Array-Search
 - Challenge Express Debugging https://github.com/devleague/challenge-express-debugging
 - Challenge Throwing Darts https://github.com/devleague/Challenge-Throwing-Darts
+- Challenge Scale Balance https://github.com/devleague/Challenge-Scale-Balance
 - Bowling Score Calculator https://gist.github.com/sgnl/08e477d597e0b6b8b0b3
 - Reseating Challenge		https://github.com/devleague/Reposition-Challenge-1
 - Memoize Me https://gist.github.com/jaywon/a12b2b9848726e7d81f5
