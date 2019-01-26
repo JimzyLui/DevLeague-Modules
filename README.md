@@ -147,8 +147,8 @@ These need to be added to the appropriate module or put into their own module
 - Algorithm Challenge Palindromic Number Generator https://github.com/devleague/Challenge-Palindromic-Number-Generator
 - Algorithm Challenge Multidimensional Array Search https://github.com/devleague/Challenge-Multidimensional-Array-Search
 - Challenge Express Debugging https://github.com/devleague/challenge-express-debugging
+- Challenge Throwing Darts https://github.com/devleague/Challenge-Throwing-Darts
 - Bowling Score Calculator https://gist.github.com/sgnl/08e477d597e0b6b8b0b3
-- Dart Score Calculator https://gist.github.com/sgnl/14f6be6a48a198f33a3c
 - Reseating Challenge		https://github.com/devleague/Reposition-Challenge-1
 - Memoize Me https://gist.github.com/jaywon/a12b2b9848726e7d81f5
 - Pig Latin Translator https://gist.github.com/JoeKarlsson/abbe66b00ee8540bf364
