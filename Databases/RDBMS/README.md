@@ -23,7 +23,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 - Students should understand the benefits and disadvantages of indexing
 
 #### Relationships
-- Students should grok UML diagrams
+- Students should grok ERD diagrams
 - Students should understand normalizing database tables
     - 3 - 4 forms of database normalization
 - Students should understand `one to one`, `one to many`, `many to many` and `many to one` relationships
@@ -116,6 +116,8 @@ Step by step, interactively create related tables to normalize the single table 
 - Link: [https://en.wikipedia.org/wiki/Relational_database_management_system](https://en.wikipedia.org/wiki/Relational_database_management_system)
 - Concepts: RDBMS history and explanation
 - Notes: High level overview of RDBMS's
+- ERD Diagrams: https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+- ERD Notations: https://www.vertabelo.com/blog/technical-articles/crow-s-foot-notation
 
 #### PostgreSQL
 - Link: [https://www.postgresql.org/](https://www.postgresql.org/)
